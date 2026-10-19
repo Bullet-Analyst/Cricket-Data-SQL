@@ -1,0 +1,1046 @@
+match_id,match_date,stadium_name,team_1,team_2,toss_winner,toss_decision,match_winner,win_margin,player_of_match,umpire_1,umpire_2,first_innings_score,second_innings_score,first_innings_wickets,second_innings_wickets,attendance,weather_conditions,pitch_type,match_duration_mins
+M_6041_166,12/29/2020,Newlands,Australia,Pakistan,Australia,Fielding,Australia,115 runs,Player_9,Simon Taufel,Richard Kettleborough,349,313,2,0,,Cloudy,Flat,382
+M_2370_319,3/23/2019,Lord's,New Zealand,West Indies,West Indies,Fielding,West Indies,48,Player_107,Marais Erasmus,Simon Taufel,331,332,3,7,53473,,Green,387
+M_1547_607,5/10/2018,SuperSport Park,AUSTRALIA,Pakistan,AUSTRALIA,Batting,AUSTRALIA,23 runs,Player_298,Ian Gould,Ian Gould,283,284,10,5,50095,,Green,266
+M_5583_29,9/5/2018,,INDIA,Bangladesh,INDIA,Field,INDIA,15 runs,Player_190,Aleem Dar,Aleem Dar,169,142,8,6,81983,Rainy,Dry,337
+M_1696_429,7/12/2021,Gabba,England,South Africa,South Africa, BATTING,England,70,Player_208,Ian Gould,,252,221,0,4,,Sunny,Flat,-20
+M_3077_861,6/24/2018,Newlands,Afghanistan,Bangladesh,Afghanistan,Bat,Afghanistan,87,Player_280,Marais Erasmus,,384,346,2,3,25885,Rainy,Dead,291
+M_4218_109,5/13/2015,Wankhede,South Africa,Bangladesh,South Africa,bowl,Bangladesh,,Player_151,Marais Erasmus,,295,301,0,0,37943,Rainy,Dusty,373
+M_4641_693,3/29/2016,Gabba,England,New Zealand,New Zealand,bat,,23,Player_276,Aleem Dar,Aleem Dar,5347,5350,0,3,32904,,Dead,254
+M_5736_432,2/14/2023,MCG,England,Afghanistan,Afghanistan,bat,England,46,Player_148,Aleem Dar,Aleem Dar,224,209,4,0,61792,,Flat,371
+M_7035_51,4/3/2021,MCG,Pakistan,Afghanistan,Pakistan,Batting,Afghanistan,115,Player_214,Ian Gould,Billy Bowden,263,273,4,9,49089,Rainy,Dusty,301
+M_6717_822,8/15/2015,SuperSport Park,South Africa,India,India,Batting,India,83,Player_169,Billy Bowden,,332,342,6,2,40788,Cloudy,Green,382
+M_6397_954,9/10/2015,Lord's,Afghanistan,South Africa,South Africa,Bat,South Africa,27,Player_217,Billy Bowden,,208,212,7,8,,Clear,Dry,275
+M_6286_47,6/20/2018,Wankhede,Australia,Afghanistan,Afghanistan,Batting,Afghanistan,45 runs,Player_178,Ian Gould,Simon Taufel,382,385,2,6,70911,,Green,257
+M_9604_354,12/4/2021,MCG,New Zealand,Pakistan,Pakistan, BATTING,Pakistan,4,Player_8,Richard Kettleborough,Simon Taufel,291,296,0,0,,Cloudy,Flat,318
+M_4373_188,8/15/2019,Gabba,Pakistan,Afghanistan,Afghanistan,Bat,Afghanistan,5,Player_86,Ian Gould,Marais Erasmus,390,397,7,9,7914,Rainy,Flat,386
+M_8792_336,13-07-2022,Eden Gardens,New Zealand,Bangladesh,New Zealand,Batting,New Zealand,77,Player_176,Richard Kettleborough,Marais Erasmus,149,167,3,1,85135,Rainy,Dead,264
+M_9707_251,11/1/2015,SuperSport Park,Afghanistan,Sri Lanka,Sri Lanka,bowl,Afghanistan,94,Player_34,Richard Kettleborough,Richard Kettleborough,198,153,6,2,46465,Sunny,Green,199
+M_7887_437,12/5/2016,Lord's,NEW ZEALAND,South Africa,NEW ZEALAND,bat,NEW ZEALAND,16,Player_109,Simon Taufel,,287,269,6,2,13292,Rainy,Unknown,-39
+M_7153_571,11/6/2018,Newlands,Sri Lanka,Australia,Sri Lanka,Field,Sri Lanka,73,Player_291,Aleem Dar,Simon Taufel,130,108,6,1,53066,Cloudy,Dusty,400
+M_6129_569,15-01-2021,Eden Gardens, South Africa ,West Indies,West Indies,bowl,West Indies,74,Player_238,Billy Bowden,,153 (approx),163,5,2,78436,Clear,Dusty,202
+M_6435_561,6/22/2016,SCG,New Zealand,Afghanistan,New Zealand,Field,,19,Player_226,Simon Taufel,Richard Kettleborough,265,275,7,2,46343,Cloudy,Green,211
+M_9332_342,27-03-2018,SuperSport Park,England,Bangladesh,England,bowl,England,38,Player_245,Ian Gould,Richard Kettleborough,165,148,4,10,,Overcast,Flat,246
+M_1272_749,10/11/2018,SuperSport Park, West Indies ,Australia, West Indies ,Fielding,Australia,63,Player_210,Billy Bowden,Aleem Dar,192,196,5,9,88841,Overcast,Unknown,417
+M_6897_508,8/21/2019,Wankhede,West Indies,Australia,Australia,Batting,Australia,,Player_173,Aleem Dar,Simon Taufel,270,276,10,9,57858,Rainy,Green,405
+M_3165_731,11/27/2016,MCG,Pakistan,India,India,bat,Pakistan,88,Player_25,Richard Kettleborough,,252,204,2,3,60569,,Green,392
+M_3790_996,3/17/2017,Gabba,New Zealand,Afghanistan,New Zealand,Fielding,Afghanistan,46,Player_120,Billy Bowden,,254,260,5,8,62295,Overcast,Dry,258
+M_7401_402,11/15/2022,,Sri Lanka,Bangladesh,Sri Lanka,Batting,Bangladesh,74,Player_31,Ian Gould,Simon Taufel,379,384,10,2,81299,Cloudy,Dusty,214
+M_4330_884,20-01-2015,Wankhede,West Indies,Afghanistan,West Indies,Batting,West Indies,,Player_293,Billy Bowden,Marais Erasmus,183,152,9,0,85544,Sunny,Dry,272
+M_3130_859,8/8/2017,Wankhede,INDIA,Pakistan,Pakistan,Batting,INDIA,104,Player_279,Billy Bowden,,351,319,2,4,44092,Rainy,Flat,384
+M_1914_744,12/5/2019,Lord's,India,New Zealand,India,Bat,New Zealand,74,Player_198,Simon Taufel,Simon Taufel,279,288,1,3,,Cloudy,Dusty,203
+M_7591_189,2/15/2022,Newlands,South Africa,West Indies,South Africa,Fielding,South Africa,109,Player_281,Aleem Dar,Billy Bowden,239,192,3,5,15048,Overcast,Dead,260
+M_2202_635,7/12/2017,Gabba,Sri Lanka,england,Sri Lanka,Bat,england,118,Player_261,Simon Taufel,Ian Gould,282,286,2,8,82737,Rainy,Dusty,189
+M_7451_246,9/17/2016,Gabba,India,Pakistan,India, BATTING,Pakistan,105,Player_298,Simon Taufel,Billy Bowden,111,117,7,5,56296,Overcast,Green,359
+M_2582_233,6/4/2017,Lord's,India,Bangladesh,Bangladesh,Bat,,99,Player_86,Simon Taufel,Simon Taufel,227,231,0,6,8662,Cloudy,Flat,236
+M_2296_494,10/13/2022,Gabba,Sri Lanka,West Indies,Sri Lanka,Bat,Sri Lanka,110,Player_228,Simon Taufel,Richard Kettleborough,373,344,0,8,,Rainy,Dry,323
+M_5303_689,30-03-2018,SuperSport Park,India,Sri Lanka,Sri Lanka,Bat,Sri Lanka,,Player_233,Richard Kettleborough,Billy Bowden,253,258,5,3,,Cloudy,Dead,374
+M_9113_544,1/21/2021,SCG,India,England,England, BATTING,India,,Player_212,Simon Taufel,Ian Gould,291,259,4,10,76626,Sunny,Dry,344
+M_7609_100,8/12/2018,,PAKISTAN,india,PAKISTAN,bat,PAKISTAN,9,Player_115,Billy Bowden,Aleem Dar,248,202,5,6,22536,Overcast,Green,412
+M_8735_321,10/4/2016,Gabba,South Africa,West Indies,South Africa,bowl,No Result,38,Player_70,Aleem Dar,Marais Erasmus,238,248,9,10,26750,Cloudy,Dusty,312
+M_1832_935,9/12/2017,MCG,Pakistan,Bangladesh,Bangladesh, BATTING,Pakistan,85,Player_243,Simon Taufel,Richard Kettleborough,347,314,0,8,85315,,Dead,-24
+M_6619_422,6/28/2016,Gabba,Pakistan,West Indies,West Indies, BATTING,Draw,54 runs,Player_173,Simon Taufel,,271,274,9,7,41419,Rainy,Unknown,182
+M_8197_527,4/5/2016,MCG,West Indies,India,West Indies,Fielding,West Indies,116,Player_13,Richard Kettleborough,Ian Gould,395,374,3,7,,Sunny,Dusty,388
+M_8107_247,5/5/2022,SuperSport Park,New Zealand,West Indies,New Zealand,bowl,New Zealand,14,Player_126,Simon Taufel,,175,141,2,0,17589,Sunny,Dead,346
+M_3623_70,9/9/2016,SuperSport Park,Afghanistan,Bangladesh,Afghanistan,bowl,Afghanistan,,Player_237,Aleem Dar,Billy Bowden,331 (approx),313,1,0,49967,Cloudy,Green,312
+M_3117_640,10/13/2017,MCG,Sri Lanka,england,Sri Lanka,bowl,Sri Lanka,63,Player_220,Richard Kettleborough,Ian Gould,103,74,0,5,11793,,Dry,-48
+M_6354_139,9/25/2022,Wankhede, England ,West Indies,West Indies,Field, England ,105,Player_79,Simon Taufel,Marais Erasmus,161,152,9,0,88084,Overcast,Dusty,318
+M_6308_829,8/29/2021,MCG,PAKISTAN,Afghanistan,Afghanistan, BATTING,PAKISTAN,46,Player_275,Simon Taufel,,108,94,3,7,,Rainy,Flat,235
+M_6624_670,10/5/2017,Wankhede,Bangladesh,Sri Lanka,Bangladesh,bowl,Bangladesh,21,Player_139,Richard Kettleborough,Richard Kettleborough,324,311,4,9,,Clear,Green,370
+M_8524_172,9/2/2018,Eden Gardens,South Africa,Afghanistan,Afghanistan,Field,Afghanistan,5,Player_233,Marais Erasmus,Billy Bowden,150,154,0,6,33574,Sunny,Unknown,351
+M_4660_898,7/1/2015,Gabba,Australia,Pakistan,Pakistan,Fielding,Pakistan,82,Player_1,Simon Taufel,,121,126,8,9,34046,Clear,Dry,180
+M_1255_879,7/7/2021,Lord's,Pakistan,India,Pakistan, BATTING,India,47 runs,Player_250,Ian Gould,Billy Bowden,196,201,0,3,41057,Clear,Dry,388
+M_9664_259,3/26/2016,Wankhede,India,New Zealand,India,Bat,India,36,Player_142,Aleem Dar,Simon Taufel,194,152,4,1,17699,Cloudy,Dusty,370
+M_8012_752,9/27/2019,SuperSport Park,India,South Africa,South Africa,Fielding,India,10,Player_70,Marais Erasmus,,213,180,0,7,33814,Overcast,Dusty,298
+M_3593_533,17-02-2019,MCG,England,Australia,Australia,bowl,No Result,12,Player_255,Simon Taufel,,208,216,5,2,12890,,Dusty,223
+M_9380_96,6/25/2017,Gabba, Afghanistan ,South Africa,South Africa, BATTING,South Africa,103 runs,Player_288,Billy Bowden,Richard Kettleborough,256,261,6,5,65161,Clear,Dry,329
+M_9577_254,7/11/2020,Lord's,New Zealand,Bangladesh,New Zealand,Field,Bangladesh,52 runs,Player_39,Richard Kettleborough,Ian Gould,103,112,3,10,74220,,Green,352
+M_6924_928,7/10/2020,Eden Gardens,Australia,Sri Lanka,Sri Lanka,Bat,Sri Lanka,76,Player_67,Ian Gould,Billy Bowden,195,196,5,6,5665,Cloudy,Dead,379
+M_8793_184,12/24/2018,Gabba,Australia,England,Australia,Field,Australia,,Player_92,Simon Taufel,Marais Erasmus,352,336,4,10,63190,Rainy,Flat,409
+M_1981_82,2/20/2019,Lord's,West Indies,India,India,Field,India,,Player_144,Simon Taufel,,309,318,0,5,5191,Overcast,Dead,240
+M_9711_252,8/22/2016,SuperSport Park,PAKISTAN,New Zealand,PAKISTAN,Bat,New Zealand,76,Player_245,Ian Gould,,370,380,8,4,,,Dry,226
+M_7366_823,5/16/2020,Eden Gardens,Afghanistan,England,England,Batting,Afghanistan,118,Player_202,Billy Bowden,Ian Gould,117,91,10,1,67611,Rainy,Flat,405
+M_7550_138,6/9/2021,Wankhede, India ,New Zealand,New Zealand,Batting,New Zealand,36,Player_40,Billy Bowden,Marais Erasmus,392,395,7,5,25461,Clear,Dusty,387
+M_9849_90,10/28/2016,SCG,WEST INDIES,south africa,WEST INDIES,bat,WEST INDIES,115,Player_153,Aleem Dar,,347,312,2,9,61911,,Green,284
+M_6958_803,10/14/2021,SCG,South Africa,England,England,Field,South Africa,65,Player_293,Aleem Dar,Richard Kettleborough,266,280,4,2,89056,Rainy,Flat,368
+M_1941_519,1/13/2022,Wankhede,India,England,England,Batting,India,109,Player_226,Marais Erasmus,Marais Erasmus,152 (approx),148,2,8,17260,Rainy,Green,180
+M_6355_472,10/9/2017,Wankhede,Sri Lanka,New Zealand,New Zealand,Fielding,New Zealand,109,Player_67,Aleem Dar,,195 (approx),203,0,5,37307,Clear,Flat,234
+M_4353_880,17-12-2022,Newlands,Afghanistan,Pakistan,Afghanistan,bowl,Afghanistan,95,Player_297,Billy Bowden,Billy Bowden,281,285,2,8,6016,,Flat,345
+M_9880_540,4/15/2017,Eden Gardens,England,Australia,Australia,Batting,England,1,Player_105,Richard Kettleborough,Aleem Dar,140,133,4,5,77423,Overcast,Green,201
+M_5162_137,4/5/2021,Newlands,England,Bangladesh,Bangladesh,Bat,England,21,Player_230,Marais Erasmus,,280,230,5,5,59046,Overcast,Dead,319
+M_2075_174,19-01-2021,Newlands,Pakistan,South Africa,South Africa,Batting,South Africa,65,Player_45,Simon Taufel,Aleem Dar,132,140,8,1,66625,Clear,Dry,338
+M_7121_56,7/29/2016,Newlands,AUSTRALIA,England,AUSTRALIA,bat,No Result,89,Player_276,Billy Bowden,Aleem Dar,338,345,4,1,88717,Clear,Green,302
+M_5141_231,1/5/2017,Eden Gardens,Sri Lanka,South Africa,South Africa,Field,South Africa,113,Player_237,Simon Taufel,,134,138,6,8,20889,,Dusty,284
+M_2108_42,6/2/2017,Eden Gardens,India,New Zealand,India,bat,India,9 runs,Player_200,Marais Erasmus,,9243,9233,4,6,5205,Rainy,Flat,314
+M_2807_211,8/6/2021,SCG,Bangladesh,Sri Lanka,Sri Lanka,bowl,Sri Lanka,19,Player_21,Ian Gould,,334,343,1,3,64694,Clear,Flat,334
+M_1546_220,10/20/2017,MCG, SRI LANKA ,Australia, SRI LANKA ,Bat,Australia,14,Player_66,Simon Taufel,Marais Erasmus,127,136,1,9,86207,,Flat,201
+M_8279_264,3/27/2022,SCG,South Africa,West Indies,West Indies,Field,No Result,120 runs,Player_170,Marais Erasmus,,142 (approx),152,0,1,76089,Sunny,Dry,374
+M_1085_874,3/18/2016,Newlands,India,West Indies,West Indies,Bat,India,28,Player_96,Aleem Dar,Richard Kettleborough,307,259,4,4,76003,Clear,Green,242
+M_6564_763,12/7/2021,Lord's,England,Sri Lanka,England, BATTING,No Result,30 runs,Player_131,Aleem Dar,Simon Taufel,280,283,7,0,31376,,Dry,413
+M_8350_577,6/10/2021,Lord's,Sri Lanka,New Zealand,New Zealand,Batting,Sri Lanka,,Player_29,Aleem Dar,Simon Taufel,373 (approx),387,4,6,73922,Cloudy,Flat,218
+M_3755_510,30-08-2021,SuperSport Park,England,India,England,bowl,India,114,Player_190,Aleem Dar,Richard Kettleborough,151,160,1,9,7503,Rainy,Flat,355
+M_3269_452,8/1/2016,Eden Gardens,South Africa,New Zealand,New Zealand,Bat,New Zealand,98,Player_146,Simon Taufel,Marais Erasmus,326,330,3,8,84525,Clear,Green,410
+M_1070_683,7/31/2018,MCG,India,South Africa,India,Fielding,India,101,Player_149,Simon Taufel,,144,150,2,1,81410,Sunny,Dusty,411
+M_2524_66,11/4/2019,Gabba,Bangladesh,Sri Lanka,Bangladesh,Bat,Bangladesh,95,Player_198,Simon Taufel,Marais Erasmus,5850,5814,4,1,,Clear,Dry,-28
+M_5065_9,5/28/2015,MCG,England,Bangladesh,Bangladesh, BATTING,Bangladesh,86 runs,Player_196,Simon Taufel,Aleem Dar,308,311,3,2,28206,,Dusty,380
+M_9854_307,8/28/2015,Wankhede,South Africa,Sri Lanka,South Africa,bat,Sri Lanka,81,Player_180,Simon Taufel,,125,126,8,7,81007,Cloudy,Dusty,-28
+M_9055_393,3/30/2017,SCG,Australia,South Africa,South Africa,bat,Australia,114,Player_128,Simon Taufel,Simon Taufel,112,105,5,3,70482,Overcast,Dry,334
+M_7034_947,12/4/2020,Wankhede,New Zealand,Sri Lanka,New Zealand,Bat,New Zealand,91,Player_239,Billy Bowden,Simon Taufel,261,253,6,5,37481,Cloudy,Unknown,303
+M_9385_392,5/5/2017,Wankhede,Afghanistan,India,India, BATTING,Afghanistan,96,Player_95,Simon Taufel,,291,291,9,4,48841,Rainy,Dusty,-12
+M_3305_646,5/21/2017,,Afghanistan,West Indies,Afghanistan, BATTING,West Indies,51,Player_123,Billy Bowden,,335,345,4,2,62579,Cloudy,Dead,402
+M_6129_35,6/25/2022,SuperSport Park,West Indies,bangladesh,bangladesh, BATTING,,96,Player_214,Richard Kettleborough,,372,381,10,5,14447,Rainy,Unknown,415
+M_2359_357,10/13/2018,Lord's,New Zealand,Bangladesh,Bangladesh,bowl,New Zealand,101,Player_204,Ian Gould,,378,369,1,1,77150,,Dry,291
+M_4776_745,7/27/2018,SCG,India,South Africa,India,Batting,India,120,Player_65,Richard Kettleborough,Aleem Dar,185,176,6,1,79538,Clear,Green,335
+M_1378_128,11/18/2015,Wankhede,West Indies,Afghanistan,Afghanistan,bat,West Indies,11,Player_129,Billy Bowden,Simon Taufel,262,248,6,4,63313,Clear,Dry,285
+M_8790_64,3/9/2019,MCG,Sri Lanka,Australia,Australia,Bat,Australia,49,Player_144,Ian Gould,Simon Taufel,104,106,6,10,48420,Sunny,Flat,238
+M_8320_723,9/25/2017,Newlands,New Zealand,Afghanistan,New Zealand,Bat,Afghanistan,93 runs,Player_73,Ian Gould,Billy Bowden,237,240,0,0,65015,Clear,Dead,191
+M_9596_644,1/6/2021,SuperSport Park,Bangladesh,West Indies,Bangladesh,bat,Bangladesh,34,Player_223,Billy Bowden,Billy Bowden,149,129,7,9,12132,Clear,Flat,374
+M_5580_462,9/2/2020,Lord's,Afghanistan,Sri Lanka,Afghanistan,bowl,Afghanistan,52,Player_176,Richard Kettleborough,Aleem Dar,221,207,10,5,56138,Rainy,Flat,352
+M_1546_27,5/31/2021,Lord's,South Africa,sri lanka,South Africa,Bat,,78,Player_47,Richard Kettleborough,Marais Erasmus,246,250,5,3,88442,Cloudy,Flat,259
+M_5185_877,12/23/2022,Wankhede,AUSTRALIA,New Zealand,AUSTRALIA,Field,New Zealand,67,Player_256,Marais Erasmus,,111,117,10,4,54687,Cloudy,Dead,243
+M_3493_350,3/8/2015,MCG,Bangladesh,Pakistan,Pakistan,bat,Pakistan,72,Player_94,Billy Bowden,Marais Erasmus,362,364,7,9,30020,Rainy,Dry,295
+M_9499_69,7/12/2021,Wankhede,Afghanistan,West Indies,West Indies,bat,West Indies,14,Player_229,Richard Kettleborough,Billy Bowden,281 (approx),291,10,10,89769,Rainy,Flat,246
+M_9563_596,3/23/2015,Lord's,Sri Lanka,west indies,Sri Lanka,Fielding,west indies,,Player_145,Aleem Dar,Billy Bowden,128,135,2,6,,Cloudy,Flat,420
+M_7517_849,8/5/2016,Eden Gardens,Sri Lanka,Australia,Sri Lanka,Field,Australia,19,Player_104,Simon Taufel,Billy Bowden,136,143,7,0,5171,Sunny,Dry,188
+M_3736_852,5/3/2019,SuperSport Park,England,India,India,bowl,England,87,Player_133,Billy Bowden,Simon Taufel,340,300,7,10,48746,Rainy,Dry,371
+M_8091_590,4/22/2020,Gabba,Afghanistan,new zealand,Afghanistan,Field,new zealand,62,Player_84,Richard Kettleborough,Aleem Dar,164,169,4,0,45270,Rainy,Flat,218
+M_9809_994,7/31/2016,Eden Gardens,West Indies,Australia,West Indies,Bat,Australia,45,Player_106,Simon Taufel,,219,224,6,6,,Sunny,Dusty,414
+M_7993_529,10/5/2017,Gabba,England,West Indies,West Indies,Batting,West Indies,105,Player_18,Marais Erasmus,Simon Taufel,197,207,0,4,52656,Cloudy,Green,213
+M_6804_196,3/5/2018,Eden Gardens, Afghanistan ,South Africa,South Africa,Batting,South Africa,59 runs,Player_3,Richard Kettleborough,Marais Erasmus,265,272,6,6,83275,,Dusty,418
+M_2616_183,1/31/2016,Newlands,New Zealand,India,New Zealand,Bat,New Zealand,46,Player_188,Billy Bowden,Marais Erasmus,223,235,9,0,74315,Overcast,Dead,181
+M_8005_697,12/24/2022,Wankhede,Sri Lanka,Afghanistan,Sri Lanka,Batting,Sri Lanka,83,Player_70,Aleem Dar,,308,321,3,1,19926,Rainy,Unknown,341
+M_1759_448,7/27/2019,MCG,Afghanistan,England,Afghanistan,Batting,Afghanistan,120 runs,Player_60,Billy Bowden,,250,202,0,5,,Cloudy,Dry,289
+M_9700_651,10/4/2019,SCG,Afghanistan,New Zealand,New Zealand,Fielding,New Zealand,79,Player_255,Richard Kettleborough,,216,217,2,10,64038,Cloudy,Green,389
+M_7927_372,2/16/2020,SCG,South Africa,australia,South Africa,bowl,australia,,Player_105,Billy Bowden,Richard Kettleborough,223,229,6,3,53730,Cloudy,Green,339
+M_1821_541,7/10/2022,MCG,Sri Lanka,England,Sri Lanka,Batting,Draw,75,Player_250,Marais Erasmus,Simon Taufel,302,311,0,8,46129,Clear,Dry,372
+M_1043_774,3/23/2022,SCG,South Africa,Bangladesh,Bangladesh,Fielding,Bangladesh,79,Player_28,Marais Erasmus,Billy Bowden,207,212,6,8,66702,,Dead,224
+M_7161_751,7/26/2019,Eden Gardens,Afghanistan,South Africa,Afghanistan,bowl,South Africa,57,Player_111,Marais Erasmus,Aleem Dar,270,280,0,4,89240,Cloudy,Dry,297
+M_1662_473,2/1/2019,SCG,Australia,England,England,bat,England,60,Player_155,Aleem Dar,Billy Bowden,391,395,5,10,72414,Clear,Flat,384
+M_1800_630,11/4/2021,SCG,Pakistan,Sri Lanka,Sri Lanka,Fielding,Sri Lanka,71,Player_127,Simon Taufel,Ian Gould,304,312,7,9,29548,Sunny,Green,245
+M_8380_842,8/31/2016,Eden Gardens,Sri Lanka,England,Sri Lanka,Fielding,England,99 runs,Player_97,Aleem Dar,Aleem Dar,144,147,10,6,46295,Overcast,Dusty,387
+M_8023_844,23-08-2018,,India,Sri Lanka,Sri Lanka,Fielding,Sri Lanka,38,Player_256,Marais Erasmus,Ian Gould,280,281,5,5,47446,Overcast,Dry,234
+M_6248_111,4/29/2020,MCG,Afghanistan,bangladesh,Afghanistan,bowl,bangladesh,42,Player_86,Ian Gould,Billy Bowden,158,167,0,8,54146,Rainy,Unknown,409
+M_3128_882,1/2/2023,MCG,South Africa,Pakistan,Pakistan,Field,South Africa,52,Player_269,Marais Erasmus,Billy Bowden,384 (approx),378,2,6,47691,Rainy,Flat,267
+M_4810_495,1/21/2023,SCG,West Indies,England,England,Batting,West Indies,62,Player_186,Richard Kettleborough,,297 (approx),249,8,5,88303,Clear,Green,211
+M_6497_509,2/13/2021,Gabba,Sri Lanka,New Zealand,New Zealand,bat,New Zealand,23,Player_204,Aleem Dar,,252,255,5,5,11956,Overcast,Dry,272
+M_5523_366,1/1/2021,Eden Gardens,Bangladesh,West Indies,West Indies,Fielding,West Indies,59,Player_252,Marais Erasmus,Aleem Dar,323 (approx),326,7,8,12542,Cloudy,Dusty,196
+M_8111_299,12/13/2016,Wankhede,South Africa,Australia,South Africa,Bat,Australia,108 runs,Player_45,Ian Gould,,155,162,10,9,77937,Rainy,Green,231
+M_5551_653,9/13/2022,SuperSport Park,Bangladesh,Sri Lanka,Sri Lanka,Bat,Sri Lanka,103 runs,Player_166,Richard Kettleborough,Richard Kettleborough,130,133,6,6,,Overcast,Dry,355
+M_1147_556,30-07-2022,SCG,West Indies,England,West Indies,bowl,England,112,Player_70,Ian Gould,Simon Taufel,170,174,8,9,79121,Overcast,Dusty,351
+M_3665_504,5/30/2021,Newlands,BANGLADESH,India,BANGLADESH,Bat,BANGLADESH,18,Player_172,Ian Gould,Marais Erasmus,194,202,10,8,23960,Clear,Green,291
+M_6378_801,7/19/2019,Eden Gardens,New Zealand,England,England,Bat,New Zealand,11,Player_6,Billy Bowden,,130,108,3,1,19896,Cloudy,Flat,246
+M_2318_733,10/21/2019,SCG,NEW ZEALAND,West Indies,West Indies, BATTING,No Result,31,Player_186,Richard Kettleborough,Marais Erasmus,114,123,5,1,28632,,Flat,405
+M_4847_124,7/31/2021,SCG,West Indies,Afghanistan,West Indies,bowl,West Indies,2,Player_106,Aleem Dar,,247 (approx),224,2,7,46139,Overcast,Green,307
+M_2414_869,3/22/2022,MCG,South Africa,New Zealand,South Africa,Fielding,New Zealand,62,Player_59,Aleem Dar,Billy Bowden,131,136,7,9,,Cloudy,Dusty,257
+M_4129_324,5/30/2019,Lord's,South Africa,Bangladesh,Bangladesh,Fielding,Bangladesh,92 runs,Player_6,Aleem Dar,Ian Gould,326,331,8,6,50636,Rainy,Dusty,366
+M_5929_750,27-06-2018,MCG,West Indies,Pakistan,West Indies,Fielding,West Indies,116,Player_211,Aleem Dar,Richard Kettleborough,253,257,10,3,75636,Rainy,Green,373
+M_4223_678,7/8/2017,MCG,South Africa,Bangladesh,Bangladesh,Batting,Bangladesh,69 runs,Player_15,Aleem Dar,,221,230,1,6,17606,Clear,Dry,409
+M_6347_65,3/6/2015,,England,Pakistan,England,Batting,Pakistan,70,Player_140,Marais Erasmus,Richard Kettleborough,171,173,5,0,17803,Overcast,Dead,332
+M_7619_469,6/13/2017,MCG,Australia,Bangladesh,Australia,Bat,Australia,,Player_234,Aleem Dar,Richard Kettleborough,293,302,6,4,69164,Rainy,Dead,222
+M_7746_899,3/1/2017,MCG,Pakistan,West Indies,West Indies, BATTING,Pakistan,48,Player_257,Marais Erasmus,Marais Erasmus,146,152,6,10,,Sunny,Dead,236
+M_9912_576,12/15/2015,Eden Gardens, England ,South Africa,South Africa,Bat, England ,91,Player_286,Marais Erasmus,,181,171,10,1,12798,Overcast,Green,216
+M_4253_275,3/8/2016,Lord's,England,Australia,Australia,Fielding,England,115,Player_166,Billy Bowden,Billy Bowden,252,228,7,7,75189,Rainy,Dead,279
+M_3421_855,10/9/2022,SuperSport Park,Bangladesh,Pakistan,Pakistan,bowl,Pakistan,32,Player_136,Aleem Dar,Marais Erasmus,160 (approx),164,10,7,31025,Clear,Unknown,-41
+M_7730_491,10/25/2018,Lord's,Australia,pakistan,Australia,Fielding,pakistan,47,Player_52,Ian Gould,Richard Kettleborough,122,124,6,10,13109,Clear,Green,287
+M_1533_125,9/30/2016,SuperSport Park,SOUTH AFRICA,Pakistan,SOUTH AFRICA, BATTING,Pakistan,64,Player_90,Marais Erasmus,Billy Bowden,394,402,8,4,57150,Sunny,Dry,302
+M_5432_558,7/9/2021,SCG,South Africa,Sri Lanka,South Africa,bat,South Africa,,Player_184,Ian Gould,,187,203,2,7,10122,Clear,Flat,395
+M_3715_819,11/23/2021,SuperSport Park,South Africa,Sri Lanka,Sri Lanka,Bat,South Africa,9,Player_20,Marais Erasmus,Simon Taufel,278,248,10,0,,Rainy,Dusty,284
+M_3375_736,8/30/2019,MCG,Sri Lanka,South Africa,South Africa,Fielding,South Africa,72,Player_86,Marais Erasmus,Marais Erasmus,114,118,9,10,34863,Sunny,Dead,226
+M_8400_927,6/17/2015,Wankhede,Sri Lanka,New Zealand,Sri Lanka,Fielding,,33,Player_200,Richard Kettleborough,,336,342,10,0,43149,Rainy,Flat,-43
+M_8955_93,8/2/2018,Newlands,ENGLAND,New Zealand,ENGLAND,bat,No Result,76,Player_20,Aleem Dar,Aleem Dar,312,322,1,1,78752,Clear,Dry,247
+M_2969_453,10/18/2022,Wankhede,AUSTRALIA,England,AUSTRALIA, BATTING,AUSTRALIA,101,Player_137,Marais Erasmus,Aleem Dar,276,287,3,0,78635,Cloudy,Dead,260
+M_8075_923,10/11/2017,SCG,Afghanistan,Australia,Afghanistan, BATTING,Afghanistan,113,Player_203,Marais Erasmus,Marais Erasmus,297,285,5,1,11014,Rainy,Green,402
+M_6696_134,4/1/2022,Newlands,Afghanistan,Pakistan,Afghanistan,Field,Afghanistan,104,Player_141,Ian Gould,Ian Gould,110,85,4,0,68609,Clear,Green,325
+M_6045_239,1/20/2019,MCG,West Indies,India,West Indies,bowl,West Indies,21 runs,Player_56,Billy Bowden,Richard Kettleborough,296,306,3,6,26734,Overcast,Dead,348
+M_6499_290,8/2/2020,Gabba,ENGLAND,Pakistan,ENGLAND,bat,,46,Player_280,Richard Kettleborough,Richard Kettleborough,350,358,0,9,43097,Cloudy,Flat,205
+M_9394_34,1/13/2017,SuperSport Park,Pakistan,India,Pakistan,bowl,India,40,Player_57,Richard Kettleborough,Ian Gould,390,391,9,0,15693,Rainy,Dry,249
+M_6386_960,1/2/2015,Gabba,Australia,England,Australia,Bat,England,68,Player_283,Simon Taufel,Ian Gould,238,242,6,6,52140,,Dead,384
+M_8566_572,4/3/2018,Gabba,Australia,Sri Lanka,Sri Lanka,Field,Australia,54,Player_105,Richard Kettleborough,Billy Bowden,4885,4868,1,6,38408,Rainy,Flat,339
+M_8576_412,1/7/2018,Lord's,Australia,Afghanistan,Afghanistan,Batting,Afghanistan,22,Player_57,Billy Bowden,,110,111,2,0,66481,,Dusty,326
+M_4761_467,12/2/2022,Wankhede,England,West Indies,England,Fielding,England,108,Player_38,Aleem Dar,,165,170,6,5,8328,Sunny,Unknown,385
+M_9099_427,7/17/2017,Gabba,West Indies,Australia,West Indies,bat,,46 runs,Player_62,Ian Gould,Billy Bowden,290,297,0,5,,Clear,Flat,331
+M_6090_769,12/12/2022,SuperSport Park,New Zealand,bangladesh,bangladesh,Field,bangladesh,98 runs,Player_226,Ian Gould,Aleem Dar,160,170,4,5,34362,Overcast,Dusty,379
+M_9558_538,10/24/2021,SCG,Afghanistan,South Africa,Afghanistan,bat,South Africa,85,Player_52,Aleem Dar,,214,220,2,9,67525,Clear,Dead,344
+M_1494_625,4/13/2016,Eden Gardens,West Indies,India,West Indies,Bat,West Indies,115,Player_235,Aleem Dar,Billy Bowden,332,333,9,6,77124,Overcast,Dead,263
+M_7595_530,7/6/2015,Gabba,Bangladesh,West Indies,West Indies, BATTING,West Indies,20,Player_227,Richard Kettleborough,,383,392,10,2,16749,Rainy,Dusty,316
+M_4883_387,2/28/2018,Wankhede,England,Bangladesh,England,Bat,England,30,Player_251,Ian Gould,Simon Taufel,343,320,5,3,21663,Clear,Green,361
+M_4093_616,2/27/2020,Lord's,Australia,South Africa,Australia, BATTING,Australia,38,Player_22,Aleem Dar,Aleem Dar,242,254,5,1,72056,,Dry,338
+M_1377_765,3/4/2023,MCG,Australia,Bangladesh,Australia,Field,Australia,66,Player_100,Ian Gould,Richard Kettleborough,361,333,9,9,,Sunny,Green,406
+M_3895_262,7/6/2015,Eden Gardens,England,South Africa,England, BATTING,South Africa,69 runs,Player_276,Billy Bowden,Ian Gould,288,297,2,6,85148,Sunny,Green,367
+M_3247_101,23-11-2016,MCG,India,Bangladesh,Bangladesh, BATTING,Bangladesh,,Player_262,Billy Bowden,Richard Kettleborough,159,166,4,7,25070,Sunny,Flat,349
+M_7333_414,11/19/2019,SuperSport Park,India,South Africa,India, BATTING,No Result,57,Player_40,Ian Gould,Ian Gould,338,342,6,0,37160,Sunny,Flat,269
+M_3126_135,12/15/2020,Eden Gardens, England ,Australia,Australia,Field,Australia,80,Player_104,Simon Taufel,Simon Taufel,375,379,7,8,25202,Overcast,Dead,348
+M_8029_99,20-08-2019,SuperSport Park,Bangladesh,New Zealand,Bangladesh,Fielding,New Zealand,24,Player_3,Simon Taufel,Billy Bowden,190 (approx),191,4,3,27099,Sunny,Dry,342
+M_5851_654,2/14/2016,, West Indies ,Pakistan, West Indies ,Field, West Indies ,,Player_104,Aleem Dar,Ian Gould,136,111,1,2,27953,Overcast,Dead,330
+M_8642_306,12/1/2017,,Afghanistan,Bangladesh,Afghanistan, BATTING,Bangladesh,38,Player_184,Marais Erasmus,Ian Gould,240,245,9,0,21293,Overcast,Dry,-50
+M_9502_278,5/17/2017,Gabba,New Zealand,Sri Lanka,New Zealand, BATTING,Sri Lanka,95,Player_172,Aleem Dar,Marais Erasmus,214,219,4,4,59357,,Flat,-27
+M_6951_563,3/16/2022,MCG,New Zealand,Bangladesh,Bangladesh,Batting,New Zealand,18,Player_133,Marais Erasmus,Richard Kettleborough,307,263,5,9,16014,,Dead,398
+M_1759_674,21-05-2020,MCG,Sri Lanka,Afghanistan,Afghanistan,Bat,Sri Lanka,109,Player_107,Richard Kettleborough,Aleem Dar,169 (approx),154,5,3,81953,Sunny,Green,-8
+M_7079_972,29-06-2016,Wankhede,West Indies,New Zealand,New Zealand,bowl,West Indies,89,Player_257,Marais Erasmus,Simon Taufel,350,361,9,8,81291,Rainy,Dry,368
+M_8616_438,7/28/2017,MCG,Australia,Sri Lanka,Sri Lanka,Fielding,Sri Lanka,21,Player_65,Simon Taufel,,390,398,9,7,41592,Sunny,Dusty,276
+M_5578_782,9/11/2015,MCG,New Zealand,Afghanistan,Afghanistan,bowl,New Zealand,3,Player_134,Marais Erasmus,Aleem Dar,205,156,9,3,63269,Clear,Flat,317
+M_2581_298,2/26/2020,Newlands,Afghanistan,Pakistan,Afghanistan, BATTING,Pakistan,74,Player_244,Richard Kettleborough,Billy Bowden,369,375,9,5,81610,Sunny,Unknown,367
+M_9849_13,6/30/2016,Lord's,Australia,West Indies,West Indies,Fielding,West Indies,58,Player_119,Marais Erasmus,Billy Bowden,343,347,4,8,68517,Sunny,Green,249
+M_7420_219,9/8/2022,MCG,New Zealand,South Africa,South Africa,Field,New Zealand,110,Player_293,Simon Taufel,Aleem Dar,308,262,5,8,10697,Overcast,Dead,294
+M_9013_471,1/14/2017,Newlands,India,Pakistan,Pakistan,Bat,Pakistan,82,Player_253,Aleem Dar,,173,176,5,3,80707,Overcast,Dusty,248
+M_1129_524,2/1/2020,SCG,West Indies,Pakistan,Pakistan,bowl,West Indies,73,Player_261,Simon Taufel,Aleem Dar,301,257,1,6,32344,,Dusty,-6
+M_7978_480,11/4/2018,SCG,India,australia,India,Field,australia,37,Player_255,Simon Taufel,,241,245,2,1,,Cloudy,Dead,353
+M_8371_212,3/14/2019,Lord's,Pakistan,New Zealand,Pakistan,bat,New Zealand,,Player_167,Simon Taufel,Billy Bowden,122,132,7,5,54454,Clear,Green,309
+M_7731_229,4/11/2019,MCG,Afghanistan,Sri Lanka,Sri Lanka,Field,Sri Lanka,23 runs,Player_67,Ian Gould,Billy Bowden,350 (approx),354,6,4,31986,Sunny,Dusty,-30
+M_3200_968,9/3/2018,Newlands,South Africa,India,South Africa,bowl,India,40,Player_258,Marais Erasmus,Simon Taufel,319,325,0,5,8989,Rainy,Green,216
+M_4982_808,9/10/2022,MCG, NEW ZEALAND ,South Africa,South Africa,Bat, NEW ZEALAND ,,Player_209,Ian Gould,Ian Gould,210,168,8,8,,Sunny,Dry,348
+M_7961_210,8/25/2017,Newlands,West Indies,Pakistan,Pakistan,Fielding,West Indies,74,Player_110,Marais Erasmus,,366,373,9,3,52352,,Dry,200
+M_2370_319,3/23/2019,Lord's,New Zealand,West Indies,West Indies,Fielding,West Indies,48,Player_107,Marais Erasmus,Simon Taufel,331,332,3,7,53473,,Green,387
+M_6840_987,1/9/2023,MCG,South Africa,England,South Africa,bat,Draw,97,Player_14,Richard Kettleborough,,228,237,9,10,55155,Overcast,Dry,197
+M_5973_761,1/24/2019,Lord's,PAKISTAN,Afghanistan,Afghanistan,bat,PAKISTAN,115 runs,Player_51,Aleem Dar,Ian Gould,308,258,5,5,64849,Rainy,Dusty,263
+M_5594_896,12/18/2019,Lord's,Bangladesh,South Africa,South Africa,Fielding,South Africa,46 runs,Player_136,Aleem Dar,Aleem Dar,360,364,6,2,,Clear,Dead,392
+M_6724_110,12/12/2016,Wankhede,AUSTRALIA,England,AUSTRALIA, BATTING,AUSTRALIA,20,Player_170,Richard Kettleborough,Aleem Dar,254,204,5,8,33830,Clear,Dead,317
+M_9690_534,13-06-2018,Newlands,Australia,England,England,Fielding,Australia,73,Player_279,Marais Erasmus,Billy Bowden,137,95,3,1,83897,Rainy,Flat,297
+M_1157_868,1/15/2016,Lord's,Afghanistan,England,Afghanistan,Batting,Afghanistan,98,Player_299,Aleem Dar,Marais Erasmus,203,153,0,3,52497,Sunny,Dusty,404
+M_5327_483,7/9/2022,SuperSport Park,West Indies,Afghanistan,West Indies,Field,Afghanistan,63,Player_72,Simon Taufel,,219,225,3,8,82460,Sunny,Dry,-5
+M_3022_245,8/13/2021,Newlands,New Zealand,India,India, BATTING,New Zealand,2,Player_111,Marais Erasmus,Marais Erasmus,174,157,7,10,64740,Sunny,Dusty,308
+M_7606_485,12/1/2017,MCG,Bangladesh,Sri Lanka,Bangladesh,Fielding,Sri Lanka,,Player_81,Ian Gould,Billy Bowden,188,189,0,6,67168,Cloudy,Dry,324
+M_4660_539,12/6/2016,Eden Gardens,India,West Indies,India,bat,West Indies,101,Player_73,Billy Bowden,Simon Taufel,399 (approx),402,0,0,44553,Overcast,Flat,217
+M_8811_289,3/30/2016,Wankhede,INDIA,South Africa,INDIA,Batting,South Africa,29,Player_88,Richard Kettleborough,Aleem Dar,237,240,5,10,42747,Sunny,Dead,412
+M_3691_436,1/19/2016,,South Africa,Australia,South Africa,bowl,South Africa,119,Player_50,Billy Bowden,Billy Bowden,210,188,8,9,35058,Rainy,Dusty,372
+M_9613_726,7/4/2018,Newlands,Pakistan,afghanistan,Pakistan,Batting,afghanistan,33,Player_201,Aleem Dar,,171,177,5,6,26860,Sunny,Dry,187
+M_3158_579,11/6/2015,Lord's,Bangladesh,west indies,Bangladesh,bowl,west indies,15,Player_48,Billy Bowden,Aleem Dar,135,136,4,3,,Cloudy,Dusty,399
+M_7233_237,10/3/2019,Newlands,South Africa,Afghanistan,South Africa, BATTING,South Africa,61,Player_146,Marais Erasmus,Marais Erasmus,321 (approx),280,6,6,15909,Clear,Dead,366
+M_5334_626,5/3/2021,Wankhede,Afghanistan,Pakistan,Afghanistan,Fielding,Pakistan,15,Player_167,Ian Gould,Billy Bowden,300 (approx),309,2,0,36471,Cloudy,Dry,229
+M_2235_5,17-01-2021,MCG,West Indies,South Africa,South Africa, BATTING,West Indies,53,Player_26,Billy Bowden,Simon Taufel,150,127,1,3,30112,Rainy,Dry,243
+M_9602_297,2/13/2019,MCG,Australia,West Indies,Australia,Bat,Australia,5,Player_90,Billy Bowden,,327,302,7,7,,Clear,Dead,233
+M_2743_332,10/28/2021,MCG, India ,South Africa,South Africa,Field,South Africa,,Player_178,Billy Bowden,Billy Bowden,296,303,4,6,,Rainy,Dry,354
+M_2965_464,10/16/2022,MCG,Sri Lanka,South Africa,South Africa,Fielding,,83,Player_58,Marais Erasmus,Aleem Dar,297,306,9,5,68932,Overcast,Green,258
+M_9248_729,12/13/2015,Lord's,Pakistan,South Africa,Pakistan,bowl,South Africa,15,Player_81,Simon Taufel,Aleem Dar,164,170,7,3,26197,Cloudy,Flat,370
+M_1514_995,10/4/2017,SCG,New Zealand,Australia,New Zealand,Fielding,New Zealand,111,Player_41,Billy Bowden,Marais Erasmus,114,129,0,7,40698,,Green,243
+M_3813_202,8/3/2015,Newlands,Australia,Bangladesh,Australia,Bat,Australia,97,Player_208,Billy Bowden,Ian Gould,235,232,1,9,38989,,Flat,281
+M_4296_991,5/20/2019,SCG,England,South Africa,South Africa,Bat,South Africa,40,Player_55,Marais Erasmus,Billy Bowden,383,389,10,4,57607,Rainy,Green,417
+M_4760_831,10/18/2016,Gabba,Australia,Afghanistan,Afghanistan,Fielding,Australia,66,Player_149,Ian Gould,Aleem Dar,185,188,3,2,,Clear,Flat,223
+M_8025_742,4/18/2022,Newlands,Pakistan,India,Pakistan,bowl,Pakistan,78,Player_70,Simon Taufel,Aleem Dar,335,331,1,6,57489,,Dead,300
+M_4998_730,8/12/2018,Eden Gardens,Sri Lanka,Australia,Sri Lanka,Fielding,No Result,45,Player_110,Billy Bowden,Billy Bowden,141 (approx),145,4,5,,Sunny,Dry,370
+M_6334_895,9/21/2021,Eden Gardens,Afghanistan,India,India,bat,No Result,63,Player_170,Marais Erasmus,Simon Taufel,314,324,4,7,32971,Clear,Dead,405
+M_8816_737,21-02-2018,Newlands,Pakistan,south africa,south africa,Fielding,Pakistan,36,Player_30,Richard Kettleborough,,110,116,9,6,12002,Rainy,Dead,347
+M_1852_121,9/25/2016,Eden Gardens,Pakistan,Australia,Australia,bowl,Pakistan,23,Player_47,Aleem Dar,Ian Gould,229,205,6,2,20608,Cloudy,Dead,282
+M_5554_679,6/19/2016,Lord's, South Africa ,West Indies, South Africa ,Fielding,West Indies,3,Player_199,Billy Bowden,Marais Erasmus,240,242,1,4,57197,Overcast,Dry,281
+M_7877_443,1/21/2015,Lord's,Bangladesh,Afghanistan,Bangladesh,Batting,Afghanistan,9,Player_189,Billy Bowden,Ian Gould,133,140,4,2,73383,Overcast,Green,185
+M_7146_618,5/27/2020,Newlands,Pakistan,Afghanistan,Afghanistan,Fielding,Pakistan,69 runs,Player_180,Marais Erasmus,Marais Erasmus,125,93,4,3,64717,Overcast,Dry,193
+M_1868_847,5/30/2016,SCG,India,Bangladesh,India,Bat,India,69,Player_213,Billy Bowden,Ian Gould,380,393,2,2,72967,Sunny,Green,287
+M_4090_796,2/2/2018,Gabba,Australia,Sri Lanka,Sri Lanka,Field,Australia,100 runs,Player_260,Marais Erasmus,,392,377,0,3,,Overcast,Dead,418
+M_5850_102,7/31/2020,Eden Gardens,Australia,Afghanistan,Afghanistan,bat,Australia,,Player_52,Aleem Dar,Richard Kettleborough,145,102,1,8,14836,,Green,296
+M_3204_149,8/18/2016,SCG,Pakistan,India,Pakistan,Field,India,90,Player_169,Ian Gould,Aleem Dar,190,200,0,1,44229,Sunny,Dead,196
+M_5466_848,7/16/2016,Newlands,Afghanistan,Pakistan,Pakistan,Bat,Pakistan,89,Player_240,Marais Erasmus,Simon Taufel,275,283,8,7,37847,Clear,Dry,180
+M_5312_115,10/11/2022,MCG,Afghanistan,New Zealand,Afghanistan,Batting,New Zealand,47 runs,Player_39,Simon Taufel,Billy Bowden,345,351,7,8,19264,Overcast,Green,408
+M_2241_383,11/29/2015,Gabba,England,South Africa,England,bowl,England,26,Player_117,Aleem Dar,Ian Gould,195,208,8,0,15427,Cloudy,Dead,228
+M_4223_678,7/8/2017,MCG,South Africa,Bangladesh,Bangladesh,Batting,Bangladesh,69 runs,Player_15,Aleem Dar,,221,230,1,6,17606,Clear,Dry,409
+M_3105_389,8/26/2020,Eden Gardens, South Africa ,Bangladesh, South Africa ,Batting, South Africa ,48,Player_64,Simon Taufel,Ian Gould,175,147,9,7,,Overcast,Dead,296
+M_6210_599,9/20/2016,Wankhede,Sri Lanka,India,Sri Lanka, BATTING,Sri Lanka,,Player_272,Simon Taufel,Marais Erasmus,356,330,4,10,68004,Cloudy,Flat,235
+M_7303_368,4/11/2019,Gabba,Sri Lanka,Afghanistan,Afghanistan,bat,Sri Lanka,83,Player_36,Aleem Dar,,148,166,0,8,12752,,Unknown,-30
+M_8338_370,7/2/2022,SCG,West Indies,Australia,West Indies,Field,West Indies,108,Player_219,Marais Erasmus,Simon Taufel,150,159,5,8,78793,Rainy,Green,252
+M_6752_997,8/12/2020,Newlands,Australia,Bangladesh,Bangladesh,Batting,Australia,68,Player_37,Richard Kettleborough,Billy Bowden,181 (approx),198,1,3,23168,,Dead,246
+M_4598_1,3/11/2021,Eden Gardens,Sri Lanka,Australia,Sri Lanka,bowl,Sri Lanka,13,Player_118,Simon Taufel,Marais Erasmus,286,261,4,10,,Clear,Green,298
+M_4406_982,1/10/2017,Wankhede,England,Pakistan,Pakistan,Fielding,England,,Player_288,Richard Kettleborough,Richard Kettleborough,104,56,2,6,44013,,Dry,273
+M_1782_605,24-04-2021,SuperSport Park,Bangladesh,South Africa,Bangladesh,bat,South Africa,90,Player_31,Aleem Dar,Billy Bowden,215,218,7,2,75899,Clear,Dry,236
+M_1613_416,3/28/2019,Newlands,Australia,England,England,Batting,,39 runs,Player_34,Aleem Dar,Aleem Dar,314,321,2,6,76703,Cloudy,Unknown,196
+M_6790_866,2/23/2021,Gabba,India,pakistan,pakistan,Batting,India,3 runs,Player_291,Richard Kettleborough,Richard Kettleborough,351 (approx),313,5,6,52948,Overcast,Dead,350
+M_8738_562,5/28/2018,Lord's,West Indies,Sri Lanka,West Indies,Bat,Sri Lanka,63,Player_238,Marais Erasmus,,247,253,2,9,,Cloudy,Flat,418
+M_2852_943,1/7/2015,Wankhede,Bangladesh,Australia,Australia,Field,Bangladesh,35,Player_163,Ian Gould,Simon Taufel,251,219,9,0,48745,Cloudy,Dead,289
+M_8151_650,6/7/2021,Lord's,Australia,New Zealand,New Zealand,Fielding,New Zealand,70,Player_68,Billy Bowden,,139,148,9,9,46286,,Green,216
+M_2994_687,30-06-2017,Lord's,New Zealand,Australia,New Zealand,Batting,New Zealand,,Player_72,Aleem Dar,,310,323,1,7,22770,,Green,308
+M_7145_585,31-12-2019,SCG,Australia,South Africa,South Africa,Fielding,South Africa,74,Player_146,Ian Gould,Richard Kettleborough,109,114,10,0,13967,Cloudy,Dry,187
+M_4909_79,12/9/2017,MCG,Australia,India,India, BATTING,Australia,,Player_223,Simon Taufel,Ian Gould,140,134,2,8,47827,Sunny,Dry,366
+M_9311_206,5/11/2015,MCG,England,Bangladesh,England,bat,Bangladesh,115,Player_106,Richard Kettleborough,,363,365,7,7,19539,Clear,Flat,390
+M_1385_391,10/16/2022,SuperSport Park,Sri Lanka,Afghanistan,Afghanistan,bat,,83,Player_282,Simon Taufel,,121,125,2,8,46872,Rainy,Unknown,375
+M_3496_281,6/15/2020,Gabba,Sri Lanka,Australia,Australia, BATTING,Sri Lanka,,Player_59,Aleem Dar,,275,234,9,8,5657,Sunny,Flat,-18
+M_9515_120,10/7/2021,,West Indies,England,West Indies, BATTING,West Indies,102,Player_106,Billy Bowden,Marais Erasmus,394,397,3,1,42128,Overcast,Flat,327
+M_1793_75,10/12/2020,,Australia,Sri Lanka,Sri Lanka, BATTING,Sri Lanka,86,Player_236,Simon Taufel,,373,380,7,4,47318,Clear,Dry,381
+M_6658_666,7/13/2016,Gabba,South Africa,India,India, BATTING,South Africa,95,Player_279,Richard Kettleborough,Billy Bowden,230,195,0,7,32171,Rainy,Dry,225
+M_5734_513,23-08-2016,Gabba,Pakistan,afghanistan,Pakistan,Fielding,Draw,,Player_116,Simon Taufel,,379,387,0,3,67781,Cloudy,Green,349
+M_4524_759,12/22/2021,MCG,Pakistan,South Africa,South Africa,bat,Pakistan,67,Player_113,Richard Kettleborough,Ian Gould,138,88,5,5,73003,Sunny,Dusty,374
+M_1407_846,10/27/2018,Lord's,INDIA,Australia,INDIA,Bat,INDIA,,Player_89,Marais Erasmus,,199,190,10,1,83154,Clear,Flat,397
+M_8989_543,4/2/2020,Eden Gardens,New Zealand,Sri Lanka,New Zealand, BATTING,New Zealand,79,Player_111,Richard Kettleborough,Aleem Dar,227,240,10,5,,Cloudy,Dead,322
+M_8407_620,5/30/2015,SuperSport Park,India,Pakistan,India,Field,India,61,Player_169,Aleem Dar,Richard Kettleborough,161,164,2,6,58780,Clear,Flat,-18
+M_6190_671,24-05-2020,Lord's,Bangladesh,Sri Lanka,Bangladesh, BATTING,Bangladesh,49,Player_5,Richard Kettleborough,,291,274,3,2,,Clear,Dead,299
+M_9970_517,5/5/2021,Lord's,India,Pakistan,Pakistan,bat,Pakistan,96,Player_261,Ian Gould,Aleem Dar,185,187,8,0,11598,Cloudy,Dead,399
+M_4277_811,1/11/2019,Newlands,New Zealand,Pakistan,New Zealand,bat,New Zealand,84,Player_286,Marais Erasmus,,1330,1333,5,6,48421,Rainy,Dry,383
+M_1235_276,9/8/2016,Gabba,Pakistan,India,India,bat,Draw,17,Player_9,Richard Kettleborough,Ian Gould,396,400,3,6,76576,Cloudy,Green,353
+M_5526_934,9/24/2019,Eden Gardens,Afghanistan,Pakistan,Pakistan,Batting,Pakistan,3,Player_29,Richard Kettleborough,Richard Kettleborough,179,182,10,7,57075,Overcast,Flat,357
+M_3543_369,1/14/2017,Gabba,Afghanistan,West Indies,Afghanistan,Batting,West Indies,20,Player_233,Billy Bowden,Marais Erasmus,119,121,4,4,19126,Clear,Flat,307
+M_9279_712,5/6/2015,SuperSport Park,Sri Lanka,India,Sri Lanka,Field,India,27,Player_146,Billy Bowden,Aleem Dar,356,362,1,9,,Rainy,Dusty,278
+M_6681_204,7/28/2015,SuperSport Park,New Zealand,Sri Lanka,New Zealand,Fielding,Sri Lanka,63,Player_11,Aleem Dar,Aleem Dar,349,350,6,9,46399,Rainy,Flat,306
+M_9591_63,17-08-2019,Wankhede,India,afghanistan,India,Field,India,,Player_270,Richard Kettleborough,Richard Kettleborough,372 (approx),391,4,8,,Rainy,Green,207
+M_5948_293,8/6/2015,Lord's, Afghanistan ,Australia, Afghanistan ,bat,Australia,12,Player_289,Marais Erasmus,Richard Kettleborough,200,202,0,7,51482,Rainy,Flat,408
+M_8506_863,9/16/2018,SCG,India,New Zealand,India,Field,India,45,Player_54,Simon Taufel,Ian Gould,111,111,0,2,48393,Rainy,Green,328
+M_2970_213,5/6/2019,Lord's,Afghanistan,Sri Lanka,Sri Lanka,bowl,Afghanistan,99,Player_10,Richard Kettleborough,Aleem Dar,163,173,9,8,80609,Clear,Dry,308
+M_6463_165,23-05-2015,SuperSport Park,New Zealand,Australia,Australia,Batting,Draw,20,Player_29,Billy Bowden,Billy Bowden,8839,8847,1,8,,Rainy,Dead,419
+M_7223_456,15-12-2017,SuperSport Park,Afghanistan,Australia,Australia,Batting,Afghanistan,41,Player_122,Ian Gould,Richard Kettleborough,203,172,8,1,,Cloudy,Flat,334
+M_5222_949,11/10/2021,Eden Gardens,India,Pakistan,Pakistan,Bat,Pakistan,47,Player_198,Richard Kettleborough,Billy Bowden,293,302,10,1,68979,Rainy,Dry,187
+M_7829_790,6/3/2016,,Sri Lanka,Australia,Sri Lanka,Field,Sri Lanka,20,Player_223,Marais Erasmus,Billy Bowden,177,171,5,4,8241,Clear,Dry,315
+M_3600_772,6/7/2019,SuperSport Park,Pakistan,South Africa,South Africa,bowl,South Africa,119,Player_134,Aleem Dar,Richard Kettleborough,286,289,5,5,33509,Rainy,Dusty,320
+M_5299_384,9/6/2020,Gabba,New Zealand,Sri Lanka,New Zealand,bowl,New Zealand,,Player_231,Richard Kettleborough,Marais Erasmus,320 (approx),283,10,1,46733,Overcast,Dead,353
+M_3619_604,9/26/2019,Newlands,Australia,India,India, BATTING,India,6,Player_222,Aleem Dar,Simon Taufel,116,120,6,7,29056,Clear,Flat,400
+M_2142_514,3/25/2019,,West Indies,afghanistan,West Indies,Bat,West Indies,116,Player_17,Ian Gould,,335,332,10,2,80062,,Dusty,264
+M_7934_411,5/29/2015,Wankhede,Bangladesh,South Africa,Bangladesh,bowl,South Africa,20,Player_9,Aleem Dar,Simon Taufel,242,245,4,2,,Clear,Green,253
+M_5509_487,1/14/2017,Lord's,Afghanistan,Sri Lanka,Sri Lanka,Field,Afghanistan,4,Player_1,Ian Gould,Aleem Dar,177,196,5,1,55585,Overcast,Green,391
+M_3236_23,12/5/2016,SCG,West Indies,Afghanistan,West Indies,Bat,Afghanistan,60,Player_213,Richard Kettleborough,Ian Gould,178,183,4,6,68242,Clear,Green,415
+M_7566_652,6/17/2019,SCG,England,pakistan,pakistan,Batting,pakistan,84,Player_201,Simon Taufel,Richard Kettleborough,379 (approx),384,8,0,55386,Cloudy,Dusty,327
+M_4479_198,31-08-2016,Eden Gardens,India,South Africa,India,Bat,South Africa,91,Player_270,Ian Gould,,157,160,1,3,42239,Clear,Dead,408
+M_5067_49,1/2/2020,Lord's,SRI LANKA,New Zealand,SRI LANKA,Fielding,SRI LANKA,45,Player_168,Ian Gould,Aleem Dar,289,296,7,1,40058,,Dry,401
+M_3871_173,2/26/2019,MCG,SRI LANKA,England,England,Fielding,SRI LANKA,70,Player_288,Billy Bowden,Aleem Dar,141,119,0,8,52708,,Dead,190
+M_7955_381,11/9/2022,Gabba,India,south africa,south africa,Field,south africa,119,Player_68,Richard Kettleborough,Ian Gould,109,113,6,6,9716,Rainy,Dead,398
+M_9442_458,3/2/2017,Gabba,Bangladesh,England,England,Fielding,England,120,Player_210,Simon Taufel,Ian Gould,379,387,10,9,62400,Cloudy,Dead,242
+M_8071_901,4/13/2020,,West Indies,Australia,Australia,Field,West Indies,24,Player_33,Ian Gould,,167,158,6,9,53575,Rainy,Green,208
+M_3067_92,8/23/2019,,Pakistan,Bangladesh,Pakistan,Fielding,Bangladesh,39 runs,Player_41,Billy Bowden,Billy Bowden,117,126,10,9,24326,Cloudy,Green,234
+M_7471_482,30-10-2017,Newlands,West Indies,Australia,Australia,Fielding,West Indies,81,Player_115,Billy Bowden,,261,273,2,0,38491,Clear,Dead,390
+M_2615_361,2/13/2023,MCG,Australia,New Zealand,Australia,bat,Australia,64,Player_123,Richard Kettleborough,Billy Bowden,236,194,9,6,84511,Rainy,Unknown,207
+M_6766_71,3/8/2022,Lord's,England,Afghanistan,England,Bat,Afghanistan,9,Player_153,Ian Gould,Billy Bowden,374,380,1,4,69157,Clear,Dry,330
+M_4607_314,3/16/2023,SCG,England,New Zealand,England,Batting,New Zealand,100 runs,Player_241,Aleem Dar,Aleem Dar,119,128,8,10,,Sunny,Dead,276
+M_7773_207,9/3/2020,Newlands,New Zealand,West Indies,New Zealand,Batting,New Zealand,104,Player_265,Billy Bowden,Simon Taufel,187,160,6,5,87502,Clear,Green,215
+M_4670_582,5/16/2022,SuperSport Park,South Africa,West Indies,West Indies,Fielding,South Africa,95,Player_164,Richard Kettleborough,Aleem Dar,203,207,5,3,41516,Overcast,Flat,309
+M_9697_550,6/8/2021,Eden Gardens,India,New Zealand,India, BATTING,India,96,Player_200,Richard Kettleborough,Aleem Dar,157,109,6,8,59677,Overcast,Flat,375
+M_7730_349,10/1/2017,Newlands,Australia,West Indies,West Indies,Batting,West Indies,41,Player_25,Ian Gould,,328,332,7,3,65398,Overcast,Flat,215
+M_3830_720,3/21/2022,SuperSport Park,INDIA,Australia,Australia,Field,Australia,30,Player_72,Richard Kettleborough,Ian Gould,207 (approx),216,2,0,6787,Cloudy,Unknown,214
+M_5385_707,2/15/2017,SuperSport Park,SOUTH AFRICA,Pakistan,Pakistan,Fielding,SOUTH AFRICA,84,Player_281,Marais Erasmus,Aleem Dar,183,154,2,1,66358,Overcast,Flat,354
+M_9109_367,6/3/2022,Gabba,Sri Lanka,South Africa,South Africa,Field,Sri Lanka,,Player_46,Simon Taufel,Ian Gould,283,294,8,6,26129,Clear,Green,393
+M_6224_59,9/27/2016,Gabba,West Indies,Pakistan,West Indies, BATTING,Pakistan,77 runs,Player_122,Richard Kettleborough,Billy Bowden,124,125,3,8,33477,Cloudy,Dusty,239
+M_7983_945,12/19/2016,Gabba,Sri Lanka,India,Sri Lanka, BATTING,Sri Lanka,59,Player_237,Simon Taufel,Aleem Dar,223,183,2,7,,,Dry,320
+M_6670_330,14-05-2018,Lord's,West Indies,Sri Lanka,Sri Lanka,Bat,West Indies,4,Player_236,Simon Taufel,Aleem Dar,253,206,9,2,22025,Sunny,Dusty,382
+M_1659_256,2/20/2016,SuperSport Park,Pakistan,India,India,Bat,Pakistan,39,Player_170,Simon Taufel,,374,381,10,7,26211,Sunny,Green,208
+M_4672_486,11/8/2016,SuperSport Park,Afghanistan,New Zealand,Afghanistan,bowl,New Zealand,76,Player_182,Simon Taufel,Marais Erasmus,232,234,6,1,51479,Clear,Green,304
+M_6067_420,8/27/2021,Wankhede,AUSTRALIA,New Zealand,AUSTRALIA, BATTING,AUSTRALIA,78,Player_124,Marais Erasmus,,301,301,7,5,71699,Rainy,Green,383
+M_4587_316,6/6/2022,Eden Gardens,Pakistan,South Africa,Pakistan,Batting,South Africa,,Player_158,Marais Erasmus,Ian Gould,237 (approx),244,5,4,46630,Rainy,Flat,248
+M_3051_302,9/1/2019,SuperSport Park,Pakistan,Australia,Pakistan,Bat,Pakistan,62,Player_282,Aleem Dar,,216 (approx),229,3,8,84709,Sunny,Flat,279
+M_2166_20,11/10/2020,SCG,Sri Lanka,South Africa,South Africa,Bat,South Africa,,Player_102,Marais Erasmus,,222,224,6,7,82832,,Dusty,359
+M_8770_920,30-04-2016,Gabba,West Indies,India,India,bowl,West Indies,53 runs,Player_257,Marais Erasmus,Marais Erasmus,317,285,8,10,77128,,Dead,267
+M_4479_198,31-08-2016,Eden Gardens,India,South Africa,India,Bat,South Africa,91,Player_270,Ian Gould,,157,160,1,3,42239,Clear,Dead,408
+M_2351_889,8/12/2017,Newlands,Australia,India,Australia,Fielding,India,115 runs,Player_281,Billy Bowden,Richard Kettleborough,105,109,3,10,21225,Clear,Dusty,273
+M_4615_680,14-09-2021,Eden Gardens,South Africa,Afghanistan,Afghanistan,bat,South Africa,86 runs,Player_54,Marais Erasmus,,192,163,9,7,16590,Sunny,Dead,237
+M_1387_347,2/23/2023,SuperSport Park,Afghanistan,Sri Lanka,Afghanistan,bat,Sri Lanka,73,Player_167,Ian Gould,Aleem Dar,306,313,2,7,,Cloudy,Dusty,255
+M_5023_873,1/16/2016,Lord's,Bangladesh,Australia,Australia, BATTING,Bangladesh,110,Player_127,Aleem Dar,Simon Taufel,205,174,0,0,50268,Clear,Dry,281
+M_9087_681,4/10/2016,Eden Gardens,Pakistan,India,India,Bat,Pakistan,118,Player_38,Richard Kettleborough,Simon Taufel,205,190,1,4,10975,Overcast,Flat,198
+M_9152_976,7/18/2020,SCG,India,New Zealand,New Zealand,bat,No Result,,Player_289,Ian Gould,Simon Taufel,259,266,8,6,38700,,Dusty,256
+M_7294_594,2/12/2022,Newlands,Bangladesh,England,England,Field,Draw,98 runs,Player_62,Ian Gould,,157,159,8,8,19557,Cloudy,Green,353
+M_7113_988,7/3/2017,Eden Gardens,Bangladesh,afghanistan,afghanistan,Bat,Bangladesh,107,Player_270,Aleem Dar,Billy Bowden,166,162,4,1,45808,,Green,355
+M_9357_941,4/28/2019,SCG,West Indies,Bangladesh,West Indies,Field,Bangladesh,78,Player_234,Billy Bowden,,214,215,1,4,61936,Overcast,Flat,254
+M_6189_980,5/2/2022,Lord's,Sri Lanka,West Indies,West Indies,bat,West Indies,88,Player_206,Ian Gould,,392,397,2,6,16176,Overcast,Dry,375
+M_5626_270,3/8/2017,Wankhede,Pakistan,Sri Lanka,Pakistan,Batting,Sri Lanka,40,Player_162,Marais Erasmus,Aleem Dar,116,118,9,0,78890,Sunny,Dusty,182
+M_2674_445,10/27/2022,Newlands,South Africa,Bangladesh,South Africa, BATTING,Bangladesh,82 runs,Player_270,Marais Erasmus,Simon Taufel,222,226,5,3,73971,Sunny,Green,386
+M_9612_870,8/19/2020,Eden Gardens,South Africa,New Zealand,South Africa,Batting,New Zealand,31,Player_285,Ian Gould,Billy Bowden,159,162,3,8,15955,,Dusty,-11
+M_5795_701,16-07-2022,Newlands,Australia,England,Australia,Field,Australia,79,Player_282,Billy Bowden,Billy Bowden,231,217,1,2,,Overcast,Green,217
+M_1388_340,9/30/2017,Eden Gardens,West Indies,Afghanistan,Afghanistan, BATTING,Afghanistan,,Player_150,Marais Erasmus,Billy Bowden,116,123,7,6,14222,Clear,Dead,345
+M_2062_450,21-03-2021,SCG,South Africa,New Zealand,South Africa,Field,New Zealand,53 runs,Player_294,Aleem Dar,Billy Bowden,291 (approx),293,10,5,64183,,Dead,274
+M_2646_25,7/2/2023,SCG,West Indies,India,India,bat,West Indies,110,Player_15,Simon Taufel,Simon Taufel,262,220,0,9,13968,Overcast,Flat,291
+M_1049_57,11/22/2020,MCG,AFGHANISTAN,Australia,Australia,Fielding,AFGHANISTAN,57 runs,Player_24,Marais Erasmus,Simon Taufel,398,353,0,7,22294,Sunny,Dusty,-34
+M_7895_78,3/16/2021,Lord's, Australia ,South Africa,South Africa,bat, Australia ,83 runs,Player_242,Simon Taufel,,222,228,10,9,14307,Overcast,Green,279
+M_6964_919,11/16/2021,Newlands,Sri Lanka,West Indies,Sri Lanka,bowl,Sri Lanka,24,Player_101,Aleem Dar,Marais Erasmus,188,143,9,9,62518,Overcast,Dry,206
+M_2398_32,12/26/2022,MCG,Afghanistan,Bangladesh,Afghanistan,bowl,Afghanistan,111,Player_191,Aleem Dar,Ian Gould,216,178,1,5,60936,Cloudy,Dry,197
+M_8918_463,3/1/2020,Gabba,Bangladesh,Sri Lanka,Sri Lanka,bowl,Sri Lanka,102,Player_200,Aleem Dar,Aleem Dar,199,209,5,6,26551,Overcast,Dusty,364
+M_2540_399,12/11/2021,Gabba,New Zealand,sri lanka,New Zealand,bat,New Zealand,,Player_124,Ian Gould,Simon Taufel,400,376,10,7,8581,Sunny,Dead,203
+M_8396_478,9/19/2021,SCG,India,England,England,Field,India,116 runs,Player_34,Richard Kettleborough,Billy Bowden,181,201,4,0,,,Dry,307
+M_1435_446,10/20/2021,Eden Gardens,Bangladesh,India,Bangladesh,bowl,Bangladesh,,Player_55,Richard Kettleborough,Simon Taufel,358,337,1,7,70625,Clear,Flat,413
+M_2965_163,3/3/2020,Lord's,New Zealand,Sri Lanka,New Zealand,bowl,,,Player_193,Billy Bowden,Billy Bowden,153,159,4,4,,Sunny,Green,333
+M_8295_203,12/8/2021,Newlands,West Indies,New Zealand,New Zealand,Bat,,25,Player_11,Marais Erasmus,Aleem Dar,174,181,8,3,16284,Rainy,Flat,222
+M_4186_739,6/21/2020,MCG,Sri Lanka,South Africa,South Africa,bowl,South Africa,22,Player_124,Simon Taufel,Ian Gould,206,207,6,7,50620,Cloudy,Green,385
+M_4443_986,29-08-2020,SCG, Sri Lanka ,south africa, Sri Lanka , BATTING,,100,Player_112,Aleem Dar,Marais Erasmus,273,276,8,2,62980,Rainy,Dusty,226
+M_3598_386,1/14/2018,SCG,West Indies,England,England,Batting,West Indies,110,Player_220,Ian Gould,,130 (approx),137,5,7,84667,Rainy,Dry,-31
+M_7339_902,6/29/2022,SuperSport Park,Australia,England,Australia,Bat,Australia,64,Player_281,Simon Taufel,Richard Kettleborough,130,131,4,10,49675,Clear,Flat,-13
+M_1935_305,8/6/2021,SuperSport Park,New Zealand,Afghanistan,New Zealand, BATTING,New Zealand,,Player_148,Ian Gould,Ian Gould,256,232,9,5,39410,Sunny,Dead,291
+M_6627_853,7/15/2019,MCG, New Zealand ,Australia,Australia,bowl,Australia,59,Player_235,Richard Kettleborough,Simon Taufel,217,224,6,9,84681,Rainy,Flat,394
+M_2792_546,5/3/2016,Lord's,AUSTRALIA,India,India, BATTING,India,116 runs,Player_90,Aleem Dar,Marais Erasmus,348,349,3,9,24798,Clear,Dusty,225
+M_5415_21,12/24/2017,Lord's,South Africa,England,England,bat,South Africa,35,Player_241,Ian Gould,Richard Kettleborough,141,106,9,4,,Clear,Flat,375
+M_7025_192,1/5/2016,Eden Gardens,New Zealand,West Indies,New Zealand,bowl,West Indies,28,Player_18,Billy Bowden,Simon Taufel,230,231,5,1,46482,Cloudy,Green,272
+M_8549_382,2/27/2018,Gabba,South Africa,West Indies,South Africa,Fielding,West Indies,32 runs,Player_55,Ian Gould,,178,182,1,0,6762,Clear,Dead,340
+M_8569_374,6/4/2016,Eden Gardens, West Indies ,South Africa, West Indies ,Bat,South Africa,57,Player_201,Marais Erasmus,,121,130,3,3,,,Dusty,415
+M_3302_191,10/2/2017,MCG,South Africa,India,India,Batting,South Africa,85,Player_268,Billy Bowden,Ian Gould,121,79,0,1,46144,Rainy,Flat,281
+M_3101_218,6/26/2017,Lord's,West Indies,India,India,bowl,West Indies,47 runs,Player_133,Ian Gould,Ian Gould,7289,7295,9,8,69751,Clear,Dead,324
+M_9541_728,23-08-2015,Wankhede,New Zealand,England,New Zealand,bowl,New Zealand,33 runs,Player_154,Aleem Dar,Ian Gould,289,250,9,1,19444,Sunny,Dusty,229
+M_7528_241,9/21/2015,Eden Gardens,Australia,New Zealand,Australia, BATTING,,,Player_183,Richard Kettleborough,Simon Taufel,366,371,7,5,84216,Overcast,Green,420
+M_6710_351,3/29/2015,Gabba, Bangladesh ,Sri Lanka, Bangladesh ,Batting, Bangladesh ,59,Player_162,Aleem Dar,Aleem Dar,394,395,2,3,45433,,Flat,379
+M_6356_962,20-12-2022,MCG,Australia,England,England,Fielding,England,66,Player_214,Richard Kettleborough,Billy Bowden,286 (approx),295,8,2,65732,Sunny,Dry,297
+M_1983_704,11/17/2019,Eden Gardens,AFGHANISTAN,New Zealand,AFGHANISTAN,bowl,New Zealand,,Player_111,Ian Gould,Ian Gould,388 (approx),394,10,0,,Rainy,Dusty,381
+M_3916_738,1/7/2020,SuperSport Park,England,Australia,Australia,bat,Australia,115,Player_53,Marais Erasmus,Ian Gould,352,358,3,1,58468,,Dusty,393
+M_6587_792,7/25/2019,SuperSport Park,England,India,England, BATTING,England,30,Player_166,Aleem Dar,Simon Taufel,305,322,6,9,38893,Sunny,Dusty,347
+M_1412_588,6/4/2016,MCG,England,south africa,England,bat,No Result,56,Player_171,Aleem Dar,,232,233,4,10,28292,Rainy,Dusty,278
+M_6224_59,9/27/2016,Gabba,West Indies,Pakistan,West Indies, BATTING,Pakistan,77 runs,Player_122,Richard Kettleborough,Billy Bowden,124,125,3,8,33477,Cloudy,Dusty,239
+M_5358_710,10/4/2022,,Pakistan,West Indies,West Indies,Field,West Indies,49,Player_188,Aleem Dar,,279,286,6,4,10333,Rainy,Green,229
+M_7286_746,3/31/2019,Lord's,New Zealand,India,India,bowl,India,61,Player_284,Richard Kettleborough,Marais Erasmus,369,379,0,8,61971,Overcast,Green,366
+M_1059_795,5/13/2021,Newlands,England,New Zealand,New Zealand,bat,England,,Player_185,Richard Kettleborough,Richard Kettleborough,2087,2102,7,4,49364,Sunny,Green,367
+M_2425_73,4/5/2021,MCG,England,Australia,Australia,Batting,Australia,66 runs,Player_122,Aleem Dar,Ian Gould,378,384,0,7,76611,Cloudy,Flat,295
+M_3509_325,7/29/2021,Lord's,South Africa,India,India,Bat,India,91,Player_68,Simon Taufel,Simon Taufel,392,400,10,7,69264,Clear,Flat,-5
+M_6797_162,6/24/2021,SuperSport Park,England,South Africa,England,Field,England,30,Player_140,Richard Kettleborough,Simon Taufel,342,295,0,4,63827,Clear,Flat,204
+M_9197_787,4/17/2015,Eden Gardens,Pakistan,Australia,Pakistan,Fielding,Pakistan,82,Player_294,Richard Kettleborough,,4413,4390,9,7,18102,Rainy,Green,188
+M_7622_937,5/16/2015,SCG,New Zealand,India,India,Batting,New Zealand,114,Player_70,Billy Bowden,,329,341,9,3,74233,Rainy,Dry,377
+M_4214_719,13-12-2019,,Bangladesh,Afghanistan,Bangladesh, BATTING,No Result,34,Player_53,Billy Bowden,Richard Kettleborough,192,200,7,5,88814,,Flat,378
+M_6651_559,3/28/2021,SuperSport Park, South Africa ,India, South Africa ,bowl,India,34,Player_53,Ian Gould,Ian Gould,154,161,3,0,24579,Overcast,Flat,180
+M_2474_583,9/28/2015,MCG,India,England,England,bat,Draw,8 runs,Player_208,Simon Taufel,,292,297,6,7,36361,Sunny,Dead,376
+M_2784_821,3/12/2016,Eden Gardens,Australia,West Indies,Australia,Bat,Australia,43,Player_109,Billy Bowden,,243,234,8,4,79009,Overcast,Green,238
+M_7998_716,11/29/2018,MCG, Australia ,India,India,Field,India,18 runs,Player_261,Marais Erasmus,Aleem Dar,163,166,9,3,67176,Overcast,Flat,283
+M_1183_232,11/8/2018,Lord's,West Indies,sri lanka,sri lanka,bat,sri lanka,85,Player_226,Richard Kettleborough,,171,176,2,0,,Clear,Green,199
+M_8706_925,4/8/2017,Newlands,West Indies,afghanistan,West Indies,bat,West Indies,68,Player_31,Marais Erasmus,,111,87,10,10,29041,Rainy,Unknown,283
+M_2015_932,12/12/2022,Lord's,Pakistan,India,India,bowl,Pakistan,92,Player_79,Marais Erasmus,Richard Kettleborough,270,238,5,5,51176,Cloudy,Dusty,310
+M_9176_45,1/28/2019,MCG,Australia,sri lanka,sri lanka,Field,Australia,,Player_135,Richard Kettleborough,Aleem Dar,178,151,1,9,23047,Overcast,Flat,186
+M_6150_312,2/1/2015,SCG,Australia,England,England,Fielding,Australia,7,Player_85,Simon Taufel,Marais Erasmus,396,362,6,5,28385,,Green,290
+M_5453_433,4/22/2020,SCG,Sri Lanka,India,Sri Lanka,bowl,India,62,Player_207,Simon Taufel,,108,116,8,8,89133,,Dead,245
+M_8291_76,13-02-2020,,England,West Indies,England,bowl,England,47,Player_176,Simon Taufel,Marais Erasmus,184,165,3,6,16953,,Green,331
+M_3787_611,10/15/2021,SuperSport Park,New Zealand,West Indies,New Zealand,Fielding,New Zealand,90,Player_182,Simon Taufel,Ian Gould,192,212,8,7,,Rainy,Green,233
+M_8291_76,13-02-2020,,England,West Indies,England,bowl,England,47,Player_176,Simon Taufel,Marais Erasmus,184,165,3,6,16953,,Green,331
+M_4431_205,11/30/2019,Eden Gardens,West Indies,Pakistan,Pakistan,bowl,West Indies,54,Player_184,Richard Kettleborough,Aleem Dar,284,284,4,1,68293,Clear,Dry,306
+M_5623_257,6/17/2022,SuperSport Park,South Africa,West Indies,South Africa, BATTING,West Indies,108,Player_127,Ian Gould,,155,158,8,0,,Rainy,Flat,291
+M_4692_403,7/26/2021,SuperSport Park,Bangladesh,New Zealand,Bangladesh,Batting,Bangladesh,50,Player_31,Marais Erasmus,,136,140,2,1,67611,Clear,Dry,394
+M_8816_737,21-02-2018,Newlands,Pakistan,south africa,south africa,Fielding,Pakistan,36,Player_30,Richard Kettleborough,,110,116,9,6,12002,Rainy,Dead,347
+M_7543_548,9/9/2020,MCG,Pakistan,Sri Lanka,Pakistan,bat,Sri Lanka,27,Player_73,Ian Gould,,262,267,7,7,46799,Overcast,Flat,287
+M_4068_717,6/6/2017,Eden Gardens,Bangladesh,Afghanistan,Bangladesh,bowl,Afghanistan,119,Player_238,Richard Kettleborough,Aleem Dar,194,201,8,0,79694,Rainy,Dry,389
+M_9884_460,7/17/2019,SCG,Australia,New Zealand,New Zealand,Batting,Australia,6,Player_260,Richard Kettleborough,Richard Kettleborough,237,188,8,0,25753,Overcast,Dead,357
+M_9468_479,3/13/2018,Gabba,Pakistan,Afghanistan,Afghanistan,bat,Draw,16,Player_230,Simon Taufel,,119,126,1,7,57250,Rainy,Dead,190
+M_7491_346,7/31/2018,Lord's,West Indies,India,India,Bat,India,24,Player_81,Richard Kettleborough,Marais Erasmus,218,227,8,7,18489,Cloudy,Green,262
+M_3370_30,9/9/2022,SCG,Pakistan,australia,australia, BATTING,australia,3 runs,Player_90,Simon Taufel,Simon Taufel,164 (approx),168,8,3,81858,Overcast,Dead,180
+M_7290_248,5/24/2018,SuperSport Park,Sri Lanka,West Indies,West Indies,bowl,Sri Lanka,81,Player_153,Ian Gould,,161,166,10,8,,Clear,Flat,383
+M_5832_313,11/24/2016,MCG,West Indies,South Africa,South Africa,Batting,West Indies,77,Player_228,Marais Erasmus,Simon Taufel,376 (approx),372,0,5,31626,Rainy,Dead,212
+M_9986_407,3/5/2021,Lord's,Australia,Sri Lanka,Australia,Fielding,Sri Lanka,7,Player_50,Billy Bowden,Aleem Dar,350,358,5,1,23314,Sunny,Unknown,197
+M_2405_703,10/31/2020,SuperSport Park,SOUTH AFRICA,England,SOUTH AFRICA, BATTING,England,38,Player_5,Richard Kettleborough,Richard Kettleborough,298,307,3,6,64160,Clear,Dead,334
+M_3208_900,2/1/2015,,Australia,West Indies,West Indies, BATTING,West Indies,101,Player_136,Simon Taufel,Aleem Dar,108,110,1,2,82462,Sunny,Dusty,327
+M_9143_883,10/26/2015,Newlands,Bangladesh,New Zealand,Bangladesh,Bat,Bangladesh,11,Player_150,Ian Gould,Billy Bowden,358,320,4,2,44580,Clear,Dusty,361
+M_8090_860,4/2/2021,Gabba,Bangladesh,England,Bangladesh,bat,Bangladesh,30,Player_140,Marais Erasmus,Billy Bowden,251,268,8,10,73452,,Dead,360
+M_1826_154,4/1/2017,Eden Gardens,South Africa,Pakistan,South Africa,bat,South Africa,70,Player_45,Marais Erasmus,Billy Bowden,172,156,2,1,45812,Rainy,Flat,300
+M_3631_190,6/20/2021,Wankhede,Bangladesh,England,England, BATTING,England,81 runs,Player_208,Aleem Dar,,336,339,4,6,58773,Sunny,Dry,248
+M_2359_691,10/29/2022,Lord's,Pakistan,New Zealand,New Zealand,Fielding,New Zealand,115,Player_228,Marais Erasmus,,378 (approx),385,0,6,48458,Rainy,Dusty,293
+M_7520_785,27-03-2022,Gabba,India,West Indies,India,Fielding,India,,Player_88,Marais Erasmus,Aleem Dar,303,305,7,0,65603,,Green,197
+M_6832_180,7/7/2020,,SRI LANKA,England,England,Fielding,England,81,Player_150,Ian Gould,Simon Taufel,161 (approx),171,4,2,,Cloudy,Flat,249
+M_1836_344,8/18/2015,MCG,Bangladesh,Australia,Australia, BATTING,,78,Player_101,Marais Erasmus,,197,199,2,8,,Clear,Dry,298
+M_6759_44,7/15/2015,Gabba,New Zealand,Pakistan,Pakistan,Field,New Zealand,103,Player_223,Richard Kettleborough,Simon Taufel,317,314,5,1,15494,Rainy,Dry,222
+M_8368_667,2/11/2021,Lord's, WEST INDIES ,new zealand, WEST INDIES ,Batting, WEST INDIES ,83,Player_65,Ian Gould,Billy Bowden,150,132,10,7,55672,,Dead,232
+M_8291_878,3/23/2017,Wankhede,New Zealand,India,New Zealand,Fielding,,,Player_200,Ian Gould,,311,314,2,3,73506,Overcast,Flat,346
+M_2460_168,5/9/2016,SCG,Sri Lanka,Pakistan,Pakistan,Fielding,Sri Lanka,22,Player_214,Billy Bowden,Marais Erasmus,324,339,10,9,54300,,Flat,181
+M_3005_303,12/11/2018,MCG,AUSTRALIA,Pakistan,AUSTRALIA,bowl,,103 runs,Player_129,Ian Gould,,129,132,4,0,46173,Cloudy,Green,335
+M_9330_981,9/3/2015,Newlands,Afghanistan,Pakistan,Pakistan,Batting,Pakistan,30,Player_109,Richard Kettleborough,Richard Kettleborough,205,211,2,8,,,Dusty,191
+M_5201_715,9/22/2015,Eden Gardens,Pakistan,New Zealand,New Zealand,Batting,Pakistan,55 runs,Player_178,Billy Bowden,,301,318,1,2,22970,Sunny,Dead,257
+M_2971_352,10/4/2019,Gabba, New Zealand ,England,England,Field, New Zealand ,110,Player_163,Marais Erasmus,,328,323,6,9,,Clear,Flat,221
+M_4706_91,7/3/2020,Eden Gardens,Sri Lanka,Bangladesh,Bangladesh,Batting,Sri Lanka,61,Player_78,Billy Bowden,Simon Taufel,303,290,8,6,29232,Cloudy,Dusty,292
+M_4905_791,4/16/2022,MCG,Afghanistan,England,England,Bat,England,57,Player_67,Ian Gould,Aleem Dar,205,212,3,7,66398,Rainy,Flat,194
+M_7131_335,6/6/2015,Wankhede,Pakistan,Afghanistan,Pakistan,bowl,Pakistan,3,Player_224,Richard Kettleborough,Aleem Dar,140,105,3,9,39206,Clear,Green,357
+M_5435_743,12/3/2022,Eden Gardens,New Zealand,India,India,Bat,India,104,Player_81,Billy Bowden,Richard Kettleborough,225,229,4,0,17339,,Dusty,248
+M_8051_641,2/14/2015,,Bangladesh,Australia,Australia,bowl,Bangladesh,21,Player_238,Richard Kettleborough,Marais Erasmus,335,296,5,3,19694,Rainy,Unknown,339
+M_4110_637,10/5/2020,Newlands,India,South Africa,South Africa,bowl,India,42,Player_154,Richard Kettleborough,Ian Gould,146,118,6,9,32085,Overcast,Green,231
+M_7632_649,31-05-2018,Gabba, Afghanistan ,Bangladesh, Afghanistan ,bowl, Afghanistan ,87,Player_207,Richard Kettleborough,Billy Bowden,287,253,2,5,79602,Rainy,Flat,-5
+M_1782_817,24-02-2018,SuperSport Park,New Zealand,Australia,Australia, BATTING,No Result,118 runs,Player_233,Simon Taufel,Ian Gould,180,182,9,10,5291,Clear,Flat,326
+M_7961_210,8/25/2017,Newlands,West Indies,Pakistan,Pakistan,Fielding,West Indies,74,Player_110,Marais Erasmus,,366,373,9,3,52352,,Dry,200
+M_8084_426,23-09-2020,SuperSport Park,Bangladesh,West Indies,West Indies,bat,Bangladesh,3,Player_109,Aleem Dar,,144,144,2,8,75098,Overcast,Unknown,398
+M_3551_353,1/13/2019,Newlands,Australia,bangladesh,Australia, BATTING,Australia,109,Player_20,Simon Taufel,Aleem Dar,143,114,0,4,89850,,Green,-17
+M_7159_865,9/6/2017,Wankhede,Sri Lanka,England,Sri Lanka,Batting,Sri Lanka,,Player_127,Richard Kettleborough,Ian Gould,165,179,3,9,,,Dead,307
+M_4164_55,7/22/2020,SuperSport Park, India ,Sri Lanka, India ,Fielding, India ,70,Player_219,Ian Gould,Marais Erasmus,168,129,1,5,26298,Cloudy,Unknown,266
+M_3231_857,2/20/2020,Wankhede,SRI LANKA,Australia,Australia,Batting,SRI LANKA,65,Player_213,Simon Taufel,Ian Gould,377,337,4,5,72203,Overcast,Green,-11
+M_9379_185,11/30/2019,Newlands,Australia,Sri Lanka,Sri Lanka,bowl,Sri Lanka,44,Player_56,Simon Taufel,Marais Erasmus,306,313,4,9,82810,Rainy,Dead,283
+M_2146_718,10/3/2016,Lord's,Pakistan,Bangladesh,Pakistan,Fielding,Bangladesh,117,Player_181,Marais Erasmus,Simon Taufel,372,373,4,1,,Rainy,Dead,329
+M_4567_564,2/8/2019,MCG,West Indies,South Africa,South Africa,bowl,West Indies,75,Player_103,Aleem Dar,Ian Gould,392,379,9,3,9803,Clear,Unknown,229
+M_3496_554,7/20/2022,Wankhede,Bangladesh,Sri Lanka,Bangladesh,bat,Sri Lanka,97,Player_179,Aleem Dar,Ian Gould,303,307,4,1,5107,Clear,Green,410
+M_3333_223,9/22/2021,Wankhede,West Indies,Afghanistan,West Indies,Bat,West Indies,1,Player_300,Richard Kettleborough,,338,328,5,6,31911,Sunny,Flat,-43
+M_2653_300,5/17/2015,Wankhede,Australia,South Africa,Australia,Batting,South Africa,25,Player_27,Ian Gould,Simon Taufel,342,348,8,2,13802,Sunny,Green,380
+M_2508_455,1/31/2020,Newlands,Pakistan,India,Pakistan,Field,India,35 runs,Player_243,Marais Erasmus,Aleem Dar,326,333,7,2,57850,Cloudy,Dusty,184
+M_6347_929,4/10/2019,,Afghanistan,Sri Lanka,Afghanistan,Field,,77,Player_150,Aleem Dar,,280,281,10,7,32325,,Dead,271
+M_2692_606,6/7/2019,Lord's,Sri Lanka,West Indies,Sri Lanka,Batting,West Indies,,Player_24,Aleem Dar,,379,380,7,5,59104,,Unknown,182
+M_4502_283,2/4/2022,Gabba,Pakistan,Afghanistan,Pakistan,Fielding,Afghanistan,4 runs,Player_120,Ian Gould,,319,325,3,10,53714,Sunny,Unknown,-29
+M_5584_444,3/2/2016,Eden Gardens,Sri Lanka,South Africa,Sri Lanka,bowl,Sri Lanka,111,Player_116,Billy Bowden,,217,190,10,2,43513,Sunny,Dry,276
+M_8880_315,6/23/2016,Wankhede,West Indies,New Zealand,West Indies,Bat,,89,Player_58,Richard Kettleborough,Marais Erasmus,398,404,10,2,44334,Rainy,Dry,333
+M_3504_36,12/4/2016,MCG,India,Pakistan,Pakistan,Batting,India,96,Player_91,Billy Bowden,Ian Gould,186,192,3,5,51019,Cloudy,Green,245
+M_1963_581,7/12/2018,SCG,AFGHANISTAN,Bangladesh,AFGHANISTAN,Fielding,Bangladesh,113,Player_160,Marais Erasmus,Ian Gould,246,255,4,7,77876,Clear,Green,234
+M_9078_89,10/3/2021,Gabba,India,England,India,bat,England,114,Player_280,Marais Erasmus,,271,276,1,5,38640,Sunny,Dry,222
+M_8503_175,3/23/2016,Lord's,New Zealand,Australia,Australia,Bat,New Zealand,45,Player_157,Aleem Dar,Aleem Dar,110 (approx),122,3,8,89498,Overcast,Dead,395
+M_3884_602,7/11/2018,Lord's,New Zealand,India,India,Field,New Zealand,10,Player_247,Simon Taufel,,223,176,2,7,32532,Cloudy,Green,226
+M_8077_552,11/10/2021,Eden Gardens,New Zealand,England,England,Fielding,England,79,Player_87,Billy Bowden,,308,318,4,9,,Cloudy,Dead,185
+M_7601_771,2/3/2015,Lord's,India,new zealand,India,Batting,India,52,Player_254,Aleem Dar,,277,263,0,5,37118,Sunny,Dry,304
+M_1672_37,8/21/2022,Wankhede,Afghanistan,West Indies,West Indies,Batting,Afghanistan,76 runs,Player_165,Ian Gould,Aleem Dar,258 (approx),274,4,1,89497,Clear,Dry,298
+M_5098_123,21-10-2020,SuperSport Park,Afghanistan,South Africa,South Africa,Fielding,South Africa,78,Player_289,Marais Erasmus,Richard Kettleborough,306,311,8,1,,Sunny,Dusty,404
+M_4868_903,30-10-2016,Gabba,India,pakistan,India,Fielding,India,,Player_135,Richard Kettleborough,Richard Kettleborough,230,198,8,1,85109,,Unknown,378
+M_1394_580,5/29/2017,Lord's,Pakistan,England,England,Bat,England,61,Player_139,Richard Kettleborough,Richard Kettleborough,111,114,10,5,,Rainy,Dry,334
+M_8807_394,2/15/2015,MCG,India,Afghanistan,India,Bat,India,48 runs,Player_45,Billy Bowden,,111,127,4,2,39435,Cloudy,Flat,405
+M_9645_498,12/8/2017,Lord's,Pakistan,New Zealand,Pakistan,Fielding,New Zealand,83,Player_32,Richard Kettleborough,Richard Kettleborough,264,274,8,7,70842,Clear,Dead,325
+M_7514_826,9/9/2015,MCG,South Africa,Australia,South Africa,bowl,South Africa,,Player_247,Marais Erasmus,,170,181,8,8,22853,,Flat,314
+M_9626_39,9/3/2021,,Sri Lanka,England,Sri Lanka,bowl,England,83,Player_173,Ian Gould,,109,112,5,7,30166,,Flat,309
+M_7466_702,11/13/2018,Newlands,India,New Zealand,New Zealand,bat,New Zealand,,Player_7,Marais Erasmus,,331,334,3,7,89555,Sunny,Dusty,261
+M_7864_555,5/7/2020,Wankhede,Australia,Bangladesh,Bangladesh,Field,Australia,48,Player_278,Billy Bowden,Billy Bowden,375,361,1,9,21703,Rainy,Dead,357
+M_7956_331,13-06-2018,MCG,England,New Zealand,England,bowl,No Result,13,Player_178,Marais Erasmus,Ian Gould,208,215,3,1,55800,Cloudy,Dusty,409
+M_4495_507,1/25/2019,SuperSport Park,Australia,india,Australia,Bat,Australia,1,Player_177,Aleem Dar,Richard Kettleborough,144,125,5,4,34753,,Dry,285
+M_3040_408,10/2/2015,SuperSport Park,India,Afghanistan,India,Batting,Afghanistan,,Player_114,Aleem Dar,Aleem Dar,399,403,6,3,76003,Sunny,Dead,249
+M_6367_194,10/2/2021,Wankhede,Pakistan,Sri Lanka,Sri Lanka,Batting,Sri Lanka,81,Player_44,Marais Erasmus,Marais Erasmus,156,165,10,2,82858,Overcast,Green,246
+M_4725_586,14-12-2019,Gabba,SRI LANKA,afghanistan,afghanistan,bowl,SRI LANKA,89,Player_99,Marais Erasmus,Aleem Dar,213,197,2,6,,Sunny,Dusty,411
+M_6922_648,1/14/2023,SuperSport Park,India,Afghanistan,Afghanistan,Field,Afghanistan,58,Player_18,Richard Kettleborough,Aleem Dar,138,147,0,6,57665,Sunny,Dry,180
+M_3579_122,9/20/2015,SCG,Sri Lanka,Australia,Sri Lanka,bowl,Australia,105,Player_205,Richard Kettleborough,Marais Erasmus,105,114,0,9,71918,Cloudy,Dusty,241
+M_4319_322,9/2/2019,Lord's,India,pakistan,India,Bat,pakistan,21 runs,Player_53,Billy Bowden,,215,216,4,4,60858,Clear,Dusty,323
+M_6856_959,8/13/2016,Wankhede,AFGHANISTAN,England,AFGHANISTAN,bowl,AFGHANISTAN,103,Player_173,Aleem Dar,,232,246,0,6,11648,Clear,Flat,193
+M_7305_104,9/11/2021,Eden Gardens,Sri Lanka,Pakistan,Sri Lanka,Field,Sri Lanka,41 runs,Player_6,Billy Bowden,Ian Gould,368,360,10,5,73039,Sunny,Green,303
+M_3089_266,9/7/2016,SuperSport Park,England,Sri Lanka,England,Field,Sri Lanka,10,Player_181,Richard Kettleborough,Marais Erasmus,176,179,6,7,67709,,Dusty,217
+M_6564_549,9/10/2016,Wankhede,Pakistan,England,Pakistan,Bat,Pakistan,52,Player_55,Aleem Dar,Simon Taufel,178,176,4,10,,Overcast,Dead,-8
+M_4519_356,10/18/2020,SCG,West Indies,Bangladesh,Bangladesh,Fielding,Bangladesh,81 runs,Player_280,Marais Erasmus,,1358,1362,5,0,79984,Cloudy,Dead,283
+M_7435_397,1/21/2021,Gabba,England,Pakistan,Pakistan, BATTING,Pakistan,65,Player_209,Billy Bowden,Simon Taufel,9818,9821,10,5,,Overcast,Dry,313
+M_3230_67,9/21/2017,Wankhede,Australia,Bangladesh,Australia,Bat,Australia,47,Player_246,Richard Kettleborough,,353,348,2,4,5887,Clear,Dusty,292
+M_5406_328,12/26/2016,Wankhede,New Zealand,South Africa,New Zealand, BATTING,South Africa,5,Player_133,Aleem Dar,Simon Taufel,179,183,6,5,89673,Cloudy,Dead,321
+M_5973_761,1/24/2019,Lord's,PAKISTAN,Afghanistan,Afghanistan,bat,PAKISTAN,115 runs,Player_51,Aleem Dar,Ian Gould,308,258,5,5,64849,Rainy,Dusty,263
+M_4565_741,10/1/2015,Wankhede,Pakistan,Bangladesh,Bangladesh,Batting,Bangladesh,,Player_5,Marais Erasmus,Ian Gould,377,387,5,4,17801,Clear,Green,204
+M_2110_756,7/4/2019,Lord's,West Indies,New Zealand,New Zealand, BATTING,New Zealand,60,Player_120,Billy Bowden,,296,299,0,5,22454,Clear,Flat,314
+M_6526_268,18-07-2016,Eden Gardens,South Africa,India,India,Field,South Africa,108,Player_147,Simon Taufel,,175,185,0,9,59590,Cloudy,Dusty,300
+M_6985_657,12/1/2018,MCG,Afghanistan,New Zealand,New Zealand,bat,New Zealand,36,Player_159,Simon Taufel,Marais Erasmus,339,344,3,1,78861,Rainy,Dry,297
+M_2854_159,13-12-2015,MCG,Sri Lanka,England,England,Field,England,50,Player_73,Billy Bowden,Richard Kettleborough,103,107,4,6,76587,,Unknown,303
+M_1019_535,11/4/2017,Newlands,South Africa,New Zealand,South Africa,Fielding,New Zealand,16 runs,Player_203,Richard Kettleborough,Billy Bowden,400,401,7,6,40689,Rainy,Dusty,-47
+M_7539_764,12/28/2015,Gabba,England,pakistan,pakistan, BATTING,pakistan,67,Player_22,Billy Bowden,Richard Kettleborough,122,123,2,4,6676,Overcast,Dusty,295
+M_9194_998,3/18/2020,Gabba,NEW ZEALAND,Australia,Australia,Fielding,NEW ZEALAND,48,Player_72,Ian Gould,Richard Kettleborough,330,299,7,6,55445,Rainy,Unknown,270
+M_1053_958,2/23/2019,MCG,Afghanistan,South Africa,South Africa,Bat,Afghanistan,,Player_119,Richard Kettleborough,Marais Erasmus,147,115,10,2,55377,Overcast,Dusty,286
+M_9040_337,8/5/2020,SuperSport Park, England ,West Indies,West Indies,Bat,West Indies,68,Player_276,Aleem Dar,Simon Taufel,261 (approx),269,9,9,26854,Rainy,Flat,372
+M_7638_779,6/16/2020,Wankhede,South Africa,Sri Lanka,South Africa,Field,South Africa,100 runs,Player_161,Marais Erasmus,Billy Bowden,276,272,1,4,,Overcast,Dusty,337
+M_4506_418,9/19/2016,Wankhede,South Africa,West Indies,West Indies,bat,South Africa,9,Player_147,Aleem Dar,Aleem Dar,129,94,7,0,48749,,Dry,417
+M_8197_527,4/5/2016,MCG,West Indies,India,West Indies,Fielding,West Indies,116,Player_13,Richard Kettleborough,Ian Gould,395,374,3,7,,Sunny,Dusty,388
+M_7308_619,8/14/2022,,West Indies,England,England,bat,England,67,Player_121,Richard Kettleborough,Marais Erasmus,130,138,2,9,,Overcast,Unknown,296
+M_9552_503,3/25/2021,Lord's,Sri Lanka,Bangladesh,Bangladesh, BATTING,Bangladesh,24,Player_195,Simon Taufel,Simon Taufel,391 (approx),398,9,3,,,Dusty,296
+M_5520_685,12/4/2015,Gabba,AUSTRALIA,South Africa,South Africa,Field,AUSTRALIA,42,Player_219,Marais Erasmus,Ian Gould,259,279,5,4,68774,,Dead,318
+M_1878_19,2/16/2016,SCG,Afghanistan,New Zealand,Afghanistan,Bat,New Zealand,112,Player_44,Aleem Dar,,106,114,5,2,11734,Sunny,Dry,305
+M_2166_98,5/14/2018,Wankhede,Pakistan,Bangladesh,Pakistan,bat,Bangladesh,,Player_257,Simon Taufel,Marais Erasmus,281,286,5,5,39152,Sunny,Dead,328
+M_3647_8,6/28/2022,SuperSport Park,Bangladesh,India,Bangladesh,Bat,India,44,Player_288,Simon Taufel,,235,240,0,1,88136,Sunny,Green,343
+M_8850_838,4/21/2016,Lord's,England,Afghanistan,England,Fielding,England,86,Player_239,Simon Taufel,Richard Kettleborough,364 (approx),355,7,4,56172,Cloudy,Dead,334
+M_5918_815,6/13/2020,Wankhede,New Zealand,Afghanistan,New Zealand,Field,New Zealand,110,Player_38,Simon Taufel,Simon Taufel,107,94,2,4,75345,Sunny,Dry,240
+M_7298_595,6/15/2015,SuperSport Park, Pakistan ,South Africa,South Africa,Fielding, Pakistan ,60,Player_283,Richard Kettleborough,Richard Kettleborough,107,95,4,3,22688,Cloudy,Flat,280
+M_9518_770,5/6/2021,SuperSport Park,India,Afghanistan,India,Batting,Afghanistan,84,Player_26,Simon Taufel,Ian Gould,243,252,8,3,45017,Rainy,Dead,192
+M_9700_727,10/3/2019,Eden Gardens,Afghanistan,India,Afghanistan,Fielding,India,,Player_158,Ian Gould,Simon Taufel,268,278,2,10,59889,Sunny,Green,251
+M_6385_235,10/4/2015,Gabba,Pakistan,West Indies,Pakistan,Fielding,Draw,16,Player_21,Ian Gould,Marais Erasmus,224,225,7,4,31478,Sunny,Dead,293
+M_9602_261,9/20/2021,Wankhede,India,England,England,Batting,England,10,Player_152,Billy Bowden,Simon Taufel,296,303,4,3,,Clear,Dead,296
+M_5535_532,6/14/2019,Eden Gardens,India,New Zealand,India, BATTING,New Zealand,20 runs,Player_186,Richard Kettleborough,Simon Taufel,212,215,0,8,42594,Rainy,Dry,196
+M_4791_258,10/18/2017,SuperSport Park,Bangladesh,England,Bangladesh,Field,England,24,Player_246,Simon Taufel,Billy Bowden,176,179,4,3,24163,Sunny,Dry,284
+M_7697_240,5/8/2017,MCG,England,New Zealand,England,Bat,New Zealand,56,Player_86,Simon Taufel,Marais Erasmus,168,171,1,7,79329,Sunny,Green,246
+M_5711_424,4/24/2022,Wankhede,New Zealand,Afghanistan,New Zealand,Batting,New Zealand,,Player_200,Ian Gould,Aleem Dar,240,191,0,8,88888,Sunny,Dead,234
+M_6775_911,1/14/2023,SCG,Australia,South Africa,South Africa,Field,Australia,,Player_139,Aleem Dar,,234 (approx),239,6,1,41354,Clear,Dead,277
+M_5429_775,4/6/2016,Newlands,South Africa,New Zealand,South Africa,Bat,New Zealand,99,Player_159,Simon Taufel,Richard Kettleborough,223,228,7,2,27668,Clear,Dusty,206
+M_9386_565,10/16/2019,MCG,Afghanistan,England,England,bat,,106,Player_183,Marais Erasmus,Aleem Dar,132,134,4,6,47823,Overcast,Dry,387
+M_7790_106,9/21/2018,,South Africa,West Indies,South Africa, BATTING,Draw,103,Player_64,Marais Erasmus,Ian Gould,154,157,6,1,38330,Rainy,Green,363
+M_9665_614,8/4/2015,Newlands,New Zealand,pakistan,pakistan,Bat,pakistan,74,Player_20,Richard Kettleborough,Marais Erasmus,202,205,4,7,,Rainy,Flat,287
+M_3203_365,9/25/2017,Wankhede,India,New Zealand,New Zealand,Batting,India,114,Player_276,Ian Gould,,233,207,4,6,53526,Cloudy,Dusty,199
+M_3286_993,6/13/2021,Wankhede,England,New Zealand,New Zealand,Batting,New Zealand,70 runs,Player_82,Marais Erasmus,Richard Kettleborough,249,259,5,1,71710,Clear,Dry,410
+M_8010_242,2/18/2023,Newlands,WEST INDIES,Sri Lanka,Sri Lanka, BATTING,Sri Lanka,61,Player_52,Billy Bowden,Ian Gould,101 (approx),107,5,0,47667,Rainy,Dead,383
+M_9986_656,6/16/2021,,West Indies,Afghanistan,West Indies,bat,No Result,6,Player_222,Simon Taufel,,293,301,8,0,80109,Cloudy,Flat,407
+M_8805_686,28-08-2015,,Afghanistan,South Africa,Afghanistan,Field,Afghanistan,100,Player_22,Simon Taufel,Billy Bowden,194,203,6,6,22467,Overcast,Unknown,277
+M_5447_886,8/29/2021,Gabba,Bangladesh,New Zealand,New Zealand,bowl,Bangladesh,37,Player_2,Simon Taufel,,274,238,7,6,52244,,Green,308
+M_5637_61,28-02-2019,Gabba,Australia,West Indies,West Indies,Fielding,Australia,86,Player_158,Richard Kettleborough,Marais Erasmus,270,289,3,1,67773,Cloudy,Green,321
+M_3856_835,11/25/2021,Wankhede,Afghanistan,Sri Lanka,Afghanistan,Batting,Sri Lanka,18,Player_187,Simon Taufel,Simon Taufel,124,133,7,10,63334,Overcast,Dusty,307
+M_1841_567,1/25/2016,MCG,Pakistan,England,Pakistan,bat,Pakistan,80,Player_226,Billy Bowden,Billy Bowden,334,298,5,7,48069,Clear,Dead,369
+M_7990_914,7/8/2019,Wankhede, India ,South Africa,South Africa,Field, India ,110,Player_106,Aleem Dar,Richard Kettleborough,192,144,9,3,70987,Cloudy,Dusty,375
+M_6303_318,6/23/2015,Eden Gardens,Sri Lanka,West Indies,Sri Lanka,Bat,West Indies,,Player_155,Richard Kettleborough,Simon Taufel,137 (approx),144,8,9,,Rainy,Dead,399
+M_2766_542,2/10/2017,Eden Gardens,West Indies,new zealand,new zealand, BATTING,West Indies,36,Player_118,Simon Taufel,,329,329,2,8,25095,Cloudy,Unknown,264
+M_7180_783,12/5/2017,Gabba,India,Australia,India,Batting,,1,Player_2,Marais Erasmus,Marais Erasmus,302,310,0,9,6385,Rainy,Dead,240
+M_9932_632,7/12/2022,Eden Gardens,Sri Lanka,Pakistan,Pakistan,bat,Pakistan,30,Player_190,Marais Erasmus,Simon Taufel,391,398,1,9,39212,Cloudy,Dead,420
+M_9459_658,2/3/2023,Newlands,New Zealand,Bangladesh,New Zealand,bowl,Bangladesh,14,Player_99,Billy Bowden,,212 (approx),219,10,5,76910,Overcast,Dry,394
+M_6354_139,9/25/2022,Wankhede, England ,West Indies,West Indies,Field, England ,105,Player_79,Simon Taufel,Marais Erasmus,161,152,9,0,88084,Overcast,Dusty,318
+M_7528_343,7/11/2018,Gabba,England,Bangladesh,England,Field,Draw,40,Player_260,Simon Taufel,Ian Gould,161,167,9,10,6599,Clear,Green,273
+M_6857_398,9/29/2016,Eden Gardens,South Africa,west indies,west indies,Bat,South Africa,97,Player_154,Richard Kettleborough,Aleem Dar,377 (approx),373,0,4,20869,Sunny,Dry,210
+M_2814_431,1/8/2018,Eden Gardens,Sri Lanka,New Zealand,Sri Lanka,Bat,Sri Lanka,24,Player_212,Simon Taufel,Marais Erasmus,227,242,3,0,14463,,Flat,-37
+M_2058_292,8/13/2022,Eden Gardens,England,New Zealand,England,Fielding,New Zealand,59,Player_233,Simon Taufel,,277,278,10,2,66121,Overcast,Green,257
+M_1081_694,3/24/2015,Lord's,India,New Zealand,New Zealand,Bat,India,,Player_182,Simon Taufel,Simon Taufel,144,95,2,1,52078,Rainy,Green,301
+M_8071_901,4/13/2020,,West Indies,Australia,Australia,Field,West Indies,24,Player_33,Ian Gould,,167,158,6,9,53575,Rainy,Green,208
+M_4442_499,17-05-2020,Eden Gardens,West Indies,England,West Indies, BATTING,West Indies,49,Player_296,Ian Gould,Aleem Dar,167,159,2,8,35862,Cloudy,Dead,-40
+M_9991_141,6/2/2018,Lord's,Pakistan,India,Pakistan, BATTING,Pakistan,,Player_10,Marais Erasmus,Billy Bowden,175 (approx),159,1,4,63990,Clear,Dead,313
+M_7314_807,12/12/2016,Gabba,Sri Lanka,South Africa,South Africa,Field,Sri Lanka,86,Player_216,Ian Gould,Simon Taufel,321 (approx),325,0,7,62123,Overcast,Dusty,335
+M_2040_2,5/14/2017,Newlands,New Zealand,Australia,Australia,bowl,New Zealand,34,Player_271,Richard Kettleborough,Simon Taufel,398,390,2,8,,,Green,382
+M_9786_388,1/27/2016,Wankhede,Pakistan,Bangladesh,Bangladesh,bowl,Pakistan,36,Player_62,Richard Kettleborough,Billy Bowden,130,122,5,5,86350,,Dusty,304
+M_4273_339,4/20/2019,SCG, England ,Australia, England ,Fielding,Australia,3,Player_34,Simon Taufel,,391,393,0,9,56031,Cloudy,Green,224
+M_8846_732,18-03-2019,SuperSport Park, South Africa ,New Zealand, South Africa ,bowl,,71,Player_7,Marais Erasmus,Ian Gould,139,146,10,6,34132,,Flat,346
+M_2389_265,10/5/2022,Lord's,INDIA,bangladesh,INDIA, BATTING,Draw,50 runs,Player_92,Marais Erasmus,Ian Gould,215,222,1,7,27224,Overcast,Dead,265
+M_3359_376,3/23/2015,,Bangladesh,Australia,Australia,Field,Australia,82,Player_211,Billy Bowden,Aleem Dar,178,184,4,10,27852,Overcast,Dusty,-31
+M_2078_800,5/5/2020,Gabba,Sri Lanka,Pakistan,Sri Lanka,Fielding,Pakistan,74 runs,Player_248,Aleem Dar,Aleem Dar,238,239,2,4,66721,Sunny,Flat,325
+M_4363_439,4/13/2021,Wankhede,Bangladesh,Australia,Australia,Fielding,Australia,110,Player_46,Ian Gould,,223,225,8,1,39033,Cloudy,Unknown,305
+M_6554_271,7/27/2019,SuperSport Park, Australia ,Pakistan,Pakistan,Field,Pakistan,60 runs,Player_21,Billy Bowden,Marais Erasmus,218,221,2,8,72672,Clear,Dusty,294
+M_2902_244,2/8/2022,Lord's,England,Bangladesh,Bangladesh,Fielding,England,93,Player_161,Marais Erasmus,Simon Taufel,387,352,3,4,20163,,Dead,419
+M_1808_610,5/8/2016,Newlands,AFGHANISTAN,Sri Lanka,Sri Lanka,Fielding,Sri Lanka,,Player_249,Ian Gould,Aleem Dar,217 (approx),223,1,4,32509,,Flat,256
+M_9438_584,5/14/2021,Wankhede,Australia,Sri Lanka,Sri Lanka,bowl,Sri Lanka,59,Player_128,Marais Erasmus,,6318,6323,1,8,60739,Cloudy,Unknown,185
+M_5515_999,10/17/2015,,Pakistan,England,Pakistan,Fielding,England,,Player_195,Marais Erasmus,,139,148,0,6,84603,Rainy,Green,345
+M_7840_613,1/21/2017,Newlands,England,Afghanistan,Afghanistan,bowl,England,71,Player_21,Aleem Dar,Simon Taufel,228,247,2,2,37202,,Green,-50
+M_8987_415,6/15/2015,Eden Gardens,Bangladesh,West Indies,West Indies,Batting,Bangladesh,8 runs,Player_281,Billy Bowden,Ian Gould,366,329,9,7,50472,Sunny,Dead,211
+M_8573_273,8/3/2019,Gabba,New Zealand,Sri Lanka,Sri Lanka,bat,New Zealand,88 runs,Player_239,Marais Erasmus,Marais Erasmus,129,118,8,0,25258,Cloudy,Flat,237
+M_8965_816,8/13/2022,Wankhede,England,Sri Lanka,Sri Lanka,bowl,Draw,,Player_149,Simon Taufel,Aleem Dar,356,358,9,9,21409,Rainy,Dead,216
+M_4526_250,9/4/2020,Wankhede,Australia,Afghanistan,Australia,Bat,Afghanistan,57 runs,Player_184,Richard Kettleborough,,260,266,8,3,17977,,Unknown,216
+M_7756_413,10/2/2015,SCG,Afghanistan,India,India,Fielding,India,67,Player_192,Simon Taufel,Aleem Dar,307,316,2,8,70500,,Dusty,395
+M_8395_545,7/24/2015,MCG,England,New Zealand,New Zealand,Field,New Zealand,,Player_96,Simon Taufel,,399,405,8,4,38386,Cloudy,Dry,243
+M_8772_169,8/9/2016,Lord's,England,South Africa,England,Batting,South Africa,,Player_23,Simon Taufel,Richard Kettleborough,220,229,9,5,75742,Cloudy,Green,208
+M_8439_310,11/10/2015,,Bangladesh,Afghanistan,Afghanistan, BATTING,Afghanistan,87,Player_62,Marais Erasmus,Ian Gould,233,239,1,6,60184,,Green,410
+M_6618_638,11/5/2019,SuperSport Park,Bangladesh,India,Bangladesh,Batting,Bangladesh,12,Player_124,Aleem Dar,Simon Taufel,244,254,10,2,56091,,Dead,266
+M_3325_624,8/11/2015,MCG,New Zealand,South Africa,South Africa,Bat,New Zealand,49,Player_169,Simon Taufel,,213,190,8,9,,Overcast,Dead,415
+M_5424_425,2/28/2015,MCG, Bangladesh ,South Africa, Bangladesh ,bowl,South Africa,21,Player_232,Richard Kettleborough,,183,188,8,8,,Sunny,Flat,241
+M_6966_492,4/2/2019,Newlands,Pakistan,India,Pakistan,Fielding,India,49,Player_175,Ian Gould,Ian Gould,385,392,0,5,62121,,Dusty,260
+M_1154_593,12/9/2017,MCG,West Indies,Australia,West Indies,bowl,Australia,97,Player_106,Marais Erasmus,Richard Kettleborough,281,291,0,8,,Rainy,Dusty,402
+M_3298_974,7/30/2018,Newlands,Pakistan,West Indies,West Indies,Batting,West Indies,106,Player_39,Richard Kettleborough,,220,228,9,5,,Clear,Dry,409
+M_8644_396,31-01-2019,Lord's,India,New Zealand,India,bat,New Zealand,53,Player_22,Richard Kettleborough,Billy Bowden,339,344,10,7,76076,Sunny,Green,265
+M_6103_786,10/1/2019,SCG,ENGLAND,Australia,Australia,Fielding,ENGLAND,99,Player_194,Ian Gould,,357,353,9,10,,Cloudy,Dusty,397
+M_3801_515,12/29/2018,SuperSport Park,Sri Lanka,India,Sri Lanka,Bat,Sri Lanka,29,Player_160,Aleem Dar,Aleem Dar,103,81,7,5,78737,Rainy,Dead,400
+M_5361_617,12/28/2017,Eden Gardens,West Indies,New Zealand,New Zealand, BATTING,West Indies,98,Player_2,Ian Gould,Ian Gould,250,223,6,2,59790,,Green,230
+M_9281_526,6/20/2017,SCG,West Indies,Sri Lanka,West Indies,bowl,Sri Lanka,118,Player_137,Billy Bowden,Billy Bowden,140,149,8,4,46724,Overcast,Green,290
+M_6883_904,2/17/2015,Newlands,India,Sri Lanka,India, BATTING,India,77,Player_221,Aleem Dar,Aleem Dar,379,355,0,7,38802,Sunny,Dead,-11
+M_2074_721,9/6/2017,SuperSport Park,West Indies,Pakistan,West Indies, BATTING,Pakistan,85,Player_282,Ian Gould,Marais Erasmus,308,316,6,8,69611,Overcast,Dusty,236
+M_9412_182,5/18/2020,Newlands,England,India,India,bat,England,17,Player_61,Richard Kettleborough,,216,210,1,6,,Rainy,Unknown,-8
+M_8936_170,10/26/2017,SuperSport Park,South Africa,sri lanka,sri lanka,Batting,South Africa,31,Player_75,Aleem Dar,Marais Erasmus,266,245,1,5,,Cloudy,Green,198
+M_1963_627,9/30/2018,SuperSport Park,England,New Zealand,England,bowl,England,85,Player_230,Simon Taufel,,109,110,7,5,,Overcast,Dry,390
+M_5409_655,9/30/2020,Eden Gardens,Sri Lanka,India,Sri Lanka,Batting,Sri Lanka,35,Player_299,Marais Erasmus,Ian Gould,310,325,5,0,75851,Sunny,Dusty,371
+M_6715_187,5/24/2022,Eden Gardens,England,Bangladesh,Bangladesh,Field,Bangladesh,70,Player_175,Marais Erasmus,,180,187,9,6,85863,Overcast,Flat,-27
+M_6490_151,12/3/2018,SuperSport Park,INDIA,Pakistan,Pakistan,bat,INDIA,43,Player_29,Ian Gould,Billy Bowden,114,110,5,10,67797,Cloudy,Dry,408
+M_8604_951,10/19/2021,SuperSport Park,Australia,india,india, BATTING,india,7,Player_260,Aleem Dar,Simon Taufel,355,358,5,10,73666,Rainy,Flat,251
+M_6613_918,10/1/2018,Newlands,Afghanistan,Australia,Australia,Field,Australia,2 runs,Player_115,Ian Gould,Simon Taufel,368,370,6,4,65328,,Dead,326
+M_8242_272,11/5/2021,Lord's,South Africa,Afghanistan,South Africa, BATTING,Afghanistan,12,Player_64,Ian Gould,Richard Kettleborough,186 (approx),189,9,5,,Rainy,Dry,245
+M_8933_489,15-10-2017,MCG,Pakistan,England,Pakistan, BATTING,England,97,Player_265,Aleem Dar,Ian Gould,163,170,0,3,42899,Rainy,Flat,300
+M_4375_773,3/11/2022,SuperSport Park,Sri Lanka,West Indies,West Indies, BATTING,Sri Lanka,90,Player_142,Ian Gould,Ian Gould,358,317,1,2,80050,Sunny,Dead,379
+M_5953_938,9/30/2020,Lord's,South Africa,New Zealand,South Africa,Batting,,60,Player_160,Marais Erasmus,Billy Bowden,185,195,6,3,62978,Clear,Dead,301
+M_8107_371,5/7/2020,Lord's,West Indies,India,India, BATTING,West Indies,25,Player_261,Richard Kettleborough,Simon Taufel,400,351,5,0,,Rainy,Dead,193
+M_4282_222,1/31/2017,Wankhede,AFGHANISTAN,West Indies,West Indies, BATTING,AFGHANISTAN,61,Player_36,Richard Kettleborough,,288,242,10,2,12512,Clear,Dry,268
+M_9146_806,3/1/2019,Gabba,Afghanistan,England,Afghanistan,Field,England,94,Player_184,Marais Erasmus,Marais Erasmus,110,114,4,9,38282,Clear,Dry,208
+M_7816_933,1/26/2020,SCG,New Zealand,West Indies,New Zealand,bowl,New Zealand,95,Player_55,Marais Erasmus,Aleem Dar,347 (approx),363,0,4,48376,Overcast,Dusty,325
+M_3687_867,11/4/2018,MCG,Pakistan,India,India,Field,Pakistan,37,Player_202,Billy Bowden,Simon Taufel,276,256,10,5,23797,,Dead,345
+M_7905_518,9/20/2018,Gabba,BANGLADESH,New Zealand,BANGLADESH, BATTING,Draw,38,Player_296,Ian Gould,Billy Bowden,217 (approx),220,1,4,41535,Cloudy,Dead,371
+M_6658_334,2/29/2020,Wankhede,Australia,West Indies,Australia, BATTING,Australia,58,Player_269,Ian Gould,Simon Taufel,157,173,6,3,,,Dry,290
+M_9170_885,6/13/2018,Eden Gardens,Australia,Sri Lanka,Australia,Bat,Australia,96,Player_293,Ian Gould,,328,317,0,8,87773,Rainy,Dead,237
+M_4378_249,1/2/2023,MCG, Pakistan ,Australia,Australia,Fielding,Australia,69,Player_288,Richard Kettleborough,Simon Taufel,163,167,1,2,83525,,Dusty,-14
+M_5026_85,4/11/2015,Newlands,AUSTRALIA,New Zealand,AUSTRALIA, BATTING,New Zealand,22,Player_211,Ian Gould,Simon Taufel,302,309,2,5,33143,Rainy,Flat,337
+M_3262_673,9/16/2018,MCG,New Zealand,England,New Zealand,Field,England,10,Player_50,Richard Kettleborough,Simon Taufel,1344,1345,0,2,70824,Overcast,Flat,352
+M_4908_15,12/10/2015,MCG,Afghanistan,india,Afghanistan,bat,Afghanistan,,Player_289,Aleem Dar,Richard Kettleborough,109,123,5,3,13993,Sunny,Green,-41
+M_8458_757,7/26/2020,SCG,ENGLAND,Afghanistan,ENGLAND,Fielding,ENGLAND,,Player_66,Simon Taufel,,298,279,7,3,32946,Overcast,Dead,266
+M_6333_940,12/26/2017,Newlands,South Africa,england,South Africa,bowl,england,9,Player_205,Billy Bowden,Richard Kettleborough,254,263,7,8,,Overcast,Dry,355
+M_5217_537,24-01-2023,SCG,Pakistan,West Indies,Pakistan,bowl,Pakistan,79,Player_63,Marais Erasmus,Ian Gould,386,364,5,4,59256,Overcast,Dusty,370
+M_7674_488,6/27/2019,Wankhede,New Zealand,Bangladesh,New Zealand,Field,New Zealand,9,Player_244,Billy Bowden,Simon Taufel,132,143,1,9,37543,Clear,Green,390
+M_5643_570,6/2/2016,Lord's,Pakistan,South Africa,South Africa,Bat,Pakistan,61,Player_154,Aleem Dar,Aleem Dar,261,250,0,9,12742,Clear,Dead,363
+M_5384_675,2/27/2017,Eden Gardens,South Africa,Australia,Australia,Batting,South Africa,87,Player_299,Richard Kettleborough,,255,224,4,9,63027,,Dead,290
+M_7746_899,3/1/2017,MCG,Pakistan,West Indies,West Indies, BATTING,Pakistan,48,Player_257,Marais Erasmus,Marais Erasmus,146,152,6,10,,Sunny,Dead,236
+M_3452_465,11/6/2020,MCG,India,South Africa,India,Field,India,42,Player_146,Simon Taufel,,188,181,7,8,17763,Overcast,Unknown,338
+M_8624_858,10/19/2022,,SRI LANKA,England,SRI LANKA,Batting,England,68,Player_215,Richard Kettleborough,Ian Gould,224,230,1,5,58685,Cloudy,Green,402
+M_1797_199,8/2/2020,SCG,AUSTRALIA,South Africa,AUSTRALIA,Fielding,,59,Player_166,Simon Taufel,Ian Gould,332,337,0,5,10747,Overcast,Dead,213
+M_5284_373,8/31/2019,MCG,Sri Lanka,India,Sri Lanka,Bat,India,,Player_203,Aleem Dar,Ian Gould,158 (approx),166,8,5,26937,Rainy,Dusty,252
+M_9806_484,3/2/2020,SCG,India,Bangladesh,India,bowl,Bangladesh,109,Player_261,Simon Taufel,Simon Taufel,142,152,9,8,81639,,Dry,185
+M_1908_80,6/21/2022,Lord's,India,New Zealand,India,bat,New Zealand,17,Player_189,Aleem Dar,Simon Taufel,160,161,6,4,,Clear,Dry,296
+M_3910_338,6/13/2017,Eden Gardens,Australia,Sri Lanka,Sri Lanka,Field,Sri Lanka,36,Player_273,Richard Kettleborough,Billy Bowden,154,160,8,6,34504,Rainy,Dry,220
+M_7034_947,12/4/2020,Wankhede,New Zealand,Sri Lanka,New Zealand,Bat,New Zealand,91,Player_239,Billy Bowden,Simon Taufel,261,253,6,5,37481,Cloudy,Unknown,303
+M_7877_591,5/27/2022,SuperSport Park,India,Sri Lanka,Sri Lanka,Fielding,India,60,Player_208,Richard Kettleborough,Simon Taufel,319,311,9,4,70594,Cloudy,Dead,312
+M_4881_812,3/17/2016,Newlands,England,sri lanka,England,Bat,England,4,Player_70,Richard Kettleborough,Marais Erasmus,251,267,0,10,78870,Cloudy,Dry,282
+M_6279_11,2/11/2019,Newlands,South Africa,Pakistan,Pakistan,bowl,Pakistan,90,Player_110,Ian Gould,Billy Bowden,315,322,2,9,79593,Sunny,Green,290
+M_9829_496,6/5/2018,Lord's,Sri Lanka,New Zealand,New Zealand,Bat,Sri Lanka,58,Player_38,Marais Erasmus,Simon Taufel,351,361,6,3,36836,Cloudy,Flat,229
+M_9237_568,7/17/2016,SuperSport Park,Bangladesh,Australia,Bangladesh,Bat,Australia,34,Player_275,Simon Taufel,Ian Gould,236,240,2,8,56277,,Green,-17
+M_5237_747,10/24/2018,Wankhede,New Zealand,South Africa,South Africa,Fielding,South Africa,118,Player_3,Simon Taufel,Ian Gould,104,111,9,6,42143,Sunny,Dry,283
+M_2163_957,3/1/2020,SuperSport Park,Bangladesh,Sri Lanka,Sri Lanka,Batting,Sri Lanka,14 runs,Player_59,Aleem Dar,Billy Bowden,108,116,9,7,39136,Clear,Flat,207
+M_7524_43,11/4/2017,Newlands,SRI LANKA,Pakistan,SRI LANKA,Fielding,Pakistan,105,Player_130,Simon Taufel,Aleem Dar,337,345,2,1,,Cloudy,Dusty,418
+M_5943_881,8/17/2017,MCG,Pakistan,England,Pakistan,bat,England,,Player_148,Aleem Dar,Billy Bowden,9912,9914,9,4,88395,Sunny,Green,190
+M_8756_274,1/8/2017,Wankhede,Australia,Afghanistan,Australia,bat,Australia,,Player_12,Billy Bowden,Richard Kettleborough,179,181,5,9,9105,Sunny,Dusty,382
+M_5375_523,12/15/2017,Newlands,Afghanistan,Sri Lanka,Sri Lanka,bat,Sri Lanka,8,Player_200,Billy Bowden,Richard Kettleborough,225,229,0,3,,Clear,Flat,275
+M_3247_101,23-11-2016,MCG,India,Bangladesh,Bangladesh, BATTING,Bangladesh,,Player_262,Billy Bowden,Richard Kettleborough,159,166,4,7,25070,Sunny,Flat,349
+M_3298_974,7/30/2018,Newlands,Pakistan,West Indies,West Indies,Batting,West Indies,106,Player_39,Richard Kettleborough,,220,228,9,5,,Clear,Dry,409
+M_7453_916,4/9/2021,Newlands,India,New Zealand,India,bowl,India,105,Player_91,Marais Erasmus,Marais Erasmus,290,277,9,3,70488,Sunny,Dry,229
+M_8111_299,12/13/2016,Wankhede,South Africa,Australia,South Africa,Bat,Australia,108 runs,Player_45,Ian Gould,,155,162,10,9,77937,Rainy,Green,231
+M_9393_107,5/8/2020,Gabba,Bangladesh,England,England,Fielding,England,105 runs,Player_284,Billy Bowden,,264,271,9,3,40860,Overcast,Green,215
+M_9790_767,5/30/2017,MCG,Sri Lanka,West Indies,Sri Lanka,Bat,West Indies,105,Player_270,Aleem Dar,,311,317,10,2,82725,Clear,Green,314
+M_2097_497,10/3/2015,Gabba,Bangladesh,india,india,Bat,Bangladesh,70,Player_89,Richard Kettleborough,Billy Bowden,217,208,0,0,88148,Rainy,Dead,253
+M_4788_130,1/28/2022,Gabba,Afghanistan,West Indies,West Indies,Field,West Indies,,Player_97,Marais Erasmus,Marais Erasmus,367,370,7,8,6090,Rainy,Dry,384
+M_6910_989,24-10-2021,Eden Gardens,India,afghanistan,India, BATTING,India,36,Player_102,Aleem Dar,,265,281,3,1,47972,Clear,Dry,269
+M_5953_938,9/30/2020,Lord's,South Africa,New Zealand,South Africa,Batting,,60,Player_160,Marais Erasmus,Billy Bowden,185,195,6,3,62978,Clear,Dead,301
+M_9393_692,6/12/2022,,South Africa,sri lanka,sri lanka,Fielding,South Africa,82,Player_17,Richard Kettleborough,,237,194,2,5,6199,Cloudy,Dusty,224
+M_6596_906,6/6/2016,SuperSport Park,Afghanistan,Bangladesh,Bangladesh,Field,Afghanistan,108,Player_18,Simon Taufel,Billy Bowden,251,263,7,2,,Overcast,Green,231
+M_7824_60,8/21/2019,Lord's,Bangladesh,South Africa,South Africa,Field,South Africa,49,Player_199,Aleem Dar,Richard Kettleborough,313,318,8,7,36584,Cloudy,Flat,323
+M_9270_216,1/5/2015,Gabba,West Indies,India,West Indies,Field,West Indies,108,Player_176,Billy Bowden,Billy Bowden,361,361,9,1,,Cloudy,Dusty,404
+M_9515_828,10/14/2021,,West Indies,New Zealand,West Indies,Fielding,West Indies,98,Player_288,Marais Erasmus,Richard Kettleborough,319,270,1,1,14749,Cloudy,Unknown,-5
+M_5503_662,5/11/2021,SuperSport Park,Australia,England,Australia, BATTING,Australia,118,Player_156,Ian Gould,Simon Taufel,118,132,2,3,68051,Cloudy,Dead,408
+M_9109_72,4/27/2016,Newlands,England,Pakistan,Pakistan,Fielding,England,83,Player_213,Billy Bowden,Marais Erasmus,185,188,7,9,12026,Rainy,Dry,323
+M_4429_840,7/4/2018,Gabba,New Zealand,Afghanistan,New Zealand,Bat,New Zealand,18,Player_291,Billy Bowden,,275,266,7,5,,Overcast,Dead,346
+M_3336_449,3/1/2017,SCG,India,Afghanistan,Afghanistan, BATTING,Afghanistan,42,Player_149,Billy Bowden,Simon Taufel,189,194,5,0,61333,Clear,Dry,288
+M_1755_153,12/23/2019,SCG,South Africa,Australia,South Africa, BATTING,Australia,106,Player_12,Ian Gould,Billy Bowden,167,168,8,1,5538,,Flat,265
+M_5617_705,11/11/2017,Newlands,INDIA,New Zealand,INDIA,Fielding,INDIA,82,Player_231,Ian Gould,Simon Taufel,211,173,8,0,,Sunny,Dead,418
+M_1408_481,9/29/2018,MCG,Bangladesh,India,India,Field,India,20 runs,Player_26,Marais Erasmus,Billy Bowden,368,371,7,0,,Rainy,Dusty,264
+M_4587_364,24-03-2017,Wankhede,Afghanistan,Australia,Australia,Batting,Australia,14,Player_226,Billy Bowden,Aleem Dar,250,252,3,7,10344,Overcast,Unknown,237
+M_3916_506,2/1/2023,MCG,BANGLADESH,Pakistan,Pakistan,Fielding,BANGLADESH,,Player_45,Richard Kettleborough,,377 (approx),350,1,0,51062,Sunny,Dead,275
+M_2316_755,8/13/2019,MCG,South Africa,England,England,Bat,South Africa,9 runs,Player_163,Ian Gould,,257,231,1,1,83644,Clear,Dry,393
+M_3130_859,8/8/2017,Wankhede,INDIA,Pakistan,Pakistan,Batting,INDIA,104,Player_279,Billy Bowden,,351,319,2,4,44092,Rainy,Flat,384
+M_9297_466,2/14/2020,Newlands,Pakistan,England,England,Fielding,England,17,Player_276,Marais Erasmus,Aleem Dar,385,391,2,5,78060,Rainy,Dusty,401
+M_7393_905,2/4/2020,SuperSport Park,Bangladesh,New Zealand,Bangladesh,Field,New Zealand,81,Player_223,Simon Taufel,Richard Kettleborough,250,257,5,9,6877,Rainy,Dry,279
+M_6603_740,27-06-2021,SCG,Pakistan,New Zealand,Pakistan,Field,New Zealand,100,Player_36,Ian Gould,Aleem Dar,315,319,9,8,21208,Cloudy,Green,217
+M_1848_964,1/8/2021,, England ,South Africa,South Africa,Fielding,South Africa,85,Player_112,Billy Bowden,,318,326,8,7,68805,,Dusty,225
+M_5739_311,6/1/2016,Lord's,WEST INDIES,Australia,Australia,Fielding,Australia,72,Player_94,Billy Bowden,Ian Gould,272,278,9,1,,Rainy,Dry,369
+M_9016_926,10/17/2016,Eden Gardens,Bangladesh,Australia,Australia,Batting,Bangladesh,67,Player_208,Billy Bowden,Simon Taufel,152,146,3,7,58900,Overcast,Dead,379
+M_6019_405,6/20/2020,Gabba,West Indies,Bangladesh,Bangladesh,bowl,Bangladesh,44,Player_266,Billy Bowden,Richard Kettleborough,132,137,4,9,72307,Overcast,Dead,228
+M_3024_907,9/24/2021,,Bangladesh,New Zealand,Bangladesh,Batting,Bangladesh,26,Player_44,Aleem Dar,Ian Gould,160,133,0,5,85297,Overcast,Green,218
+M_7185_781,17-07-2021,Wankhede,Sri Lanka,Afghanistan,Afghanistan,Batting,Sri Lanka,104,Player_93,Richard Kettleborough,Richard Kettleborough,399,350,2,5,86093,Overcast,Dusty,341
+M_4111_97,27-05-2020,Wankhede,New Zealand,Australia,New Zealand,bowl,Australia,31,Player_274,Billy Bowden,Billy Bowden,306,309,10,7,43745,Rainy,Dead,361
+M_2890_309,13-04-2022,Newlands,ENGLAND,Sri Lanka,Sri Lanka,Fielding,Sri Lanka,,Player_210,Richard Kettleborough,,341,350,4,3,80398,Cloudy,Dusty,239
+M_3942_226,4/28/2017,SCG,Afghanistan,India,India,Fielding,Afghanistan,97 runs,Player_39,Richard Kettleborough,Richard Kettleborough,280,295,9,5,60850,Overcast,Dusty,249
+M_2951_186,2/5/2015,Gabba,SOUTH AFRICA,england,england,Field,england,98 runs,Player_193,Marais Erasmus,Simon Taufel,352,356,7,7,71164,Clear,Flat,290
+M_3612_794,10/4/2019,Newlands,West Indies,Bangladesh,West Indies,bowl,Bangladesh,118,Player_104,Billy Bowden,,147,153,6,3,82577,Clear,Dead,314
+M_2636_511,1/3/2015,Wankhede,Australia,England,England,bat,England,,Player_67,Marais Erasmus,Simon Taufel,263,267,2,5,82096,Clear,Dry,-19
+M_6372_924,11/4/2019,SCG,New Zealand,Sri Lanka,New Zealand, BATTING,Sri Lanka,101 runs,Player_266,Richard Kettleborough,Marais Erasmus,394 (approx),396,1,0,28467,Rainy,Flat,354
+M_4589_888,5/27/2016,Lord's,Pakistan,Australia,Pakistan,bowl,Australia,119,Player_96,Richard Kettleborough,Aleem Dar,206,214,3,4,21976,Rainy,Dead,239
+M_5556_148,26-12-2022,Wankhede,England,Afghanistan,England,Batting,England,33 runs,Player_26,Aleem Dar,,355,375,7,3,33426,Rainy,Dead,-15
+M_2198_698,1/17/2021,SCG,West Indies,Australia,Australia,bowl,Australia,37,Player_224,Richard Kettleborough,Billy Bowden,198,199,3,7,49125,Clear,Green,403
+M_3748_893,11/24/2021,SuperSport Park,SOUTH AFRICA,New Zealand,New Zealand,bat,SOUTH AFRICA,10,Player_237,Aleem Dar,Aleem Dar,211,212,1,0,24198,Cloudy,Dry,236
+M_3463_930,6/11/2022,Gabba,Bangladesh,England,Bangladesh,Bat,,,Player_168,Aleem Dar,Simon Taufel,277,282,3,8,52043,Clear,Green,330
+M_8591_913,2/9/2019,Newlands,England,Australia,Australia,Fielding,,118,Player_255,Richard Kettleborough,,185,195,8,0,,Sunny,Dead,235
+M_2521_936,8/8/2018,Wankhede,West Indies,Bangladesh,West Indies,Field,Bangladesh,112 runs,Player_89,Simon Taufel,,118,127,8,5,89702,Sunny,Dead,230
+M_3183_575,11/11/2020,Lord's,Afghanistan,Bangladesh,Afghanistan,Fielding,Afghanistan,58 runs,Player_21,Richard Kettleborough,,219,238,1,5,30297,Rainy,Green,319
+M_7733_557,1/13/2022,SCG,West Indies,New Zealand,West Indies,Field,,101,Player_235,Ian Gould,Richard Kettleborough,354,360,9,4,58166,Cloudy,Dead,396
+M_6173_633,5/22/2022,MCG,AUSTRALIA,West Indies,West Indies,Field,West Indies,118,Player_7,Simon Taufel,Marais Erasmus,248,249,4,7,38767,Cloudy,Green,303
+M_8714_780,12/14/2019,SCG,Afghanistan,Sri Lanka,Afghanistan, BATTING,No Result,59,Player_35,Aleem Dar,Ian Gould,286,293,8,2,56096,Overcast,Dry,240
+M_5756_400,3/13/2021,SuperSport Park, Pakistan ,New Zealand, Pakistan , BATTING,New Zealand,24,Player_57,Billy Bowden,,298,307,0,4,,Cloudy,Dusty,398
+M_1917_454,9/15/2020,SCG,Afghanistan,New Zealand,New Zealand,Bat,Afghanistan,114,Player_42,Richard Kettleborough,Simon Taufel,159,130,1,1,30340,Sunny,Unknown,196
+M_3283_267,7/20/2016,Lord's,Sri Lanka,Pakistan,Pakistan,Fielding,Pakistan,68,Player_283,Marais Erasmus,,212,216,3,0,52500,Sunny,Dusty,272
+M_6779_696,9/22/2021,MCG,Pakistan,Afghanistan,Pakistan,bat,Afghanistan,96,Player_42,Billy Bowden,Marais Erasmus,339,348,4,5,54393,Cloudy,Flat,337
+M_2742_167,4/29/2016,Wankhede,India,Sri Lanka,Sri Lanka,bowl,Sri Lanka,84 runs,Player_33,Aleem Dar,Billy Bowden,123 (approx),126,10,0,45283,,Dead,196
+M_4443_986,29-08-2020,SCG, Sri Lanka ,south africa, Sri Lanka , BATTING,,100,Player_112,Aleem Dar,Marais Erasmus,273,276,8,2,62980,Rainy,Dusty,226
+M_8908_286,9/20/2022,SCG,Bangladesh,India,Bangladesh,bat,India,119 runs,Player_152,Billy Bowden,,164,167,6,10,63560,Cloudy,Dry,251
+M_5097_26,3/16/2019,SCG,New Zealand,Pakistan,New Zealand,Fielding,Pakistan,19,Player_102,Marais Erasmus,Simon Taufel,335,336,7,4,76643,Overcast,Dusty,343
+M_7151_825,30-01-2015,Eden Gardens,Sri Lanka,India,India,bowl,Sri Lanka,109,Player_288,Marais Erasmus,Aleem Dar,232,187,1,3,,Clear,Green,315
+M_5529_628,3/18/2019,SuperSport Park,New Zealand,South Africa,New Zealand, BATTING,New Zealand,57,Player_211,Aleem Dar,Aleem Dar,242,231,4,8,76668,Clear,Dry,243
+M_3535_598,8/4/2020,Eden Gardens,Australia,New Zealand,New Zealand, BATTING,New Zealand,96,Player_237,Aleem Dar,,170,172,7,5,17908,Clear,Flat,267
+M_8254_621,5/6/2019,,Afghanistan,India,India,bowl,India,4,Player_201,Aleem Dar,,265,270,2,1,,Clear,Flat,319
+M_7560_892,4/13/2022,Newlands,Sri Lanka,Afghanistan,Afghanistan,Field,Sri Lanka,87,Player_152,Aleem Dar,Marais Erasmus,386,395,0,3,74171,Rainy,Green,206
+M_5958_152,3/1/2021,SCG,Pakistan,Bangladesh,Bangladesh,Bat,Bangladesh,81,Player_90,Simon Taufel,Simon Taufel,299,301,4,5,9145,,Dusty,295
+M_1992_676,1/4/2022,SuperSport Park,West Indies,Afghanistan,West Indies,Fielding,West Indies,43,Player_214,Richard Kettleborough,,306,284,1,4,68953,Cloudy,Green,403
+M_1207_16,10/17/2021,Newlands,Pakistan,England,Pakistan,Bat,England,92,Player_55,Marais Erasmus,Billy Bowden,224,229,9,1,79177,Rainy,Flat,309
+M_5381_33,9/12/2018,,Bangladesh,Afghanistan,Afghanistan,Bat,Afghanistan,28,Player_140,Billy Bowden,Richard Kettleborough,155,164,4,9,34643,Clear,Dead,186
+M_3655_40,10/26/2016,Lord's,Sri Lanka,England,Sri Lanka,bat,England,96,Player_129,Simon Taufel,Richard Kettleborough,222,230,3,5,79766,Overcast,Dead,315
+M_7339_902,6/29/2022,SuperSport Park,Australia,England,Australia,Bat,Australia,64,Player_281,Simon Taufel,Richard Kettleborough,130,131,4,10,49675,Clear,Flat,-13
+M_6921_280,2/11/2022,Wankhede,England,West Indies,West Indies,Batting,West Indies,7,Player_201,Simon Taufel,Simon Taufel,111,121,1,7,83105,,Green,203
+M_6074_714,4/23/2022,Eden Gardens,Australia,Sri Lanka,Australia,Field,Sri Lanka,107,Player_89,Ian Gould,Aleem Dar,145,146,9,0,73986,Sunny,Dead,209
+M_6323_145,16-09-2022,Wankhede,SOUTH AFRICA,Afghanistan,Afghanistan,Field,Afghanistan,18,Player_219,Marais Erasmus,Ian Gould,309,310,6,3,31585,,Dry,401
+M_2698_856,10/3/2018,SCG,England,India,India,Field,India,9,Player_243,Aleem Dar,,340,345,8,4,63570,,Green,419
+M_7531_609,6/19/2018,MCG,WEST INDIES,afghanistan,afghanistan,bat,afghanistan,102 runs,Player_73,Billy Bowden,,302,306,5,3,57531,Overcast,Green,350
+M_3636_108,9/13/2022,SCG,South Africa,New Zealand,New Zealand,bowl,New Zealand,75,Player_75,Simon Taufel,Richard Kettleborough,313,322,6,0,,Sunny,Green,248
+M_6295_890,7/12/2019,Lord's,West Indies,South Africa,South Africa,bowl,South Africa,70 runs,Player_231,Aleem Dar,Ian Gould,297,303,2,1,53188,Cloudy,Green,291
+M_9452_441,12/4/2017,Lord's,New Zealand,Afghanistan,New Zealand,Fielding,Afghanistan,,Player_208,Marais Erasmus,Aleem Dar,294,303,0,0,,Cloudy,Dusty,202
+M_5845_834,4/5/2021,Gabba, AFGHANISTAN ,Sri Lanka, AFGHANISTAN ,bat,Draw,,Player_4,Richard Kettleborough,Billy Bowden,379,385,1,5,17449,Clear,Green,-42
+M_6038_3,12/28/2017,Wankhede, Australia ,Bangladesh,Bangladesh,bowl, Australia ,112,Player_291,Simon Taufel,,359,360,2,8,74514,Rainy,Unknown,417
+M_3625_493,7/30/2018,MCG,West Indies,New Zealand,West Indies, BATTING,West Indies,110,Player_90,Aleem Dar,Marais Erasmus,272,286,10,5,84121,Sunny,Unknown,418
+M_2552_234,4/21/2021,SuperSport Park,Pakistan,Afghanistan,Pakistan,Bat,Pakistan,50,Player_69,Richard Kettleborough,,242 (approx),215,3,6,44522,Sunny,Dead,223
+M_9133_277,4/11/2022,MCG,Australia,West Indies,West Indies,bat,Australia,77,Player_228,Ian Gould,Simon Taufel,245,210,9,1,16484,,Dead,418
+M_5398_200,1/15/2016,SuperSport Park,Afghanistan,Sri Lanka,Sri Lanka,Batting,Afghanistan,20 runs,Player_47,Marais Erasmus,Ian Gould,321,302,9,2,52060,Clear,Dry,406
+M_9548_358,3/24/2017,Newlands,South Africa,India,India, BATTING,India,22,Player_240,Richard Kettleborough,,184,194,2,8,84910,Sunny,Dry,255
+M_6921_280,2/11/2022,Wankhede,England,West Indies,West Indies,Batting,West Indies,7,Player_201,Simon Taufel,Simon Taufel,111,121,1,7,83105,,Green,203
+M_4348_236,7/27/2017,MCG,New Zealand,India,India,Batting,India,67,Player_219,Billy Bowden,Aleem Dar,103 (approx),111,3,0,88147,Cloudy,Dead,320
+M_2230_551,5/10/2019,Eden Gardens,India,Afghanistan,India, BATTING,India,52,Player_157,Billy Bowden,,259,264,2,3,43822,,Dry,387
+M_2329_520,11/8/2021,Wankhede,AFGHANISTAN,australia,australia,Field,australia,39,Player_61,Marais Erasmus,Ian Gould,181,190,0,4,37498,Overcast,Dry,280
+M_4784_136,5/18/2022,Wankhede,India,sri lanka,sri lanka,Bat,sri lanka,11,Player_99,Ian Gould,Ian Gould,284,291,0,9,39840,Overcast,Green,312
+M_3406_208,2/10/2015,Newlands,WEST INDIES,England,England,Field,WEST INDIES,116,Player_106,Ian Gould,Ian Gould,366,333,10,8,44888,Overcast,Unknown,251
+M_4842_114,5/10/2017,MCG,Australia,New Zealand,New Zealand,Batting,Australia,86,Player_100,Richard Kettleborough,Richard Kettleborough,381 (approx),331,10,1,,Rainy,Dusty,212
+M_4259_127,2/9/2015,Lord's,England,West Indies,West Indies, BATTING,,,Player_146,Richard Kettleborough,Ian Gould,230,232,5,4,52312,Overcast,Dry,211
+M_5888_58,10/10/2015,SuperSport Park,Bangladesh,India,India,bowl,India,112,Player_273,Marais Erasmus,Aleem Dar,141,150,5,1,28392,Cloudy,Green,-49
+M_9121_631,21-09-2021,Newlands, Bangladesh ,South Africa,South Africa,bat, Bangladesh ,52 runs,Player_68,Simon Taufel,Ian Gould,134,115,10,3,9424,Clear,Dusty,-17
+M_8122_157,6/15/2018,Gabba,West Indies,England,West Indies,Field,England,75,Player_46,Ian Gould,,100,103,4,6,85684,Overcast,Dusty,415
+M_1394_713,1/11/2016,Gabba,India,South Africa,India, BATTING,South Africa,114,Player_144,Aleem Dar,Marais Erasmus,355 (approx),360,0,10,,Sunny,Dry,-45
+M_1810_592,2/17/2016,SCG,Pakistan,Australia,Australia,bat,,91,Player_17,Simon Taufel,,370,374,1,10,71222,Cloudy,Green,206
+M_3507_279,5/23/2019,,South Africa,Bangladesh,South Africa,bowl,South Africa,,Player_279,Simon Taufel,Simon Taufel,164,134,10,4,77470,Sunny,Dry,182
+M_6087_363,11/28/2018,SCG,Pakistan,Sri Lanka,Sri Lanka, BATTING,Sri Lanka,93 runs,Player_287,Ian Gould,,354,361,7,5,49171,Cloudy,Dusty,184
+M_3228_505,2/1/2023,Newlands,India,New Zealand,India,Field,New Zealand,1,Player_91,Ian Gould,,287,288,0,0,13305,Overcast,Flat,297
+M_8802_753,1/13/2021,SuperSport Park,Sri Lanka,West Indies,West Indies, BATTING,Sri Lanka,79,Player_286,Marais Erasmus,Richard Kettleborough,222,178,2,9,51418,Rainy,Flat,372
+M_4397_52,12/23/2017,Newlands,India,West Indies,West Indies,Batting,West Indies,,Player_270,Marais Erasmus,Aleem Dar,156,164,2,6,31724,Rainy,Flat,360
+M_7125_225,2/18/2022,Newlands,Afghanistan,Sri Lanka,Sri Lanka,bat,Afghanistan,66,Player_254,Marais Erasmus,Marais Erasmus,207,167,9,1,26945,Clear,Dead,298
+M_5888_255,9/28/2019,Eden Gardens,Pakistan,India,India, BATTING,India,28 runs,Player_180,Billy Bowden,,301,306,10,8,9643,Rainy,Flat,337
+M_4050_942,7/27/2015,Eden Gardens,Pakistan,England,England,bowl,Pakistan,29,Player_143,Aleem Dar,,263,272,3,2,29353,Rainy,Dry,361
+M_8844_531,9/30/2022,Wankhede, South Africa ,Afghanistan, South Africa ,Fielding, South Africa ,110,Player_35,Billy Bowden,,194,169,6,2,85993,Overcast,Dry,242
+M_2127_912,2/1/2016,MCG,Afghanistan,West Indies,Afghanistan,Fielding,West Indies,4 runs,Player_244,Ian Gould,Billy Bowden,205,210,4,9,83597,Clear,Dead,363
+M_5231_118,12/7/2019,SuperSport Park,Bangladesh,England,Bangladesh,bowl,England,15,Player_289,Billy Bowden,,207 (approx),214,0,2,80168,,Dead,217
+M_4523_470,8/7/2018,Wankhede,West Indies,Afghanistan,West Indies,Fielding,Afghanistan,100,Player_290,Billy Bowden,Aleem Dar,295,304,1,6,11959,Rainy,Dry,224
+M_8806_706,9/25/2016,Gabba,Afghanistan,India,India,bowl,India,47,Player_15,Richard Kettleborough,Ian Gould,364,366,9,7,55512,Clear,Green,220
+M_2790_854,5/6/2018,MCG,Pakistan,Bangladesh,Pakistan,Bat,Pakistan,37,Player_47,Billy Bowden,Billy Bowden,327 (approx),305,9,9,78117,Overcast,Dusty,217
+M_7677_522,2/2/2020,Wankhede,Sri Lanka,England,Sri Lanka,Batting,Sri Lanka,95,Player_160,Billy Bowden,,264,265,8,8,88392,,Dead,355
+M_9768_708,1/27/2015,Newlands,India,South Africa,India,Field,India,9,Player_65,Billy Bowden,Billy Bowden,131,135,5,4,,Clear,Green,420
+M_5734_513,23-08-2016,Gabba,Pakistan,afghanistan,Pakistan,Fielding,Draw,,Player_116,Simon Taufel,,379,387,0,3,67781,Cloudy,Green,349
+M_2129_81,7/24/2017,SCG, Afghanistan ,australia, Afghanistan ,Batting, Afghanistan ,92,Player_160,Richard Kettleborough,,264,244,1,9,,Sunny,Dead,191
+M_8292_699,4/6/2019,Wankhede,Bangladesh,Sri Lanka,Bangladesh,bowl,Sri Lanka,10,Player_189,Simon Taufel,Marais Erasmus,207 (approx),210,1,4,8975,Cloudy,Dry,254
+M_4164_809,11/30/2020,Gabba,Pakistan,Australia,Australia,bowl,Australia,98,Player_216,Richard Kettleborough,,368,376,7,2,5232,Sunny,Dusty,294
+M_6416_547,6/21/2017,,NEW ZEALAND,South Africa,NEW ZEALAND,Batting,NEW ZEALAND,83,Player_238,Simon Taufel,Simon Taufel,199,219,3,3,42997,Sunny,Dead,307
+M_5140_380,1/7/2020,SCG,West Indies,England,England,bat,West Indies,20 runs,Player_267,Simon Taufel,Aleem Dar,200,179,1,5,84011,Clear,Dry,223
+M_9691_623,4/24/2017,SCG,England,India,England, BATTING,England,89 runs,Player_119,Ian Gould,Billy Bowden,389,356,6,9,,Clear,Flat,274
+M_1893_146,6/3/2019,Lord's,Sri Lanka,Pakistan,Pakistan,Fielding,Sri Lanka,32,Player_238,Billy Bowden,Billy Bowden,120,74,0,3,43165,Overcast,Dry,255
+M_3141_84,3/12/2020,SuperSport Park,West Indies,New Zealand,New Zealand,Bat,West Indies,,Player_191,Billy Bowden,Billy Bowden,253 (approx),251,6,7,77869,Rainy,Green,-36
+M_8616_150,3/23/2016,MCG,South Africa,India,India, BATTING,India,68,Player_107,Ian Gould,Marais Erasmus,166,174,10,7,69553,Cloudy,Green,180
+M_2594_672,9/25/2017,,Pakistan,New Zealand,New Zealand,bat,New Zealand,32 runs,Player_208,Billy Bowden,Marais Erasmus,143,145,6,7,75105,Sunny,Dead,199
+M_7542_329,5/20/2022,Wankhede,Australia,Bangladesh,Bangladesh,Bat,Australia,21,Player_130,Billy Bowden,Richard Kettleborough,151,126,7,8,29400,Clear,Dead,357
+M_3579_6,11/12/2016,MCG,Australia,South Africa,Australia,Field,Australia,94,Player_96,Simon Taufel,Billy Bowden,349,332,0,9,,Sunny,Dead,415
+M_1413_734,8/3/2016,Newlands,Afghanistan,West Indies,Afghanistan,Bat,Afghanistan,97,Player_107,Marais Erasmus,,172,162,6,1,22625,Rainy,Dry,319
+M_1530_832,1/7/2016,SCG,India,West Indies,India,Field,India,63,Player_276,Richard Kettleborough,Aleem Dar,207 (approx),186,9,5,51331,Sunny,Unknown,273
+M_7560_845,8/8/2017,Eden Gardens,New Zealand,South Africa,New Zealand,bowl,South Africa,106,Player_222,Billy Bowden,Marais Erasmus,172,179,9,0,29083,Sunny,Dusty,266
+M_3357_164,3/30/2016,SuperSport Park,Afghanistan,England,England,bat,England,,Player_112,Ian Gould,Marais Erasmus,131,137,4,4,28321,Cloudy,Green,345
+M_6906_979,8/28/2022,Lord's,Pakistan,Sri Lanka,Pakistan,Batting,Pakistan,10,Player_39,Billy Bowden,Aleem Dar,134,151,0,6,6517,Rainy,Green,193
+M_9199_451,7/15/2021,Wankhede,West Indies,New Zealand,West Indies,Fielding,New Zealand,71,Player_90,Aleem Dar,,333,342,8,5,80927,Cloudy,Dead,206
+M_7485_490,26-01-2022,Newlands, Bangladesh ,Afghanistan, Bangladesh , BATTING,Afghanistan,67,Player_160,Ian Gould,Richard Kettleborough,215,225,6,10,54352,Clear,Dead,386
+M_8796_119,6/6/2017,Eden Gardens,New Zealand,Australia,Australia, BATTING,Australia,22,Player_273,Ian Gould,Simon Taufel,332,334,6,2,,Clear,Green,335
+M_9412_287,5/25/2022,SuperSport Park,Bangladesh,south africa,Bangladesh,bowl,Bangladesh,27,Player_97,Simon Taufel,Aleem Dar,363,344,10,2,,,Dry,295
+M_8107_371,5/7/2020,Lord's,West Indies,India,India, BATTING,West Indies,25,Player_261,Richard Kettleborough,Simon Taufel,400,351,5,0,,Rainy,Dead,193
+M_1011_87,6/17/2017,Wankhede,Bangladesh,India,Bangladesh,Batting,India,4,Player_67,Richard Kettleborough,Richard Kettleborough,390,400,7,8,45508,,Dead,-20
+M_5237_95,7/9/2016,MCG,Bangladesh,Sri Lanka,Bangladesh,Bat,Bangladesh,36,Player_146,Simon Taufel,Aleem Dar,303,308,3,5,69066,Rainy,Dusty,268
+M_8683_851,2/25/2016,MCG,Sri Lanka,West Indies,Sri Lanka,bat,Sri Lanka,48,Player_255,Ian Gould,Simon Taufel,331,314,10,0,47929,,Dead,-7
+M_8454_789,7/4/2021,Gabba,England,New Zealand,New Zealand,bat,New Zealand,36,Player_297,Billy Bowden,Marais Erasmus,400,408,3,1,,Sunny,Dusty,221
+M_6855_894,3/13/2018,SCG,England,South Africa,South Africa,Bat,,71,Player_47,Marais Erasmus,Simon Taufel,111,115,2,6,45572,Clear,Green,350
+M_1924_608,12/30/2021,Wankhede,New Zealand,South Africa,New Zealand,Batting,,73,Player_255,Marais Erasmus,,218,223,1,2,,Clear,Dead,333
+M_2322_891,12/8/2020,Eden Gardens,Sri Lanka,Bangladesh,Sri Lanka, BATTING,Bangladesh,60,Player_66,Richard Kettleborough,,365,369,5,0,36198,Overcast,Dry,268
+M_7380_985,2/18/2023,Gabba,England,West Indies,West Indies,Batting,England,120,Player_51,Simon Taufel,,182,176,10,2,67363,Overcast,Dusty,190
+M_1380_228,8/15/2017,Eden Gardens,South Africa,West Indies,West Indies,bat,West Indies,57,Player_72,Aleem Dar,Richard Kettleborough,291,294,0,7,51486,Rainy,Dead,256
+M_7032_238,7/13/2016,SuperSport Park,Australia,pakistan,pakistan,bat,Australia,48,Player_218,Billy Bowden,,136,152,1,6,79135,Overcast,Dusty,310
+M_2427_760,1/13/2023,SuperSport Park,Australia,Bangladesh,Australia,Field,Australia,40,Player_46,Aleem Dar,,289,279,0,9,18317,Cloudy,Green,255
+M_2294_53,11/3/2018,Newlands,West Indies,Bangladesh,West Indies,Field,West Indies,39,Player_132,Billy Bowden,Aleem Dar,350,326,4,4,20974,Rainy,Green,-5
+M_5703_327,1/26/2018,Lord's,India,New Zealand,New Zealand,Bat,India,,Player_290,Richard Kettleborough,Aleem Dar,186,179,7,1,37339,Cloudy,Green,259
+M_4823_766,6/18/2022,Lord's, WEST INDIES ,New Zealand,New Zealand,Batting, WEST INDIES ,67,Player_288,Aleem Dar,Simon Taufel,265,264,9,4,,Sunny,Dead,-27
+M_1769_442,1/8/2018,SuperSport Park,Sri Lanka,england,Sri Lanka,Fielding,Sri Lanka,7,Player_130,Ian Gould,,385,360,0,9,88393,Clear,Flat,195
+M_9423_758,1/3/2018,SCG,Afghanistan,New Zealand,New Zealand,Batting,New Zealand,11,Player_215,Richard Kettleborough,Simon Taufel,308,316,1,3,16819,Sunny,Green,182
+M_8198_955,2/26/2021,Eden Gardens,England,New Zealand,England, BATTING,New Zealand,30,Player_162,Richard Kettleborough,Billy Bowden,165,169,10,7,71936,Sunny,Dead,346
+M_5002_7,5/6/2016,Lord's,South Africa,sri lanka,sri lanka,Fielding,sri lanka,31,Player_225,Ian Gould,Ian Gould,253 (approx),255,9,9,,Overcast,Dusty,405
+M_7779_348,12/8/2019,Lord's,South Africa,Bangladesh,Bangladesh,Field,Bangladesh,117,Player_154,Ian Gould,,400 (approx),402,5,4,75503,Sunny,Flat,263
+M_6805_984,3/3/2019,Gabba,South Africa,England,England,bat,South Africa,35,Player_234,Billy Bowden,Simon Taufel,393,382,7,9,39681,Overcast,Dusty,334
+M_6347_177,8/4/2018,Wankhede,England,West Indies,England,bat,West Indies,103,Player_299,Ian Gould,,326,328,0,2,,,Green,294
+M_9714_875,9/10/2022,,Bangladesh,England,Bangladesh,Fielding,England,28,Player_133,Billy Bowden,,184,188,8,8,32025,Rainy,Green,217
+M_4820_788,1/20/2015,Newlands,New Zealand,Sri Lanka,Sri Lanka,Fielding,New Zealand,97,Player_122,Simon Taufel,,306,271,0,6,41675,Clear,Dry,353
+M_4813_86,7/16/2016,MCG,New Zealand,Sri Lanka,Sri Lanka,Bat,Sri Lanka,63,Player_127,Billy Bowden,,264 (approx),267,9,3,8840,Sunny,Dry,315
+M_8746_379,1/26/2019,Lord's,New Zealand,Australia,New Zealand,bat,New Zealand,54 runs,Player_11,Ian Gould,Richard Kettleborough,309,259,4,3,19858,,Flat,214
+M_3525_161,3/20/2018,SuperSport Park,NEW ZEALAND,India,India,bat,Draw,76,Player_197,Aleem Dar,Billy Bowden,289,294,3,7,28699,Overcast,Green,332
+M_8707_457,7/23/2020,Lord's,England,West Indies,West Indies,Fielding,England,,Player_238,Billy Bowden,Billy Bowden,302,317,1,6,41096,,Dusty,392
+M_7593_777,1/8/2015,,New Zealand,West Indies,New Zealand,bowl,New Zealand,93,Player_237,Simon Taufel,,225,230,5,9,49570,Cloudy,Dusty,275
+M_3750_642,11/21/2017,Gabba,New Zealand,Pakistan,Pakistan,Fielding,New Zealand,16,Player_77,Simon Taufel,Marais Erasmus,161,132,5,8,32703,Overcast,Dry,283
+M_9767_54,4/21/2021,Eden Gardens,Bangladesh,New Zealand,New Zealand,Fielding,Bangladesh,61 runs,Player_90,Marais Erasmus,Aleem Dar,102,102,7,7,31143,Overcast,Flat,346
+M_3911_263,5/2/2022,Wankhede,Australia,Sri Lanka,Australia,Batting,Sri Lanka,30,Player_36,Aleem Dar,,175,177,7,2,28083,Cloudy,Flat,259
+M_2477_643,11/4/2022,MCG,India,Pakistan,Pakistan,bat,No Result,82,Player_162,Marais Erasmus,,4023,4029,1,5,71056,,Flat,197
+M_6550_677,6/16/2017,Lord's,West Indies,Pakistan,Pakistan,bat,Pakistan,44,Player_235,Billy Bowden,Marais Erasmus,308,318,5,3,25197,Rainy,Dead,218
+M_4172_221,11/6/2021,Lord's,India,New Zealand,India,Bat,New Zealand,80 runs,Player_261,Richard Kettleborough,Marais Erasmus,319,329,10,10,8404,Cloudy,Flat,332
+M_3316_113,26-07-2021,Eden Gardens,Afghanistan,Australia,Afghanistan,bowl,Afghanistan,,Player_294,Ian Gould,Ian Gould,180,183,8,4,88105,Overcast,Flat,321
+M_6183_112,7/8/2022,,Australia,South Africa,South Africa,bowl,South Africa,20 runs,Player_61,Ian Gould,,119,120,4,8,14232,Overcast,Dry,341
+M_1754_501,7/14/2015,SuperSport Park,Australia,Bangladesh,Australia,bat,Australia,,Player_217,Richard Kettleborough,,108,77,0,5,41562,Clear,Flat,-6
+M_6451_193,3/13/2021,MCG,South Africa,New Zealand,New Zealand,Batting,New Zealand,,Player_83,Billy Bowden,Simon Taufel,220,223,10,5,89466,,Dry,300
+M_2075_174,19-01-2021,Newlands,Pakistan,South Africa,South Africa,Batting,South Africa,65,Player_45,Simon Taufel,Aleem Dar,132,140,8,1,66625,Clear,Dry,338
+M_6793_921,5/20/2017,Wankhede,Afghanistan,New Zealand,Afghanistan,Batting,Afghanistan,55,Player_141,Marais Erasmus,Richard Kettleborough,279,266,8,7,55757,Clear,Dry,370
+M_8240_589,3/17/2023,SuperSport Park,West Indies,South Africa,West Indies,Field,South Africa,87 runs,Player_280,Marais Erasmus,Richard Kettleborough,193,194,6,6,51017,Cloudy,Dusty,199
+M_9605_818,21-05-2017,Wankhede,West Indies,Bangladesh,Bangladesh,Field,West Indies,42,Player_127,Ian Gould,,237,199,0,3,33153,Overcast,Dead,337
+M_5581_17,11/19/2019,SCG,West Indies,England,England,Field,West Indies,107,Player_285,Simon Taufel,Aleem Dar,330,291,10,6,,Cloudy,Dusty,384
+M_4033_18,1/28/2023,Newlands,Australia,South Africa,Australia,Bat,Australia,75,Player_142,Billy Bowden,Ian Gould,276,226,7,4,45189,,Flat,370
+M_7836_423,14-05-2017,Wankhede,Bangladesh,South Africa,Bangladesh,Field,South Africa,56,Player_162,Ian Gould,,120,130,8,7,10834,,Flat,301
+M_6118_143,11/21/2018,Gabba,England,India,England,Bat,India,4,Player_230,Ian Gould,,215,222,1,6,73251,Cloudy,Dead,219
+M_8138_285,6/10/2015,MCG,Bangladesh,Afghanistan,Bangladesh,bat,Afghanistan,79 runs,Player_98,Billy Bowden,Richard Kettleborough,332,334,9,1,8838,Cloudy,Dusty,400
+M_4172_476,5/31/2021,Gabba,India,new zealand,new zealand,bowl,new zealand,,Player_180,Billy Bowden,Simon Taufel,111,118,2,5,6145,Cloudy,Dusty,276
+M_2640_428,7/2/2018,MCG,PAKISTAN,South Africa,South Africa,Batting,South Africa,,Player_136,Richard Kettleborough,Simon Taufel,371,379,4,6,,Cloudy,Green,418
+M_8213_304,12/22/2019,Newlands,Pakistan,South Africa,South Africa,bat,Pakistan,53,Player_59,Simon Taufel,Simon Taufel,243,246,8,3,44968,Overcast,Green,189
+M_6843_837,9/8/2021,Newlands,New Zealand,Pakistan,New Zealand,Field,Pakistan,101,Player_20,Simon Taufel,Billy Bowden,380,385,7,6,23716,Sunny,Dry,180
+M_6906_669,12/6/2015,SCG,New Zealand,Bangladesh,Bangladesh,Field,No Result,58,Player_72,Marais Erasmus,Simon Taufel,255,262,4,0,85842,Overcast,Dusty,397
+M_2204_31,1/7/2019,Gabba,England,India,India,Fielding,England,76 runs,Player_76,Simon Taufel,,122,76,10,0,12972,Rainy,Dry,362
+M_2994_687,30-06-2017,Lord's,New Zealand,Australia,New Zealand,Batting,New Zealand,,Player_72,Aleem Dar,,310,323,1,7,22770,,Green,308
+M_5763_722,3/24/2017,SuperSport Park,Pakistan,Bangladesh,Bangladesh,bowl,Bangladesh,21,Player_288,Aleem Dar,Billy Bowden,210,217,8,5,36501,Rainy,Dead,-18
+M_7585_434,3/4/2018,Gabba,Australia,South Africa,South Africa,Fielding,,3,Player_50,Marais Erasmus,Aleem Dar,383 (approx),389,3,2,19216,Rainy,Dusty,330
+M_5882_214,12/13/2015,Gabba,Afghanistan,west indies,Afghanistan,Field,Afghanistan,,Player_73,Marais Erasmus,Richard Kettleborough,186,183,1,2,45212,Sunny,Dusty,-47
+M_9438_584,5/14/2021,Wankhede,Australia,Sri Lanka,Sri Lanka,bowl,Sri Lanka,59,Player_128,Marais Erasmus,,6318,6323,1,8,60739,Cloudy,Unknown,185
+M_7137_735,5/11/2020,Wankhede,BANGLADESH,Afghanistan,Afghanistan,bowl,Afghanistan,39,Player_58,Ian Gould,Ian Gould,190,194,0,4,,Sunny,Green,340
+M_9143_883,10/26/2015,Newlands,Bangladesh,New Zealand,Bangladesh,Bat,Bangladesh,11,Player_150,Ian Gould,Billy Bowden,358,320,4,2,44580,Clear,Dusty,361
+M_1729_326,2/24/2022,Wankhede,India,West Indies,West Indies,bowl,India,91,Player_259,Marais Erasmus,,287,256,10,10,,Clear,Dusty,201
+M_8007_560,3/12/2015,MCG,Pakistan,South Africa,South Africa, BATTING,Pakistan,,Player_25,Aleem Dar,Richard Kettleborough,345,363,8,7,26233,Sunny,Unknown,341
+M_3487_359,11/3/2015,Lord's,New Zealand,India,India,Bat,India,104,Player_142,Richard Kettleborough,,300,307,3,3,,Overcast,Dry,211
+M_3123_700,7/18/2018,SuperSport Park,England,New Zealand,England,Field,England,34,Player_168,Marais Erasmus,Richard Kettleborough,318,303,9,4,53183,,Green,-24
+M_3917_836,10/13/2016,Wankhede,Australia,Pakistan,Pakistan,Fielding,Pakistan,,Player_189,Billy Bowden,Billy Bowden,6677,6686,8,0,82726,Rainy,Dusty,391
+M_9669_475,2/6/2022,Wankhede,Sri Lanka,India,India,Field,Sri Lanka,,Player_102,Ian Gould,Aleem Dar,157,164,2,0,20854,,Dusty,349
+M_6417_341,6/25/2019,SCG,India,Pakistan,India,bat,Pakistan,47,Player_291,Richard Kettleborough,Aleem Dar,224,228,5,10,14708,Cloudy,Dusty,255
+M_7523_629,6/7/2015,Newlands,South Africa,Sri Lanka,South Africa,Bat,South Africa,117,Player_292,Ian Gould,Aleem Dar,189,203,2,9,73738,Rainy,Green,182
+M_1719_147,1/6/2017,Gabba,Bangladesh,Australia,Bangladesh,Batting,Bangladesh,12,Player_290,Billy Bowden,Aleem Dar,183,188,7,10,,Clear,Green,276
+M_8258_688,12/17/2016,Lord's,England,Afghanistan,Afghanistan,bat,,12 runs,Player_272,Ian Gould,,237,239,1,1,37279,,Dusty,229
+M_6940_360,6/28/2018,Newlands,Australia,Bangladesh,Bangladesh,Fielding,Bangladesh,117,Player_222,Marais Erasmus,,120,125,7,6,81674,Rainy,Green,313
+M_3693_83,8/19/2019,Gabba,South Africa,Bangladesh,South Africa, BATTING,South Africa,17,Player_209,Simon Taufel,Aleem Dar,261,231,5,5,64343,,Dead,207
+M_9938_48,2/14/2022,SCG,New Zealand,South Africa,South Africa,Fielding,South Africa,78,Player_248,Aleem Dar,Billy Bowden,121,122,10,9,39688,Rainy,Flat,307
+M_9442_468,23-07-2018,Lord's, AUSTRALIA ,Pakistan, AUSTRALIA ,bowl, AUSTRALIA ,37,Player_189,Richard Kettleborough,,296,254,3,6,63851,Overcast,Green,-27
+M_2070_155,11/29/2021,Gabba,Afghanistan,West Indies,Afghanistan, BATTING,West Indies,90,Player_246,Marais Erasmus,Richard Kettleborough,338,342,9,4,52638,Overcast,Dusty,296
+M_4160_862,2/1/2017,Lord's,Bangladesh,Pakistan,Bangladesh,Fielding,Pakistan,57,Player_232,Marais Erasmus,Simon Taufel,103,112,3,4,88588,Overcast,Dusty,408
+M_1456_661,8/5/2018,Gabba,Afghanistan,Australia,Australia,bowl,Afghanistan,71,Player_46,Ian Gould,Ian Gould,368,369,10,7,,Rainy,Green,209
+M_9954_62,2/7/2023,Eden Gardens,West Indies,Australia,Australia,Batting,Draw,93,Player_269,Simon Taufel,Simon Taufel,268,278,7,8,49245,Rainy,Dusty,223
+M_1076_284,11/29/2020,SCG,New Zealand,South Africa,South Africa,Fielding,South Africa,,Player_68,Marais Erasmus,,352,357,1,7,27431,Cloudy,Dusty,184
+M_9845_176,3/26/2018,SCG,West Indies,Pakistan,Pakistan,bowl,Pakistan,116,Player_63,Simon Taufel,Marais Erasmus,221,227,7,4,53453,Sunny,Dusty,217
+M_5267_160,11/17/2015,Newlands,West Indies,Bangladesh,Bangladesh,bowl,Bangladesh,,Player_297,Aleem Dar,Billy Bowden,332,340,5,6,51257,Overcast,Dead,371
+M_4854_500,7/3/2015,SCG, England ,Australia,Australia,Field,,108,Player_164,Billy Bowden,,385,393,1,0,,Overcast,Flat,253
+M_3307_709,3/25/2021,SCG,West Indies,South Africa,South Africa, BATTING,West Indies,17,Player_251,Aleem Dar,Simon Taufel,358 (approx),353,9,0,6129,,Green,363
+M_3523_179,5/1/2017,Newlands,Australia,England,England,Field,Australia,72,Player_64,Billy Bowden,Richard Kettleborough,170,142,7,0,44582,Clear,Green,186
+M_3068_24,3/4/2018,Gabba,New Zealand,India,New Zealand,Field,New Zealand,42,Player_52,Marais Erasmus,,222,213,6,0,46704,Rainy,Green,306
+M_2533_663,7/1/2015,Wankhede,South Africa,Pakistan,Pakistan,Batting,Pakistan,103,Player_265,Richard Kettleborough,Richard Kettleborough,151,155,5,5,,Overcast,Flat,271
+M_9832_948,28-02-2018,MCG,Afghanistan,Bangladesh,Afghanistan,bowl,Bangladesh,,Player_233,Marais Erasmus,Richard Kettleborough,194,204,10,3,32809,Clear,Flat,294
+M_2706_983,15-07-2021,SCG,Sri Lanka,India,Sri Lanka, BATTING,Sri Lanka,56 runs,Player_104,Simon Taufel,Simon Taufel,130,122,10,4,,Rainy,Dusty,351
+M_3063_762,10/29/2018,MCG,Afghanistan,New Zealand,New Zealand,Bat,Afghanistan,83,Player_256,Richard Kettleborough,Marais Erasmus,108,61,2,10,37775,Rainy,Dry,391
+M_5461_639,5/13/2015,Newlands,Afghanistan,Sri Lanka,Afghanistan,Fielding,Sri Lanka,47,Player_199,Marais Erasmus,,129,132,3,1,63168,Sunny,Dead,266
+M_6751_528,4/14/2015,SuperSport Park,India,Afghanistan,India,Field,,39,Player_91,Billy Bowden,,163,167,8,10,16382,Sunny,Green,276
+M_7491_346,7/31/2018,Lord's,West Indies,India,India,Bat,India,24,Player_81,Richard Kettleborough,Marais Erasmus,218,227,8,7,18489,Cloudy,Green,262
+M_5920_417,11/24/2015,SCG,West Indies,Australia,West Indies,bat,Australia,81,Player_55,Aleem Dar,Aleem Dar,366,376,3,3,7913,Clear,Dry,193
+M_2354_474,3/24/2016,Newlands,Australia,Pakistan,Pakistan, BATTING,Australia,119,Player_48,Ian Gould,Aleem Dar,278,287,7,4,72027,Cloudy,Dead,286
+M_9694_952,10/15/2019,Lord's,Australia,Pakistan,Pakistan,Field,Australia,103,Player_181,Simon Taufel,,185,160,1,3,53286,Clear,Dry,384
+M_3830_385,5/14/2018,Lord's,Pakistan,West Indies,Pakistan,bat,Pakistan,52,Player_112,Simon Taufel,,331,302,0,2,46513,Cloudy,Flat,291
+M_8695_953,10/5/2019,Lord's,Pakistan,Australia,Pakistan,Fielding,Pakistan,34,Player_180,Aleem Dar,Simon Taufel,244,234,9,9,48659,Clear,Dry,334
+M_7434_74,11/10/2016,SCG,Pakistan,Sri Lanka,Sri Lanka,Fielding,Sri Lanka,35,Player_213,Marais Erasmus,Billy Bowden,148,155,4,10,21631,,Dusty,392
+M_4277_601,8/10/2021,MCG,England,Pakistan,England,Bat,England,118,Player_168,Ian Gould,Marais Erasmus,219,197,3,4,5789,,Dead,377
+M_6867_536,7/1/2019,SuperSport Park,Sri Lanka,West Indies,Sri Lanka,Batting,,,Player_115,Richard Kettleborough,,225,229,0,9,55609,Clear,Dry,292
+M_5593_243,10/31/2020,SCG,South Africa,england,South Africa, BATTING,england,58,Player_244,Billy Bowden,,376,380,10,1,18824,Cloudy,Dusty,411
+M_6603_740,27-06-2021,SCG,Pakistan,New Zealand,Pakistan,Field,New Zealand,100,Player_36,Ian Gould,Aleem Dar,315,319,9,8,21208,Cloudy,Green,217
+M_5934_802,11/5/2021,Wankhede,New Zealand,England,New Zealand,bat,New Zealand,98,Player_207,Richard Kettleborough,,313,272,1,5,37662,,Dry,376
+M_3413_665,10/13/2019,Wankhede,New Zealand,Pakistan,Pakistan,Batting,Pakistan,105 runs,Player_54,Ian Gould,Ian Gould,168,176,7,8,32303,Rainy,Green,333
+M_3395_116,8/13/2021,Newlands,India,Sri Lanka,Sri Lanka,Batting,India,38 runs,Player_184,Simon Taufel,,146 (approx),102,3,9,26737,,Dead,324
+M_6150_312,2/1/2015,SCG,Australia,England,England,Fielding,Australia,7,Player_85,Simon Taufel,Marais Erasmus,396,362,6,5,28385,,Green,290
+M_7703_435,7/7/2015,SCG,South Africa,Pakistan,South Africa,Fielding,South Africa,53,Player_231,Aleem Dar,,311,322,8,7,22789,Overcast,Dusty,182
+M_7961_201,1/27/2022,Newlands,England,Sri Lanka,Sri Lanka,Batting,Sri Lanka,60,Player_292,Richard Kettleborough,Ian Gould,344,347,4,3,73562,Clear,Flat,311
+M_4784_136,5/18/2022,Wankhede,India,sri lanka,sri lanka,Bat,sri lanka,11,Player_99,Ian Gould,Ian Gould,284,291,0,9,39840,Overcast,Green,312
+M_6129_308,24-09-2020,Gabba,West Indies,Australia,Australia,Bat,Australia,101,Player_111,Marais Erasmus,Simon Taufel,291,296,2,5,10847,Clear,Unknown,335
+M_7364_430,11/10/2017,SCG,England,Bangladesh,Bangladesh,bowl,Bangladesh,95,Player_177,Aleem Dar,Ian Gould,360 (approx),367,8,4,80588,Cloudy,Green,195
+M_1651_660,5/28/2015,Wankhede,Afghanistan,India,India,Fielding,India,104,Player_237,Ian Gould,,265,267,7,6,70064,Clear,Dead,318
+M_8338_370,7/2/2022,SCG,West Indies,Australia,West Indies,Field,West Indies,108,Player_219,Marais Erasmus,Simon Taufel,150,159,5,8,78793,Rainy,Green,252
+M_6575_566,4/12/2019,Eden Gardens,New Zealand,Afghanistan,Afghanistan,Fielding,Afghanistan,18,Player_273,Aleem Dar,Billy Bowden,292,299,5,0,84900,Sunny,Flat,192
+M_9645_830,5/18/2022,Gabba,Pakistan,Afghanistan,Afghanistan, BATTING,Afghanistan,75,Player_202,Billy Bowden,Marais Erasmus,388,391,7,4,,Cloudy,Dry,183
+M_6635_0,1/31/2018,Eden Gardens,Australia,India,India,Bat,,26,Player_236,Ian Gould,,314,324,0,2,60392,Overcast,Dry,204
+M_3066_824,2/28/2019,Eden Gardens,Afghanistan,South Africa,South Africa,Bat,Afghanistan,47,Player_169,Simon Taufel,Aleem Dar,218,208,2,7,17983,Rainy,Dead,218
+M_9612_181,1/16/2022,MCG,Bangladesh,South Africa,South Africa,bowl,South Africa,69,Player_214,Marais Erasmus,Simon Taufel,106,111,7,6,49605,Cloudy,Green,392
+M_5788_971,3/12/2022,MCG,Bangladesh,West Indies,Bangladesh, BATTING,Bangladesh,83,Player_121,Richard Kettleborough,Billy Bowden,209,190,1,0,58917,Sunny,Dry,180
+M_8254_621,5/6/2019,,Afghanistan,India,India,bowl,India,4,Player_201,Aleem Dar,,265,270,2,1,,Clear,Flat,319
+M_1476_915,5/23/2021,Wankhede,Pakistan,Sri Lanka,Pakistan,bat,Sri Lanka,84,Player_240,Ian Gould,Marais Erasmus,274,279,8,1,19741,Rainy,Green,246
+M_5601_404,4/24/2015,Gabba,Pakistan,Sri Lanka,Pakistan,Batting,Pakistan,112,Player_156,Ian Gould,Richard Kettleborough,366,377,0,6,13694,Cloudy,Flat,274
+M_6224_612,10/25/2018,MCG,India,England,England,bowl,England,107,Player_300,Marais Erasmus,,264,272,2,0,71573,Clear,Dusty,258
+M_3568_813,4/8/2017,Lord's,South Africa,India,South Africa,Fielding,South Africa,,Player_232,Richard Kettleborough,Simon Taufel,242,210,4,6,55788,Cloudy,Dead,335
+M_6281_768,6/20/2015,Gabba,Pakistan,South Africa,South Africa,Field,,52,Player_82,Ian Gould,Marais Erasmus,212,217,9,5,80345,,Green,200
+M_8521_406,7/6/2022,Lord's,Afghanistan,Sri Lanka,Afghanistan,bowl,Sri Lanka,60,Player_131,Ian Gould,,249,253,10,5,28996,Overcast,Dry,363
+M_4872_778,21-03-2015,SuperSport Park,Sri Lanka,Australia,Sri Lanka,Bat,Sri Lanka,,Player_228,Marais Erasmus,Richard Kettleborough,378,376,5,5,17827,Sunny,Dusty,328
+M_2324_725,1/30/2018,Gabba,Pakistan,India,Pakistan,Field,India,15,Player_49,Simon Taufel,Richard Kettleborough,353,357,10,5,50686,Overcast,Dry,190
+M_4943_296,14-04-2016,Wankhede,West Indies,South Africa,West Indies,Bat,West Indies,16,Player_244,Marais Erasmus,Billy Bowden,194,145,9,10,62557,Rainy,Flat,227
+M_7598_973,10/20/2021,Eden Gardens,England,South Africa,South Africa,Bat,England,76,Player_127,Billy Bowden,Simon Taufel,356,311,1,10,64800,Sunny,Flat,307
+M_8559_461,11/2/2021,Newlands,Afghanistan,Pakistan,Pakistan,Field,Pakistan,12,Player_197,Ian Gould,,378,385,8,10,,Overcast,Flat,337
+M_5295_28,6/25/2016,Gabba,England,South Africa,England, BATTING,South Africa,103 runs,Player_56,Billy Bowden,,172,176,10,6,78048,Sunny,Flat,296
+M_7329_50,10/9/2020,SCG,England,West Indies,England,Batting,England,113,Player_61,Aleem Dar,Marais Erasmus,246,253,4,5,57855,Clear,Dusty,321
+M_7752_377,1/10/2022,Wankhede,Sri Lanka,England,Sri Lanka,Field,Sri Lanka,68,Player_173,Ian Gould,Billy Bowden,197,171,8,6,54127,Cloudy,Dead,346
+M_5627_798,5/3/2016,Eden Gardens,England,India,India,Fielding,Draw,26,Player_239,Richard Kettleborough,Marais Erasmus,358,360,10,5,47298,,Dead,345
+M_1227_603,2/28/2019,SCG,Australia,West Indies,Australia, BATTING,Australia,35,Player_95,Billy Bowden,Marais Erasmus,383,356,1,6,,Cloudy,Green,371
+M_5990_105,8/11/2016,Wankhede,West Indies,Afghanistan,West Indies,Batting,Afghanistan,57,Player_234,Richard Kettleborough,Simon Taufel,355,357,10,0,18453,,Flat,382
+M_5422_126,7/16/2018,SuperSport Park,Bangladesh,West Indies,West Indies,bat,Bangladesh,44,Player_196,Aleem Dar,,207,180,6,4,64077,,Green,388
+M_9841_636,8/7/2018,,Australia,Afghanistan,Australia,Fielding,Afghanistan,61 runs,Player_108,Ian Gould,Aleem Dar,400,401,5,4,20365,Cloudy,Dead,218
+M_4768_804,3/8/2021,MCG,South Africa,Sri Lanka,Sri Lanka,Batting,Sri Lanka,89,Player_92,Aleem Dar,Marais Erasmus,227,236,3,3,7581,Overcast,Green,192
+M_9436_887,2/9/2016,Lord's,Pakistan,England,England,Bat,Pakistan,33,Player_140,Marais Erasmus,Marais Erasmus,290,282,9,0,65482,Sunny,Green,265
+M_8257_132,11/8/2017,Eden Gardens,WEST INDIES,India,India,Field,India,108,Player_102,Marais Erasmus,Simon Taufel,236,238,2,3,37778,Sunny,Green,278
+M_2994_939,11/19/2017,Lord's,Australia,New Zealand,Australia, BATTING,Australia,,Player_72,Ian Gould,Aleem Dar,178,197,9,6,40162,Rainy,Dead,196
+M_2724_355,4/5/2016,SCG,Sri Lanka,Australia,Australia, BATTING,Australia,17,Player_95,Billy Bowden,Richard Kettleborough,149,159,3,8,22014,,Flat,363
+M_2412_459,7/11/2020,Gabba,West Indies,India,India,Field,West Indies,116,Player_8,Richard Kettleborough,Marais Erasmus,175,194,0,6,75860,Cloudy,Dusty,263
+M_5224_682,2/12/2015,Gabba,Australia,Sri Lanka,Australia, BATTING,Australia,20,Player_155,Ian Gould,Aleem Dar,313,318,8,0,14483,Cloudy,Flat,396
+M_7591_827,9/29/2016,MCG,South Africa,India,South Africa,Batting,South Africa,,Player_90,Marais Erasmus,Aleem Dar,224,236,3,10,28551,,Green,406
+M_9093_909,19-08-2020,Lord's,BANGLADESH,australia,BANGLADESH, BATTING,BANGLADESH,99,Player_162,Richard Kettleborough,Aleem Dar,211,185,7,4,50459,Overcast,Dead,216
+M_4728_977,4/26/2016,MCG,AUSTRALIA,India,India,bowl,,32 runs,Player_238,Marais Erasmus,Billy Bowden,316,326,7,10,38602,Sunny,Flat,246
+M_6807_209,4/11/2022,MCG,West Indies,pakistan,pakistan,bowl,pakistan,66,Player_230,Richard Kettleborough,Simon Taufel,181,190,3,4,60410,,Dusty,246
+M_4089_521,7/21/2019,SuperSport Park,India,Pakistan,India, BATTING,Pakistan,20 runs,Player_177,Simon Taufel,Ian Gould,301,302,4,4,44387,Rainy,Green,355
+M_2467_140,1/4/2016,SuperSport Park,West Indies,Bangladesh,Bangladesh,Bat,Bangladesh,90 runs,Player_217,Richard Kettleborough,Richard Kettleborough,386,393,3,8,85739,Cloudy,Dry,262
+M_6864_217,10/4/2017,Eden Gardens,West Indies,New Zealand,New Zealand,Batting,Draw,87,Player_64,Marais Erasmus,Aleem Dar,350,359,10,10,15161,Rainy,Dusty,388
+M_1722_395,1/23/2018,SuperSport Park,Afghanistan,Bangladesh,Afghanistan,bowl,Afghanistan,23,Player_287,Billy Bowden,Aleem Dar,122,107,7,3,,Cloudy,Dry,-9
+M_1783_362,6/1/2019,SCG,Afghanistan,Sri Lanka,Sri Lanka,Bat,Sri Lanka,86,Player_83,Aleem Dar,Ian Gould,192,198,6,0,64850,Overcast,Green,250
+M_2021_301,10/26/2017,MCG,South Africa,New Zealand,New Zealand,Batting,New Zealand,8,Player_289,Ian Gould,Simon Taufel,398,403,0,5,60234,Sunny,Dead,389
+M_5079_345,19-03-2017,SCG,Australia,West Indies,Australia,Field,West Indies,25,Player_226,Simon Taufel,Aleem Dar,333,338,9,4,69566,Rainy,Dusty,247
+M_2694_965,3/18/2015,Lord's,Pakistan,Australia,Australia,bat,Australia,56,Player_262,Ian Gould,,323,332,3,9,28315,Cloudy,Dusty,359
+M_1651_660,5/28/2015,Wankhede,Afghanistan,India,India,Fielding,India,104,Player_237,Ian Gould,,265,267,7,6,70064,Clear,Dead,318
+M_2575_711,7/25/2022,,New Zealand,England,England,Batting,England,80,Player_204,Billy Bowden,Aleem Dar,285,293,6,0,19944,Clear,Dusty,189
+M_3539_133,4/20/2020,MCG,Bangladesh,South Africa,South Africa,Fielding,South Africa,114 runs,Player_128,Aleem Dar,Billy Bowden,157,164,2,4,,Sunny,Dead,380
+M_4372_969,6/5/2017,MCG,South Africa,England,England,Fielding,England,111,Player_9,Ian Gould,Aleem Dar,263 (approx),265,2,7,46572,Rainy,Green,198
+M_4566_871,8/6/2022,MCG,Australia,Sri Lanka,Sri Lanka, BATTING,Sri Lanka,42,Player_59,Ian Gould,Marais Erasmus,205,208,6,10,57257,Sunny,Flat,182
+M_7843_956,23-04-2021,SCG,West Indies,afghanistan,West Indies,bat,afghanistan,10 runs,Player_101,Aleem Dar,Marais Erasmus,280,290,7,2,11575,Cloudy,Dusty,295
+M_4976_963,7/7/2018,Lord's,Afghanistan,Australia,Afghanistan,Bat,Australia,107,Player_6,Aleem Dar,Richard Kettleborough,220,229,0,2,24339,Overcast,Dry,302
+M_4114_10,12/3/2018,SuperSport Park,South Africa,west indies,South Africa, BATTING,South Africa,87,Player_1,Ian Gould,Ian Gould,114,101,4,0,19208,Overcast,Dead,209
+M_8377_659,8/15/2021,Eden Gardens,Sri Lanka,England,England, BATTING,England,19,Player_78,Aleem Dar,,274,281,9,0,60103,Rainy,Green,347
+M_5961_68,4/8/2018,Lord's,Sri Lanka,Pakistan,Sri Lanka, BATTING,Sri Lanka,70,Player_217,Marais Erasmus,,113,74,3,7,43185,,Dry,352
+M_5451_282,12/8/2015,MCG,England,South Africa,England,Fielding,South Africa,52,Player_197,Marais Erasmus,,201,206,1,9,82015,Rainy,Dry,288
+M_8363_810,2/26/2023,Gabba,Bangladesh,South Africa,South Africa,Fielding,South Africa,83,Player_252,Simon Taufel,,380,388,4,6,68020,,Dead,311
+M_8275_793,11/8/2018,SCG,ENGLAND,Bangladesh,ENGLAND,Fielding,Bangladesh,44,Player_68,Richard Kettleborough,Simon Taufel,396,405,4,2,52462,Cloudy,Flat,262
+M_7189_291,2/25/2015,SCG,Pakistan,West Indies,West Indies, BATTING,West Indies,3 runs,Player_279,Marais Erasmus,Ian Gould,212,215,0,3,80705,Overcast,Flat,229
+M_6379_931,1/3/2021,SCG,Pakistan,Australia,Pakistan,bat,Australia,44,Player_257,Marais Erasmus,Billy Bowden,339,348,10,1,49111,Cloudy,Dead,211
+M_6464_754,5/20/2020,SuperSport Park,England,India,England,bat,India,80,Player_188,Aleem Dar,Aleem Dar,123,128,6,5,57222,Cloudy,Dusty,267
+M_5334_626,5/3/2021,Wankhede,Afghanistan,Pakistan,Afghanistan,Fielding,Pakistan,15,Player_167,Ian Gould,Billy Bowden,300 (approx),309,2,0,36471,Cloudy,Dry,229
+M_9462_94,6/8/2015,Eden Gardens,Afghanistan,sri lanka,Afghanistan,bat,Afghanistan,63,Player_264,Aleem Dar,,216,180,5,4,59627,,Dry,369
+M_5086_966,7/9/2022,Newlands,Sri Lanka,South Africa,Sri Lanka,bowl,South Africa,116,Player_30,Richard Kettleborough,,218,228,9,3,14276,Clear,Flat,346
+M_9856_129,15-06-2019,Newlands,SOUTH AFRICA,England,SOUTH AFRICA,Field,England,11,Player_70,Billy Bowden,Ian Gould,258,263,2,2,74041,,Dusty,401
+M_5690_684,2/1/2022,Lord's,Bangladesh,West Indies,West Indies,Field,Bangladesh,,Player_61,Richard Kettleborough,Simon Taufel,383 (approx),393,10,7,44539,,Flat,380
+M_3623_843,18-06-2020,Wankhede,New Zealand,West Indies,West Indies,bowl,New Zealand,6,Player_48,Billy Bowden,,120,80,3,6,45523,Overcast,Dry,384
+M_8203_323,27-04-2021,Newlands,England,New Zealand,England, BATTING,New Zealand,79,Player_168,Richard Kettleborough,Simon Taufel,4598,4602,9,2,23786,Overcast,Flat,215
+M_1430_46,10/13/2022,Gabba,Afghanistan,New Zealand,New Zealand,Field,New Zealand,,Player_240,Ian Gould,,377,382,10,2,52381,,Green,240
+M_5620_944,1/14/2022,MCG,New Zealand,India,New Zealand,Bat,India,52,Player_92,Marais Erasmus,Richard Kettleborough,273,277,1,4,63590,Sunny,Flat,336
+M_2923_260,1/22/2022,MCG,Australia,England,Australia,bowl,Australia,39,Player_248,Marais Erasmus,Ian Gould,203 (approx),204,3,6,77154,Clear,Dusty,294
+M_6301_647,10/26/2017,MCG,Afghanistan,Australia,Afghanistan,bat,Afghanistan,78,Player_104,Ian Gould,Simon Taufel,104,63,5,1,48025,Cloudy,Flat,414
+M_3207_970,11/5/2019,SuperSport Park,South Africa,India,South Africa,Batting,,91,Player_33,Marais Erasmus,Marais Erasmus,290,291,2,1,70640,,Dead,202
+M_4965_978,12/5/2017,Newlands,Bangladesh,england,Bangladesh,bowl,Bangladesh,,Player_139,Aleem Dar,Aleem Dar,235,207,1,8,21344,Sunny,Dry,-33
+M_4018_695,10/8/2020,SuperSport Park,South Africa,England,South Africa,Bat,South Africa,83,Player_144,Billy Bowden,Ian Gould,215,173,0,0,12619,Clear,Dry,205
+M_3332_215,8/1/2015,Lord's,Sri Lanka,Australia,Sri Lanka,Bat,Sri Lanka,4,Player_126,Ian Gould,Ian Gould,109,117,8,10,21458,Sunny,Dead,232
+M_5413_876,1/31/2019,MCG,New Zealand,West Indies,New Zealand,bowl,New Zealand,5,Player_190,Marais Erasmus,,270,269,7,6,9891,Overcast,Unknown,206
+M_8733_227,2/17/2021,Lord's,Bangladesh,Afghanistan,Bangladesh,Batting,Bangladesh,99,Player_204,Aleem Dar,,170,121,0,4,41942,Rainy,Dead,373
+M_2880_814,6/5/2016,Wankhede,India,England,England,Field,England,85,Player_297,Aleem Dar,Ian Gould,122,124,10,2,71432,,Dry,-16
+M_3056_158,6/6/2016,MCG, Bangladesh ,Sri Lanka,Sri Lanka,bat, Bangladesh ,76,Player_9,Aleem Dar,Marais Erasmus,295,260,10,2,67242,Overcast,Green,253
+M_9698_908,7/15/2017,MCG,New Zealand,Afghanistan,New Zealand,Bat,Afghanistan,34,Player_112,Marais Erasmus,Ian Gould,200,208,7,9,76302,Sunny,Flat,417
+M_5901_805,2/7/2022,SuperSport Park,New Zealand,India,New Zealand,Bat,New Zealand,17,Player_157,Simon Taufel,,349,323,5,8,,Overcast,Flat,249
+M_7649_117,9/15/2015,Gabba,West Indies,South Africa,West Indies,Field,South Africa,67,Player_250,Marais Erasmus,Simon Taufel,234,244,10,6,52880,Sunny,Dry,412
+M_7934_411,5/29/2015,Wankhede,Bangladesh,South Africa,Bangladesh,bowl,South Africa,20,Player_9,Aleem Dar,Simon Taufel,242,245,4,2,,Clear,Green,253
+M_4167_841,1/30/2019,Eden Gardens,Afghanistan,Sri Lanka,Afghanistan,bowl,Sri Lanka,106,Player_2,Marais Erasmus,Aleem Dar,119 (approx),123,7,10,17826,Rainy,Flat,405
+M_1001_634,10/28/2015,Newlands,SOUTH AFRICA,England,England,Batting,England,107,Player_221,Simon Taufel,Ian Gould,201,205,0,3,44094,Overcast,Dry,253
+M_2106_516,7/11/2022,MCG,SOUTH AFRICA,Sri Lanka,SOUTH AFRICA,Batting,,77 runs,Player_268,Ian Gould,Billy Bowden,158,164,3,8,5802,Cloudy,Dead,365
+M_4089_521,7/21/2019,SuperSport Park,India,Pakistan,India, BATTING,Pakistan,20 runs,Player_177,Simon Taufel,Ian Gould,301,302,4,4,44387,Rainy,Green,355
+M_2832_833,5/1/2017,SuperSport Park,Sri Lanka,England,Sri Lanka,Bat,Sri Lanka,25,Player_114,Simon Taufel,Marais Erasmus,240,202,3,9,20037,Cloudy,Dead,187
+M_6076_597,6/28/2017,MCG,Australia,Bangladesh,Australia,Bat,Bangladesh,,Player_2,Richard Kettleborough,,151,153,5,8,55873,Cloudy,Dead,400
+M_5361_195,3/26/2015,Newlands,Sri Lanka,South Africa,South Africa,Batting,Sri Lanka,,Player_196,Aleem Dar,Aleem Dar,288 (approx),293,8,6,64468,Cloudy,Green,400
+M_2302_253,12/31/2022,Wankhede,India,Bangladesh,Bangladesh,bat,Bangladesh,24,Player_48,Aleem Dar,Simon Taufel,339,344,8,3,45001,,Dusty,396
+M_1512_975,31-01-2017,Newlands,Bangladesh,New Zealand,New Zealand, BATTING,Bangladesh,5,Player_72,Billy Bowden,Richard Kettleborough,364,332,8,8,75522,Cloudy,Green,384
+M_7275_950,9/3/2016,MCG,New Zealand,Pakistan,Pakistan, BATTING,Pakistan,,Player_63,Ian Gould,Simon Taufel,375,381,10,2,,Cloudy,Green,418
+M_5257_410,7/13/2019,Lord's,Sri Lanka,England,Sri Lanka,Fielding,England,83,Player_113,Ian Gould,Ian Gould,111,117,0,7,62185,Sunny,Dusty,238
+M_9380_96,6/25/2017,Gabba, Afghanistan ,South Africa,South Africa, BATTING,South Africa,103 runs,Player_288,Billy Bowden,Richard Kettleborough,256,261,6,5,65161,Clear,Dry,329
+M_1423_440,9/26/2019,Gabba,West Indies,Australia,West Indies, BATTING,,86,Player_161,Marais Erasmus,Ian Gould,115,118,10,9,,Sunny,Dead,345
+M_6564_549,9/10/2016,Wankhede,Pakistan,England,Pakistan,Bat,Pakistan,52,Player_55,Aleem Dar,Simon Taufel,178,176,4,10,,Overcast,Dead,-8
+M_8972_156,11/9/2020,Newlands,Pakistan,England,England, BATTING,Pakistan,32,Player_167,Ian Gould,,296,290,9,6,62062,Cloudy,Flat,369
+M_2349_419,9/15/2021,Eden Gardens,Pakistan,England,Pakistan,Fielding,Pakistan,90,Player_99,Aleem Dar,Marais Erasmus,101,117,5,10,51825,,Dusty,264
+M_9717_922,3/11/2017,Gabba,India,England,England,Fielding,England,41,Player_207,Ian Gould,,232,233,5,4,77609,,Dead,181
+M_8476_230,25-04-2017,SCG,Australia,Sri Lanka,Australia,Fielding,Sri Lanka,,Player_201,Ian Gould,Aleem Dar,173,180,3,8,48108,Rainy,Flat,368
+M_3017_477,1/10/2023,Lord's,India,South Africa,India,Bat,India,120,Player_246,Aleem Dar,Richard Kettleborough,287,291,0,4,14823,Sunny,Dry,418
+M_5520_288,8/26/2016,Newlands,New Zealand,australia,New Zealand,Field,australia,11,Player_266,Marais Erasmus,,303,312,7,4,,Rainy,Green,283
+M_1525_668,4/28/2015,Lord's,South Africa,Afghanistan,South Africa,bowl,Afghanistan,115,Player_69,Billy Bowden,Aleem Dar,335,342,6,6,,Rainy,Dusty,224
+M_1099_622,7/6/2019,SCG, India ,Australia, India , BATTING,Australia,11,Player_135,Aleem Dar,Richard Kettleborough,374,382,2,6,47317,Cloudy,Dry,368
+M_7624_14,8/27/2019,Newlands,South Africa,Australia,Australia,Fielding,Draw,62 runs,Player_66,Ian Gould,Marais Erasmus,299,306,8,9,33906,Rainy,Unknown,266
+M_4442_499,17-05-2020,Eden Gardens,West Indies,England,West Indies, BATTING,West Indies,49,Player_296,Ian Gould,Aleem Dar,167,159,2,8,35862,Cloudy,Dead,-40
+M_5788_447,9/12/2021,SuperSport Park,Bangladesh,England,Bangladesh,bowl,Bangladesh,54,Player_272,Marais Erasmus,Simon Taufel,209,185,0,1,45793,Clear,Dead,253
+M_8493_553,3/16/2017,Wankhede,India,Pakistan,India,bowl,India,116,Player_117,Aleem Dar,Aleem Dar,281,281,9,2,78997,,Dead,358
+M_3668_967,7/23/2020,Gabba,West Indies,India,India,bowl,India,45,Player_173,Simon Taufel,,312,314,0,5,80864,Overcast,Dusty,251
+M_8249_178,3/4/2015,SuperSport Park,New Zealand,South Africa,South Africa,Field,New Zealand,117,Player_213,Aleem Dar,Ian Gould,318 (approx),291,5,5,45381,Sunny,Dry,369
+M_7760_390,8/3/2016,MCG,West Indies,Pakistan,West Indies,bat,Pakistan,97,Player_253,Marais Erasmus,Ian Gould,128,131,1,2,,Cloudy,Dusty,271
+M_3625_578,8/26/2017,Wankhede,Afghanistan,pakistan,Afghanistan,Fielding,Draw,4 runs,Player_277,Marais Erasmus,Billy Bowden,169,179,0,7,33336,,Flat,347
+M_6896_645,10/26/2019,Wankhede,Sri Lanka,South Africa,South Africa,bat,South Africa,,Player_112,Aleem Dar,Aleem Dar,195,203,1,8,39781,,Dead,227
+M_9049_197,7/12/2022,Lord's,New Zealand,Sri Lanka,Sri Lanka,bat,Sri Lanka,19,Player_285,Billy Bowden,Marais Erasmus,165,170,6,4,39500,Overcast,Dry,408
+M_2588_990,14-01-2021,Eden Gardens,Bangladesh,afghanistan,afghanistan,Field,Bangladesh,,Player_152,Ian Gould,Marais Erasmus,362,328,5,8,68516,Overcast,Flat,330
+M_2335_38,2/28/2016,Lord's,India,West Indies,India,bowl,India,48,Player_180,Richard Kettleborough,Billy Bowden,273,287,10,5,13639,Rainy,Dead,403
+M_2773_946,1/10/2016,Wankhede,Australia,Bangladesh,Australia, BATTING,Bangladesh,30 runs,Player_17,Aleem Dar,Marais Erasmus,239,249,1,6,48364,,Dusty,228
+M_7816_103,10/11/2019,Newlands,Pakistan,afghanistan,afghanistan,Batting,Pakistan,94 runs,Player_292,Billy Bowden,Ian Gould,193,162,4,6,67684,Cloudy,Flat,396
+M_4277_811,1/11/2019,Newlands,New Zealand,Pakistan,New Zealand,bat,New Zealand,84,Player_286,Marais Erasmus,,1330,1333,5,6,48421,Rainy,Dry,383
+M_6078_820,12/11/2019,Wankhede,India,New Zealand,New Zealand,bowl,New Zealand,9,Player_19,Marais Erasmus,Simon Taufel,226 (approx),228,0,7,,,Green,347
+M_7598_973,10/20/2021,Eden Gardens,England,South Africa,South Africa,Bat,England,76,Player_127,Billy Bowden,Simon Taufel,356,311,1,10,64800,Sunny,Flat,307
+M_4105_961,2/25/2023,SCG,AUSTRALIA,Pakistan,AUSTRALIA,Batting,AUSTRALIA,14,Player_87,Marais Erasmus,Simon Taufel,398,384,4,1,,,Dusty,357
+M_7639_502,2/28/2019,Newlands,India,Sri Lanka,India,bat,India,105,Player_8,Ian Gould,,340,359,8,3,61347,Clear,Dead,365
+M_3142_224,3/21/2017,Wankhede,India,South Africa,India,Batting,,87 runs,Player_273,Marais Erasmus,Richard Kettleborough,156,160,3,5,53804,Clear,Flat,210
+M_1429_144,9/2/2022,SCG,England,Bangladesh,England, BATTING,England,72,Player_291,Ian Gould,,194,196,5,6,58903,Overcast,Green,207
+M_8378_664,6/28/2018,Eden Gardens,New Zealand,India,New Zealand,Field,India,120,Player_73,Aleem Dar,Richard Kettleborough,265,269,7,1,47506,Clear,Flat,329
+M_8373_992,11/16/2017,Gabba,Sri Lanka,West Indies,Sri Lanka,Fielding,West Indies,47,Player_111,Marais Erasmus,Simon Taufel,138 (approx),140,10,6,64995,Overcast,Dead,294
+M_1352_142,11/12/2017,,Bangladesh,India,India,Bat,Bangladesh,,Player_272,Richard Kettleborough,Marais Erasmus,297,269,1,5,68525,Cloudy,Dry,323
+M_7287_574,5/22/2021,SCG,Afghanistan,India,Afghanistan,bat,India,31,Player_18,Aleem Dar,Aleem Dar,375,383,7,1,64442,Rainy,Dead,210
+M_9167_22,2/13/2022,Eden Gardens,England,Sri Lanka,England,Batting,England,,Player_105,Richard Kettleborough,Richard Kettleborough,145,124,6,8,5150,Rainy,Dead,272
+M_6411_864,1/13/2019,Newlands,Bangladesh,Australia,Bangladesh,Fielding,Bangladesh,2,Player_225,Simon Taufel,,363,350,6,7,34919,Clear,Green,252
+M_5131_421,22-11-2015,Newlands,England,India,England,bowl,England,92,Player_238,Billy Bowden,Billy Bowden,382,364,3,7,9434,Overcast,Flat,395
+M_9841_636,8/7/2018,,Australia,Afghanistan,Australia,Fielding,Afghanistan,61 runs,Player_108,Ian Gould,Aleem Dar,400,401,5,4,20365,Cloudy,Dead,218
+M_1225_690,5/30/2015,Gabba,England,Bangladesh,England, BATTING,England,4,Player_283,Richard Kettleborough,Marais Erasmus,385,391,1,3,86338,Overcast,Green,390
+M_6613_799,6/22/2018,Newlands,New Zealand,Australia,New Zealand,Batting,New Zealand,9,Player_266,Marais Erasmus,,340,330,10,6,65435,Overcast,Dusty,230
+M_2906_525,8/16/2018,Gabba,Sri Lanka,England,Sri Lanka,Batting,Sri Lanka,100,Player_159,Aleem Dar,Simon Taufel,236,241,4,0,39704,Cloudy,Green,420
+M_4277_615,8/13/2015,SuperSport Park,Australia,Sri Lanka,Sri Lanka,bat,Australia,35,Player_179,Richard Kettleborough,Richard Kettleborough,317,309,3,3,,Clear,Flat,291
+M_3303_294,8/30/2022,SCG,Afghanistan,England,Afghanistan,bowl,Afghanistan,13 runs,Player_125,Ian Gould,Aleem Dar,260,235,6,7,60116,Clear,Unknown,376
+M_8704_839,6/21/2017,SCG,Sri Lanka,India,India,Batting,India,79,Player_299,Ian Gould,Billy Bowden,153,158,9,7,56894,,Dead,182
+M_9115_295,5/5/2021,Lord's,Afghanistan,Bangladesh,Afghanistan, BATTING,Bangladesh,107,Player_155,Billy Bowden,Simon Taufel,149,159,5,0,20917,Sunny,Dead,216
+M_7034_401,5/28/2020,MCG,Australia,South Africa,South Africa,Bat,Australia,64,Player_215,Marais Erasmus,,159,162,9,9,8103,Rainy,Unknown,314
+M_5825_88,8/28/2016,Eden Gardens,India,Afghanistan,Afghanistan,bat,Afghanistan,42 runs,Player_294,Marais Erasmus,Ian Gould,323,331,2,8,85440,Clear,Dry,258
+M_8740_41,12/23/2022,Lord's,Bangladesh,Australia,Australia,Batting,Australia,,Player_241,Marais Erasmus,Simon Taufel,127,133,1,5,,Overcast,Green,189
+M_1431_748,7/12/2016,Wankhede,Pakistan,New Zealand,New Zealand,bowl,Pakistan,76,Player_269,Richard Kettleborough,Billy Bowden,2544,2506,10,0,61784,,Dry,412
+M_4383_600,5/20/2018,Wankhede, New Zealand ,Australia,Australia,bat, New Zealand ,19,Player_281,Marais Erasmus,Billy Bowden,364,379,6,4,,Rainy,Green,302
+M_9764_131,10/30/2016,,Sri Lanka,South Africa,South Africa,Fielding,South Africa,37,Player_53,Richard Kettleborough,Billy Bowden,237,239,4,1,88478,Clear,Dusty,184
+M_1735_573,23-12-2017,SuperSport Park,New Zealand,Sri Lanka,Sri Lanka,Bat,No Result,54,Player_134,Billy Bowden,Billy Bowden,360,365,10,4,,Cloudy,Green,-24
+M_8244_409,18-02-2018,Gabba,England,South Africa,South Africa,Field,England,57,Player_74,Billy Bowden,,296 (approx),268,4,3,69424,Overcast,Dry,309
+M_7291_77,10/18/2015,SuperSport Park,England,West Indies,England,Field,West Indies,19 runs,Player_162,Aleem Dar,,184,188,2,6,85750,Sunny,Green,372
+M_6431_378,11/4/2019,Gabba,Sri Lanka,Bangladesh,Sri Lanka,bowl,Bangladesh,103,Player_183,Aleem Dar,Aleem Dar,339,342,7,5,85000,Sunny,Flat,-47
+M_1045_850,6/5/2018,MCG,Sri Lanka,Afghanistan,Sri Lanka,Fielding,Sri Lanka,34 runs,Player_242,Simon Taufel,Billy Bowden,221,207,6,0,16107,,Dusty,-22
+M_1964_4,12/21/2020,Eden Gardens,West Indies,Australia,Australia,Field,Australia,92,Player_170,Simon Taufel,Richard Kettleborough,291,300,3,3,13392,Cloudy,Flat,198
+M_6416_724,9/16/2017,MCG,Pakistan,India,Pakistan,Bat,India,44 runs,Player_58,Aleem Dar,,387,391,1,2,65816,Cloudy,Dry,338
+M_3166_797,6/4/2017,,SOUTH AFRICA,bangladesh,SOUTH AFRICA,Field,bangladesh,35,Player_67,Richard Kettleborough,,356,366,0,1,,,Dead,396
+M_8821_269,8/23/2020,SuperSport Park,India,England,England,bat,England,,Player_195,Aleem Dar,,293,296,6,9,12339,Clear,Flat,389
+M_4423_872,8/8/2018,Eden Gardens,New Zealand,India,India,Batting,New Zealand,64 runs,Player_101,Billy Bowden,Billy Bowden,343 (approx),319,7,7,50449,Rainy,Flat,391
+M_6952_917,5/4/2020,Eden Gardens,Bangladesh,West Indies,West Indies,bat,Bangladesh,29,Player_49,Simon Taufel,,112,63,2,6,69407,Clear,Dry,397
+M_2536_512,22-03-2022,Gabba,Pakistan,Afghanistan,Pakistan,Field,Pakistan,93 runs,Player_90,Ian Gould,Aleem Dar,396,381,0,3,,Overcast,Dead,256
+M_3093_587,13-03-2015,Lord's,Pakistan,West Indies,West Indies,Batting,West Indies,9,Player_235,Simon Taufel,,267,268,6,1,,Cloudy,Dry,-45
+M_7349_375,9/18/2015,MCG, New Zealand ,Bangladesh, New Zealand , BATTING, New Zealand ,41 runs,Player_115,Billy Bowden,,309,327,2,5,,Cloudy,Unknown,180
+M_5224_333,10/20/2016,Newlands,Sri Lanka,India,India,Field,Sri Lanka,15,Player_223,Simon Taufel,Simon Taufel,330,290,8,5,19637,Clear,Flat,-5
+M_6385_235,10/4/2015,Gabba,Pakistan,West Indies,Pakistan,Fielding,Draw,16,Player_21,Ian Gould,Marais Erasmus,224,225,7,4,31478,Sunny,Dead,293
+M_5074_317,4/24/2017,Eden Gardens,England,Bangladesh,Bangladesh,bowl,England,46,Player_11,Ian Gould,,125,99,2,8,56842,Cloudy,Dusty,285
+M_9201_910,4/9/2017,Lord's,England,Pakistan,England,Bat,England,71,Player_29,Billy Bowden,Aleem Dar,341,328,7,6,54766,Clear,Dead,306
+M_4168_776,5/26/2017,Wankhede,Pakistan,West Indies,Pakistan,Fielding,Pakistan,108,Player_110,Billy Bowden,Billy Bowden,254,228,1,10,58580,Clear,Dusty,340
+M_4779_784,1/29/2017,Eden Gardens,AUSTRALIA,Sri Lanka,AUSTRALIA,Bat,Sri Lanka,6,Player_199,Richard Kettleborough,Ian Gould,182,187,6,4,85577,Clear,Dry,189
+M_5406_328,12/26/2016,Wankhede,New Zealand,South Africa,New Zealand, BATTING,South Africa,5,Player_133,Aleem Dar,Simon Taufel,179,183,6,5,89673,Cloudy,Dead,321
+M_2269_320,11/30/2021,Eden Gardens,England,Sri Lanka,England,Field,England,73,Player_83,Ian Gould,Aleem Dar,237,195,5,10,35898,Clear,Flat,415
+M_3881_12,3/8/2018,Newlands,England,Australia,Australia,Batting,Australia,,Player_26,Ian Gould,,312,322,6,7,57383,Sunny,Flat,379
+M_3007_897,12/4/2020,MCG,Pakistan,New Zealand,Pakistan,Bat,New Zealand,6,Player_219,Simon Taufel,,314,321,4,9,12680,Rainy,Dry,368
+M_4546_171,10/3/2019,Newlands,England,Sri Lanka,England,Batting,England,60,Player_143,Simon Taufel,Billy Bowden,275,258,10,9,27273,Cloudy,Dead,305
